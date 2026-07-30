@@ -14,7 +14,7 @@ MAX_ITEMS = 24
 
 QUERIES = [
     ("AI / machine learning", 'all:"machine learning" OR all:"deep learning" OR all:"large language model" OR all:"foundation model"'),
-    ("Biology / biotech", 'all:biolog* OR all:protein OR all:antibody OR all:"cell therapy" OR all:"gene editing"'),
+    ("Biology / biotech", 'all:biology OR all:protein OR all:antibody OR all:"cell therapy" OR all:"gene editing"'),
     ("Microscopy / imaging", 'all:microscopy OR all:"image analysis" OR all:"cryo-EM" OR all:"electron microscopy" OR all:imaging'),
     ("Materials science", 'all:"materials science" OR all:polymer OR all:nanomaterial OR all:degradation OR all:surface'),
     ("Analytical chemistry", 'all:"mass spectrometry" OR all:chromatography OR all:spectroscopy OR all:FTIR OR all:Raman'),
