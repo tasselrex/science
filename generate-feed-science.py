@@ -22,7 +22,7 @@ QUERIES = [
 ]
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; ConsciousnessFeed/1.0; +https://github.com/tasselrex/AIResearchFeed)"
+    "User-Agent": "Mozilla/5.0 (compatible; ConsciousnessFeed/1.0; +https://github.com/tasselrex/science)"
 }
 
 def clean(s: str | None) -> str:
