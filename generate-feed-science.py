@@ -93,11 +93,11 @@ def arxiv_url(query: str) -> str:
     params = {
         "search_query": query,
         "start": "0",
-        "max_results": "10",
+        "max_results": "50",
         "sortBy": "submittedDate",
         "sortOrder": "descending",
     }
-    return base + "?" + urllib.parse.urlencode(params, safe=':" OR')
+    return base + "?" + urllib.parse.urlencode(params)
 
 def main():
     all_items = []
