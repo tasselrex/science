@@ -1,12 +1,198 @@
 {
-  "updatedAt": "2026-07-30T08:46:25.391630+00:00",
-  "items": [],
-  "errors": [
-    "AI / machine learning: HTTP Error 400: Bad Request",
-    "Biology / biotech: HTTP Error 400: Bad Request",
-    "Microscopy / imaging: HTTP Error 400: Bad Request",
-    "Materials science: HTTP Error 400: Bad Request",
-    "Analytical chemistry: HTTP Error 400: Bad Request",
-    "Regulatory / pharma: HTTP Error 400: Bad Request"
-  ]
+  "updatedAt": "2026-07-30T15:35:01.474480+00:00",
+  "items": [
+    {
+      "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+      "summary": "Vision-language-action (VLA) models commonly adopt an LLM-centric $V \\to L \\to A$ pathway, where visual observations are projected into the representation space of a large languag\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27205v1",
+      "authors": "Hengyi Xie, Chenfei Yao, Xianjin Wu"
+    },
+    {
+      "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
+      "summary": "Pre-training followed by fine-tuning has become the dominant recipe for learning performant policies, and in value-based reinforcement learning (RL) this raises a natural question\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27203v1",
+      "authors": "Perry Dong, Ron Polonsky, Dorsa Sadigh"
+    },
+    {
+      "title": "From Classification to Regression: Using a Fruitfly to Solve Equations",
+      "summary": "We present a novel approach to regression tasks using classification which is motivated by the mechanism used by fruitflies to sense their environment. Specifically, we formulate\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27196v1",
+      "authors": "Shady E. Ahmed, Panos Stinis"
+    },
+    {
+      "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
+      "summary": "Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations eith\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27191v1",
+      "authors": "Peter Kirgis, Sayash Kapoor, Andrew Schwartz"
+    },
+    {
+      "title": "Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes",
+      "summary": "Accurate option prices do not imply accurate recovery of the latent risk-neutral density. We study this distinction with two complementary benchmarks. A controlled benchmark expos\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27188v1",
+      "authors": "Lennon J. Shikhman, Michael Galarnyk, Aadi Dash"
+    },
+    {
+      "title": "Pangram 4 Technical Report",
+      "summary": "We present Pangram 4, the latest deep-learning-based AI-text classification model from Pangram Labs. We achieve an AUROC of 0.9916 with a false positive rate of 0.0041% and a fals\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27183v1",
+      "authors": "Ben Glickenhaus, Katherine Thai, Jenna Russell"
+    },
+    {
+      "title": "GraphQAG: A Knowledge-Graph-Guided Visual Analytics Framework for Question-Answer Pairs Generation",
+      "summary": "Question-answer (QA) pairs are widely used in knowledge base construction, question-answering systems, and the post-training of large language models (LLMs). However, important kn\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27182v1",
+      "authors": "Yize Li, Ruiqi Yu, Tianya Pan"
+    },
+    {
+      "title": "Improving Item Discoverability in e-Commerce Search via Related Intent Generation",
+      "summary": "Traditional search systems are optimized to retrieve items that strictly match a query, often prioritizing precision over recall. In e-commerce marketplaces and particularly groce\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27172v1",
+      "authors": "Ji Xin, Xiao Xiao, Ishan Bhatt"
+    },
+    {
+      "title": "When Do Learned Diffusion Proposals Help Constraint Solving? A Controlled Study on Continuous Algebraic Systems",
+      "summary": "Solving a continuous algebraic constraint system requires two decisions: which values satisfy the constraints, and which structural augmentation renders an unsolvable system solva\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27169v1",
+      "authors": "Quang Bui, Sparsh Roy, Akash Gundimeda"
+    },
+    {
+      "title": "Materials Behavior as Mechanism Ensembles: A Probabilistic Framework for Emergent Behaviors",
+      "summary": "Materials behavior is often treated as a deterministic mapping from structure to properties, yet many important phenomena emerge from the conditional activation of multiple mechan\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27163v1",
+      "authors": "Brad L. Boyce, Mitchell A. Wood, Krishna Garikipati"
+    },
+    {
+      "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
+      "summary": "Large language model (LLM) agents are increasingly expected to assist users in completing tasks. However, existing benchmarks provide limited support for evaluating whether agents\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27155v1",
+      "authors": "Jingbo Zhou, Yusai Zhao, Qi Bao"
+    },
+    {
+      "title": "Anatomy Contextualized Adaption of CT Foundation Models",
+      "summary": "CT vision-language foundation models have demonstrated promising performance across downstream tasks, but are typically trained with whole-volume representations that dilute fine-\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27154v1",
+      "authors": "Roshan Kenia, Stephanie L McNamara, William Lotter"
+    },
+    {
+      "title": "Skillful forecasting of offshore winds from satellite scatterometer constellations",
+      "summary": "Accurate intraday forecasts of offshore wind are becoming increasingly important for power system operation and the integration of growing shares of offshore wind energy. Operatio\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27152v1",
+      "authors": "Francesco Pinto, Luca Lanzilao, Paco Lopez Dekker"
+    },
+    {
+      "title": "MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis",
+      "summary": "Coding agents have made substantial progress on software engineering tasks that modify existing codebases, including bug fixing and feature implementation. However, constructing a\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27146v1",
+      "authors": "Yihao Chen, Shi Chang, Khaled Chawa"
+    },
+    {
+      "title": "Explainable and Resource-Efficient Spatial Reasoning in Multimodal LLMs for Decision-Critical Applications",
+      "summary": "As Multimodal Large Language Models (MLLMs) are increasingly deployed in decision-critical pipelines such as robotics, embodied AI, and safety monitoring, the opacity of their spa\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27145v1",
+      "authors": "Piyush Jain, Kousik Dasgupta, Rajarshi Roy"
+    },
+    {
+      "title": "Cost-Sensitive Conformal Prediction and Human-in-the-Loop Abstention for Imbalanced High-Stakes Decision Support: A Multi-Domain Benchmark",
+      "summary": "High-stakes decision systems in credit scoring, fraud detection, healthcare, and industrial safety require reliable uncertainty quantification under severe class imbalance and asy\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27143v1",
+      "authors": "Manpreet Singh, Akshatha Srikantha, Shyamal Lakhanpal"
+    },
+    {
+      "title": "Investigating reservoir computing for branch predictionin pipelined processors using emerging CMOS memristor devices",
+      "summary": "This project aimed to develop a novel reservoir compute (RC) implementation framework targeting high-speed operation and integration with CMOS digital logic. With the target workl\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27140v1",
+      "authors": "Harvey Samuel George Johnson, Sendy Phang"
+    },
+    {
+      "title": "SeasonStereo: Robust Dense Stereo Matching for Multi-Date Satellite Imagery via Generative AI",
+      "summary": "Accurate 3D reconstruction from satellite imagery typically relies on near-simultaneous stereo pairs, limiting its applicability to diachronic settings where multi-date images exh\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27139v1",
+      "authors": "\u00c1lvaro D\u00edaz-Laureano, Roger Mar\u00ed, El\u00edas Masquil"
+    },
+    {
+      "title": "Linguistic Monoculture in LLM-Assisted Language Use",
+      "summary": "Writing and communication are increasingly mediated by large language models (LLMs) that are being used to draft, revise and polish text. Although such assistance can improve clar\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27134v1",
+      "authors": "Suhas Thejaswi, Juhi Kulshreshta, Lutz Oettershagen"
+    },
+    {
+      "title": "Minimal Markovization via Stable Quotients in Holonomy-Cover Decision Processes",
+      "summary": "An agent acting under partial observability must retain a recursively updateable statistic of history that restores the Markov property, but the smallest such statistic is general\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27132v1",
+      "authors": "Zuyuan Zhang, Yongshan Chen, Mahdi Imani"
+    },
+    {
+      "title": "AgentMap: Joint Equivalence and Subsumption Discovery for Ontology Matching",
+      "summary": "Ontology matching (OM) has traditionally been formulated as either equivalence discovery or subsumption matching. The existing OM systems identify only one type of semantic corres\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27130v1",
+      "authors": "Yiping Song, Jiaoyan Chen, Renate Schmidt"
+    },
+    {
+      "title": "Voronoi Histograms for Adaptive Vectorization of Expected Persistence Diagrams",
+      "summary": "Persistence Diagram (PD) is known to capture point cloud topology effectively, but its computation has high time complexity. Expected Persistence Diagram (EPD) has been developed\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27126v1",
+      "authors": "Kaifeng Zhang, Kai Ming Ting"
+    },
+    {
+      "title": "Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection",
+      "summary": "The growing capability of image generation models has made synthetic images a routine presence in open media, making robust and generalizable AI-Generated Image (AIGI) detection i\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27113v1",
+      "authors": "Hao Tan, Jun Lan, Zichang Tan"
+    },
+    {
+      "title": "MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning",
+      "summary": "With the development of audio large language models (AudioLLMs), audio captioning needs to move from brief descriptions toward open-ended and fine-grained free-form descriptions.\u2026",
+      "source": "AI / machine learning",
+      "date": "2026-07-29",
+      "link": "https://arxiv.org/abs/2607.27109v1",
+      "authors": "Weijie Wu, Junbo Li, Lin Li"
+    }
+  ],
+  "errors": []
 }
