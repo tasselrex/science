@@ -21,7 +21,7 @@ jobs:
           python-version: "3.11"
 
       - name: Generate feed.json
-        run: python generate-feed.py
+        run: python generate-feed-consciousness.py
 
       - name: Commit updated feed
         run: |
