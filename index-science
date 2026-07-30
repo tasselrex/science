@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>science</title>
+  <style>
+    :root {
+      --bg: #090d12;
+      --card: #101722;
+      --text: #eef4ff;
+      --muted: #8b9bb2;
+      --accent: #8ec5ff;
+      --accent-2: #b6f0d0;
+      --line: #1f2b3c;
+      --warn: #ffb3b3;
+    }
+    * { box-sizing: border-box; }
+    html, body {
+      width: 100%; height: 100%; margin: 0;
+      background: var(--bg); color: var(--text);
+      font-family: Inter, Segoe UI, Arial, sans-serif;
+      overflow: hidden;
+    }
+    a { color: inherit; text-decoration: none; }
+    .wrap { width: 100%; height: 100%; padding: 12px; }
+    .panel {
+      width: 100%; height: 100%;
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      background: linear-gradient(180deg, #111926 0%, #0c131c 100%);
+      padding: 10px; overflow: hidden; position: relative;
+    }
+    .header {
+      display: flex; justify-content: space-between; align-items: baseline;
+      gap: 10px; padding-bottom: 8px; margin-bottom: 10px;
+      border-bottom: 1px solid var(--line);
+    }
+    .title { font-size: 16px; font-weight: 800; line-height: 1.1; }
+    .subtitle { font-size: 11px; color: var(--muted); margin-top: 2px; }
+    .status { font-size: 11px; color: var(--accent-2); white-space: nowrap; margin-left: auto; }
+.grid {
+    display: grid;
+    gap: 8px;
+    height: calc(100vh - 120px);
+    overflow-y: auto;
+    overflow-x: hidden;
+
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.grid::-webkit-scrollbar {
+    display: none;
+}
+    .item {
+      background: rgba(255,255,255,0.02);
+      border: 1px solid rgba(31,43,60,0.9);
+      border-radius: 14px;
+      padding: 9px 10px;
+    }
+    .headline {
+      font-size: 13px; line-height: 1.25; font-weight: 700; margin-bottom: 4px;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .meta {
+      display: flex; flex-wrap: wrap; gap: 6px; align-items: center;
+      font-size: 10px; color: var(--muted); margin-bottom: 4px;
+    }
+    .tag { color: var(--accent); font-weight: 700; }
+    .summary {
+      font-size: 11px; line-height: 1.3; color: var(--text); opacity: 0.95;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .footer { position: absolute; right: 14px; bottom: 10px; font-size: 10px; color: var(--muted); }
+    .error { color: var(--warn); font-size: 11px; margin-top: 8px; white-space: pre-wrap; }
+    .chips { display:flex; flex-wrap:wrap; gap:6px; margin-top:6px; }
+    .chip {
+      font-size: 10px; color: var(--accent-2);
+      border: 1px solid rgba(142,197,255,0.24);
+      background: rgba(142,197,255,0.06);
+      border-radius: 999px; padding: 3px 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="panel">
+      <div class="header">
+        <div>
+          <div class="title">sciences</div>
+          <div class="subtitle">ladida · ladida · ladida · ladida · ladida</div>
+          <div class="chips">
+            <span class="chip">materials</span>
+            <span class="chip">forensics</span>
+          </div>
+        </div>
+        <div class="status" id="status">loading…</div>
+      </div>
+
+      <div class="grid" id="items"></div>
+      <div class="error" id="error" style="display:none;"></div>
+      <div class="footer" id="updated"></div>
+    </div>
+  </div>
+
+  <script>
+    const SAMPLE = [
+      {
+        title: "Sample: global workspace and access consciousness",
+        source: "sample",
+        date: new Date().toISOString().slice(0, 10),
+        summary: "This page is waiting for a generated feed.json file from GitHub Actions.",
+        link: "#"
+      },
+      {
+        title: "Sample: anesthesia and neural correlates of consciousness",
+        source: "sample",
+        date: new Date().toISOString().slice(0, 10),
+        summary: "Once feed.json is refreshed, these sample items will be replaced.",
+        link: "#"
+      },
+      {
+        title: "Sample: meditation, awareness, and altered states",
+        source: "sample",
+        date: new Date().toISOString().slice(0, 10),
+        summary: "The widget can still render even before the first scheduled run.",
+        link: "#"
+      },
+      {
+        title: "Sample: machine consciousness and philosophy of mind",
+        source: "sample",
+        date: new Date().toISOString().slice(0, 10),
+        summary: "Use this as the XENEON Edge page URL after GitHub Pages is enabled.",
+        link: "#"
+      }
+    ];
+
+    function esc(s) {
+      return String(s ?? "")
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#39;");
+    }
+
+    function render(items) {
+      const root = document.getElementById("items");
+      root.innerHTML = "";
+      const list = (Array.isArray(items) && items.length ? items : SAMPLE).slice(0, 50);
+      for (const item of list) {
+        const div = document.createElement("div");
+        div.className = "item";
+        div.innerHTML = `
+          <div class="headline"><a href="${item.link || '#'}" target="_blank" rel="noreferrer">${esc(item.title || "Untitled")}</a></div>
+          <div class="meta"><span class="tag">${esc(item.source || "source")}</span><span>·</span><span>${esc(item.date || "")}</span></div>
+          <div class="summary">${esc(item.summary || "")}</div>
+        `;
+        root.appendChild(div);
+      }
+    }
+
+    async function loadFeed() {
+      const errorBox = document.getElementById("error");
+      try {
+        const res = await fetch("./feed.json", { cache: "no-store" });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        const items = data.items || data;
+        render(items);
+        document.getElementById("status").textContent = "live";
+        errorBox.style.display = "none";
+        document.getElementById("updated").textContent =
+          `Updated ${new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })}`;
+      } catch (err) {
+        render(SAMPLE);
+        document.getElementById("status").textContent = "sample mode";
+        errorBox.style.display = "block";
+        errorBox.textContent =
+          "Could not load feed.json yet.\n" +
+          "This usually means the GitHub Action has not run, or Pages has not refreshed.\n\n" +
+          String(err);
+        document.getElementById("updated").textContent = "Refreshes every 30 minutes";
+      }
+    }
+
+    loadFeed();
+    setInterval(loadFeed, 30 * 60 * 1000);
+
+    const container = document.getElementById("items");
+
+let direction = 1;
+
+setInterval(() => {
+    container.scrollTop += direction;
+
+    if (container.scrollTop + container.clientHeight >= container.scrollHeight) {
+        direction = -1;
+    }
+
+    if (container.scrollTop <= 0) {
+        direction = 1;
+    }
+}, 40);
+  </script>
+</body>
+</html>
