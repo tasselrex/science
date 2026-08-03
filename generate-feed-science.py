@@ -13,7 +13,7 @@ OUT = Path("feed.json")
 MAX_ITEMS = 200
 
 QUERIES = [
-    ("Superconductivity", "all:superconductor OR all:superconductivity OR cat:cond-mat.supr-con"),
+    ("Superconductivity", 'all:superconductor OR all:superconductivity OR cat:cond-mat.supr-con OR all:"Josephson junction"'),
     ("Quantum", 'cat:quant-ph OR all:"quantum computing" OR all:"quantum information"'),
     ("Tribology", "all:tribology OR all:friction OR all:wear OR all:lubrication"),
     ("Materials science", "cat:cond-mat.mtrl-sci OR all:polymer OR all:nanomaterial OR all:materials"),
