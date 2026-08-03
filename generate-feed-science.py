@@ -30,10 +30,7 @@ QUERIES = [
         "Tribology",
         'all:tribology OR all:friction OR all:wear OR all:lubrication'
     ),
-    (
-        "Materials science",
-        'cat:cond-mat.mtrl-sci OR all:polymer OR all:nanomaterial OR all:materials'
-    ),
+#    ("Materials science",'cat:cond-mat.mtrl-sci OR all:polymer OR all:nanomaterial OR all:materials'),
 ]
 
 HEADERS = {
