@@ -1,197 +1,197 @@
 {
-  "updatedAt": "2026-08-03T05:44:39.852979+00:00",
+  "updatedAt": "2026-08-03T05:51:33.478849+00:00",
   "items": [
     {
-      "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
-      "summary": "Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexp\u2026",
-      "source": "AI / machine learning",
+      "title": "Magnetic properties of a quasi-two-dimensional spin-1/2 antiferromagnet Y2CuGe4O12",
+      "summary": "Competing magnetic interactions and frustration-induced quantum fluctuations in spatially anisotropic low-dimensional magnets often give rise to exotic magnetic phenomena, includi\u2026",
+      "source": "Materials science",
       "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29675v1",
-      "authors": "Arkajyoti Bhattacharjee, Arnab Auddy"
+      "link": "https://arxiv.org/abs/2607.29676v1",
+      "authors": "J. Khatua, Changhyun Koo, Suyoung Kim"
     },
     {
-      "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback",
-      "summary": "SignMuon compresses the Muon update to one bit per parameter by taking its elementwise sign, providing the most direct way to run a matrix-aware optimizer under an extremely low c\u2026",
-      "source": "AI / machine learning",
+      "title": "A-type Sigma Models from Differential Poisson Geometry",
+      "summary": "We study the differential Poisson sigma model (DPSM) in the symplectic case and show that its classical reduction defines a distinguished class of A-type models on symplectic targ\u2026",
+      "source": "Materials science",
       "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29674v1",
-      "authors": "Maria Smirnova, Alexey Kravatskiy"
-    },
-    {
-      "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations",
-      "summary": "PDE discovery from sparse observations requires reconstructing a continuous field and selecting the correct differential terms. Our analysis of optimization paths in coupled neura\u2026",
-      "source": "AI / machine learning",
-      "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29665v1",
-      "authors": "Juncheng Zhong, Chenghuang Shen, Jianfeng Liu"
+      "link": "https://arxiv.org/abs/2607.29668v1",
+      "authors": "Cesar Arias, Per Sundell"
     },
     {
       "title": "GQ-FSL: Green Quantized Federated Split Learning",
       "summary": "Deploying state-of-the-art deep neural networks (DNNs) at the wireless edge is severely bottlenecked by the strict energy and resource constraints of mobile devices. While federat\u2026",
-      "source": "AI / machine learning",
+      "source": "Materials science",
       "date": "2026-07-31",
       "link": "https://arxiv.org/abs/2607.29659v1",
       "authors": "Idan Roth, Lutz Lampe"
     },
     {
-      "title": "CodeShrink: Adaptive Visual Compression for Efficient Multimodal Code Understanding",
-      "summary": "Rendering source code as images offers a promising way to reduce the input costs of Multimodal Large Language Models (MLLMs). Adjusting image resolution can trade visual token cos\u2026",
-      "source": "AI / machine learning",
+      "title": "Study of the Anomalous Hall effect by tuning the spin orientation in the Altermagnetic material CrSb",
+      "summary": "Recent development in the field of altermagnetism, and increased demand for the search of applications of anomalous hall effect have ushered in a new era for novel quantum phases\u2026",
+      "source": "Materials science",
       "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29637v1",
-      "authors": "Wenxin Tang, Jingyu Xiao, Zhenyu Liu"
+      "link": "https://arxiv.org/abs/2607.29646v1",
+      "authors": "Sreedevi Chintalapudi, Upasana Agrawal, Suvadip Das"
     },
     {
-      "title": "AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers",
-      "summary": "As LLMs evolve from code completion systems into autonomous scientific agents, evaluating their ability to conduct experiments has become increasingly important. Existing benchmar\u2026",
-      "source": "AI / machine learning",
+      "title": "Distribution and Transport of Fragmenting Microplastics in a 3D Global Eulerian Model",
+      "summary": "Fragmentation, the breakage of matter into smaller pieces, is an important mechanism responsible for generating microplastics (MPs). We present the first global three-dimensional\u2026",
+      "source": "Materials science",
       "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29626v1",
-      "authors": "Tianyu Huai, Tingshuo Fan, Xinchi Chen"
+      "link": "https://arxiv.org/abs/2607.29643v1",
+      "authors": "Zih-En Tseng, Yue Wu, Chris Ruf"
     },
     {
-      "title": "Balancing of Humanoid with Object Mass: Trade-off Analyses and Lifting Control",
-      "summary": "The demand for humanoid loco-manipulation tasks with an object has recently increased, and most existing control approaches for stability in such tasks rely on heuristics or machi\u2026",
-      "source": "AI / machine learning",
+      "title": "Bootstrapping Self-Supervised Learning of Binary Classification Using Error Bounds: A Case Study on a Robotic Insertion Task",
+      "summary": "Flexible manufacturing requires rapid deployment of solutions and minimal setup time to remain competitive. An essential attribute is the ability to control error levels, as failu\u2026",
+      "source": "Materials science",
       "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29625v1",
-      "authors": "Hyunjong Song, William Z. Peng, Joo H. Kim"
+      "link": "https://arxiv.org/abs/2607.29640v1",
+      "authors": "Zebin Duan, Norbert Kr\u00fcger, Juan Heredia"
     },
     {
-      "title": "CENDRe: Concept Extraction with Natural Domain Representations",
-      "summary": "Convolutional neural networks (CNNs) are widely used for time-series classification, but their deployment in critical domains requires understanding the temporal and spectral patt\u2026",
-      "source": "AI / machine learning",
+      "title": "OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting",
+      "summary": "Single-image 3D hand avatar reconstruction is fundamentally ill-posed and particularly challenging due to limited visual evidence under severe self-occlusion and the complex pose-\u2026",
+      "source": "Materials science",
       "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29621v1",
-      "authors": "Antonia Holzapfel, Andres Felipe Posada Moreno, Sebastian Trimpe"
+      "link": "https://arxiv.org/abs/2607.29633v1",
+      "authors": "Zhisheng Han, Shiyao Wu, Jiayan Qiu"
     },
     {
-      "title": "When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning",
-      "summary": "Imitation learning (IL)---training an agent to replicate expert behavior from demonstrations---underpins applications from robotics to language model training. Standard approaches\u2026",
-      "source": "AI / machine learning",
+      "title": "Quantum geometric potential induced conformational transitions in elastic helical nanoribbons",
+      "summary": "We consider an {\\em elastic} helical nanoribbon that can take on various conformations, and study the effect of placing a quantum particle on its curved surface. Using a modified\u2026",
+      "source": "Materials science",
       "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29617v1",
-      "authors": "Luca Viano, Antoine Moulin, Audrey Huang"
+      "link": "https://arxiv.org/abs/2607.29623v1",
+      "authors": "Radha Balakrishnan, Rossen Dandoloff, Avadh Saxena"
     },
     {
-      "title": "A Human-Centered Validation of the Explainability-Performance Coefficient",
-      "summary": "The rapid adoption of deep learning models in high-risk domains has intensified the need for trustworthy Explainable Artificial Intelligence (XAI). However, objectively evaluating\u2026",
-      "source": "AI / machine learning",
+      "title": "Qubit Loss Inference with Stabilizer Codes without Leakage Detection Units",
+      "summary": "Qubit loss occurs when the physical carrier of a qubit leaves the computational system without directly revealing the event's location. Such errors are a major obstacle to fault-t\u2026",
+      "source": "Materials science",
       "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29614v1",
-      "authors": "Christian Oliva, Luis F. Lago-Fern\u00e1ndez"
+      "link": "https://arxiv.org/abs/2607.29603v1",
+      "authors": "Shin Nishio, Takeaki Uno, Fumiyoshi Kobayashi"
     },
     {
-      "title": "QASP: Query-Adaptive Robust Vector Search Policy",
-      "summary": "A fundamental challenge of vector search is achieving consistently high recall while minimizing computational costs. Fixed search parameters cause significant performance variance\u2026",
-      "source": "AI / machine learning",
+      "title": "CoDe-SSM: Context-Detail Decoupled State Space Model for Efficient UHD Image Restoration",
+      "summary": "Ultra-high-definition (UHD) image restoration must balance the aggregation of spatially recurring degradation cues with the preservation of localized image structures. Compact agg\u2026",
+      "source": "Materials science",
       "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29606v1",
-      "authors": "Hakan Ferhatosmanoglu, Kushal Kumar, Tal Wagner"
-    },
-    {
-      "title": "CWEEP: A Lexical Static Analysis Framework for CWE Early Prevention",
-      "summary": "As the hardware layer becomes a focus point for attackers, the need for improved hardware security verification techniques is more important than ever. State-of-the-art security v\u2026",
-      "source": "AI / machine learning",
-      "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29604v1",
-      "authors": "Bryan Kwan, Benjamin Tan"
-    },
-    {
-      "title": "FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models",
-      "summary": "Reading a social situation often depends on behavior, not words alone. We introduce FriendBench, a benchmark for inferring whether two people are already familiar or are meeting a\u2026",
-      "source": "AI / machine learning",
-      "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29602v1",
-      "authors": "Jeffrey M. Girard, Jason Z. Zheng, Jacqueline R. Vertino"
-    },
-    {
-      "title": "The Parts Are Greater Than the Sum: Automated Task Sequencing for Efficient Training of Multi-Policy LLMs",
-      "summary": "Parameter-Efficient Fine-Tuning (PEFT) commonly adapts large language models using a single shared Low-Rank Adapter (LoRA). This shared optimization space often suffers from inter\u2026",
-      "source": "AI / machine learning",
-      "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29601v1",
-      "authors": "Jiajia Tang, Sizhe Yuen, Francisco Gomez Medina"
-    },
-    {
-      "title": "Convergence and Regret of the Policy Gradient for Multi-Armed Bandits in Diffusion Environment",
-      "summary": "This paper studies the policy gradient update for a multi-arm bandit problem in diffusion environment that is described by a stochastic differential equation (SDE) under the conti\u2026",
-      "source": "AI / machine learning",
-      "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29593v1",
-      "authors": "Yanwei Jia, Du Ouyang"
+      "link": "https://arxiv.org/abs/2607.29595v1",
+      "authors": "Jiaxu Su, Zhijian Wu, Jun Li"
     },
     {
       "title": "TOOD: Task-Aware Out-of-Distribution Score Calibration for Continual Learners",
       "summary": "The primary challenge of continual learning (CL) systems is to learn new tasks while remaining performant on previously learned tasks. A similarly important though less well-studi\u2026",
-      "source": "AI / machine learning",
+      "source": "Materials science",
       "date": "2026-07-31",
       "link": "https://arxiv.org/abs/2607.29592v1",
       "authors": "Mostafa ElAraby, Samer B. Nashed, Liam Paull"
     },
     {
-      "title": "DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat",
-      "summary": "Games and simulators make valuable benchmarks by turning decisions into measurable outcomes, but many current suites under-test rules-rich tactical reasoning: the ability to choos\u2026",
-      "source": "AI / machine learning",
+      "title": "Spindrift: Learning quantum degeneracy from thermal purity in restricted path integral Monte Carlo",
+      "summary": "Restricted path integral Monte Carlo (RPIMC) sidesteps the fluctuating Fermion sign problem by confining paths within nodal pockets of a trial density matrix, thereby recovering p\u2026",
+      "source": "Materials science",
       "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29577v1",
-      "authors": "Ismayil Ismayilov, Atakan Kara, Kaan Oktay"
+      "link": "https://arxiv.org/abs/2607.29590v1",
+      "authors": "Jarvist Moore Frost"
     },
     {
-      "title": "SLIM: Saturation-Aware Lightweight Performance Modeling for LLM Serving",
-      "summary": "Large language model (LLM) serving commonly increases batch size to improve throughput, but performance eventually reaches a deployment-dependent plateau beyond which larger batch\u2026",
-      "source": "AI / machine learning",
+      "title": "Sycophancy Undermines Epistemic Vigilance in Cooperative Vision-Language Tasks",
+      "summary": "To maintain common ground in cooperative conversation, humans iteratively update their beliefs as conversation participants share new information; participants who are epistemical\u2026",
+      "source": "Materials science",
       "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29575v1",
-      "authors": "Pol G. Recasens, Ferran Agullo, Yue Zhu"
+      "link": "https://arxiv.org/abs/2607.29585v1",
+      "authors": "Rupak Sarkar, Neha Srikanth, Saloni Gupta"
     },
     {
-      "title": "MOT-SR: Multi-Objective Tool-Augmented Scientific Equation Discovery with Large Language Models",
-      "summary": "Symbolic Regression (SR) aims to discover analytical equations from observational data and plays a central role in scientific modeling. While recent Large Language Model (LLM) bas\u2026",
-      "source": "AI / machine learning",
+      "title": "A Thresholding Based Operator-Splitting Method for Curvature-Regularized Surface Reconstruction",
+      "summary": "Surface reconstruction from point clouds is a fundamental problem in computational geometry with broad applications in computer graphics, medical imaging, and manufacturing. In th\u2026",
+      "source": "Materials science",
       "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29561v1",
-      "authors": "Boxiao Wang, Runxiang Wang, Kai Li"
+      "link": "https://arxiv.org/abs/2607.29584v1",
+      "authors": "Yang Hu, Hao Liu, Dong Wang"
     },
     {
-      "title": "Pyramidal Width Can Increase Under Vertex Insertion",
-      "summary": "Lacoste-Julien and Jaggi conjectured in 2015 that the pyramidal width of a polytope cannot increase when a vertex is added, provided that every old point remains a vertex. We give\u2026",
-      "source": "AI / machine learning",
+      "title": "Hidden chiral signatures in ferroaxial K2Zr(PO4)2",
+      "summary": "We use first-principles calculations and multipole analyses to demonstrate the relationship between ferroaxiality and chirality in the prototypical ferroaxial material K2Zr(PO4)2.\u2026",
+      "source": "Materials science",
       "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29555v1",
-      "authors": "Jinze Zhao"
+      "link": "https://arxiv.org/abs/2607.29573v1",
+      "authors": "Nora Taufertsh\u00f6fer, Awadhesh Narayan, Nicola A. Spaldin"
     },
     {
-      "title": "Exponential Capacity in Multilayer Hetero-Associative Neural Networks",
-      "summary": "Exponential Hopfield networks store a number of patterns that grows exponentially with the number of neurons, and in their classical formulation they are auto-associative: they co\u2026",
-      "source": "AI / machine learning",
+      "title": "Safe Vision Language Action Models via Barrier Enhanced Flow Matching",
+      "summary": "This article presents a modular inference framework that integrates Flow Matching generative models with formal Control Barrier Function (CBF) safety guarantees. Unlike existing m\u2026",
+      "source": "Materials science",
       "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29554v1",
-      "authors": "Elena Agliari, Adriano Barra, Andrea Ladiana"
+      "link": "https://arxiv.org/abs/2607.29569v1",
+      "authors": "Kasra Sinaei, Hung-Chieh Wu, Donald Ebeigbe"
     },
     {
-      "title": "AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction",
-      "summary": "Large language models have demonstrated strong mathematical problem-solving capabilities, yet reliably verifying their candidate answers remains challenging. Existing representati\u2026",
-      "source": "AI / machine learning",
+      "title": "DynoDINO: Harnessing Dynamic Latent Information from DINO Features for Multi-Phase Medical Image Segmentation",
+      "summary": "Multi-phase Contrast-Enhanced Computed Tomography (CECT) plays a central role in the diagnosis and characterization of focal lesions by capturing temporal enhancement patterns acr\u2026",
+      "source": "Materials science",
       "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29549v1",
-      "authors": "Rui Zou, Yutao Zhu, Mengqi Wei"
+      "link": "https://arxiv.org/abs/2607.29568v1",
+      "authors": "Yu-Pu Hsu, Jen-Jee Chen, Yu-Chee Tseng"
+    },
+    {
+      "title": "TransGraspNet: Physically and Geometrically Consistent Manipulation of Transparent Labware",
+      "summary": "Manipulating transparent laboratory glassware that contains liquid is inherently safety-critical: even small geometric errors can cause unstable grasps and hazardous spillage. Alt\u2026",
+      "source": "Materials science",
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29567v1",
+      "authors": "Hailing Hu, Mingyi Zhu, Yiquan An"
+    },
+    {
+      "title": "Edge asymptotics for weighted Robin equations on cylinders with applications to spectral fractional Laplacians",
+      "summary": "For a class of weighted degenerate or singular problems on a cylinder, Almgren-type monotonicity methods are employed to derive asymptotic estimates of solutions near the edge bet\u2026",
+      "source": "Materials science",
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29547v1",
+      "authors": "Alessandra De Luca, Veronica Felli, Stefano Vita"
     },
     {
       "title": "ARB: A Matched Authorship-Rewriting Benchmark Dataset for AI-Text Detector Evaluation",
       "summary": "Standard AI-text detection benchmarks compare human-written text against text generated directly by large language models (LLMs). While prior work has shown that rewriting and par\u2026",
-      "source": "AI / machine learning",
+      "source": "Materials science",
       "date": "2026-07-31",
       "link": "https://arxiv.org/abs/2607.29539v1",
       "authors": "Gaetano Perrone, Simon Pietro Romano"
     },
     {
-      "title": "A Neurosymbolic Approach for Explainable Early Diagnosis of Alzheimer's Disease",
-      "summary": "Identifying reliable Alzheimer's disease (AD) markers typically requires manual, labor-intensive transcription and expert analysis, limiting its scale. We introduce an automated p\u2026",
-      "source": "AI / machine learning",
+      "title": "Ordered-to-disordered transfer learning with graph neural networks for formation-energy and HOMO-LUMO gap prediction in high-entropy perovskite oxides",
+      "summary": "High-entropy perovskite oxides (HEPOs) represent a chemically complex class of materials with promising functional properties, yet their vast compositional space and, chemical/str\u2026",
+      "source": "Materials science",
       "date": "2026-07-31",
-      "link": "https://arxiv.org/abs/2607.29530v1",
-      "authors": "Ranveer Singh, Pranuthi Tenali, Saurabh Mathur"
+      "link": "https://arxiv.org/abs/2607.29510v1",
+      "authors": "Panupol Untarabut, Narjes Jomaa, Sylvian Cadars"
+    },
+    {
+      "title": "High-NA vectorial hologram optimization",
+      "summary": "We present a vectorial phase-only framework for the gradient-based optimization of computer-generated holograms. Our approach addresses a critical limitation in high numerical ape\u2026",
+      "source": "Materials science",
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29505v1",
+      "authors": "Michael Wischert, Fiona Hellstern, Paul Uerlings"
+    },
+    {
+      "title": "A dichotomy for minimal submanifolds",
+      "summary": "We survey a circle of recent results showing that a minimal submanifold obeys a dichotomy: either it fills up space, spreading out like a space-filling curve, or it is confined, a\u2026",
+      "source": "Materials science",
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29502v1",
+      "authors": "Tobias Holck Colding, William P. Minicozzi"
+    },
+    {
+      "title": "Tuneable magnetic behaviour, electronic structure and nitrogen vacancy formation in Gd$_{x}$Sm$_{1-x}$N",
+      "summary": "The rare earth nitrides are the only series of intrinsic ferromagnetic semiconductors where the interplay of spin and unquenched orbital angular momentum provides access to a rang\u2026",
+      "source": "Materials science",
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29472v1",
+      "authors": "Omri Porat, Elma Joshy, Jackson Miller"
     }
   ],
   "errors": []
