@@ -105,14 +105,15 @@ def arxiv_url(query: str) -> str:
 def main():
     buckets = {label: [] for label, _ in QUERIES}
     errors = []
+    source_counts = {}
 
-    # Fetch each topic separately
+    per_source_limit = max(1, MAX_ITEMS // max(1, len(QUERIES)))
+
     for label, query in QUERIES:
         try:
             xml_text = fetch(arxiv_url(query))
             items = parse_atom(xml_text, label)
 
-            # Deduplicate within the topic bucket by title
             seen_titles = set()
             unique_items = []
             for item in items:
@@ -122,13 +123,13 @@ def main():
                 seen_titles.add(key)
                 unique_items.append(item)
 
-            # Keep only a fair share per topic
-            buckets[label] = unique_items[: max(1, MAX_ITEMS // max(1, len(QUERIES)))]
+            buckets[label] = unique_items[:per_source_limit]
+            source_counts[label] = len(buckets[label])
 
         except Exception as e:
             errors.append(f"{label}: {e}")
+            source_counts[label] = 0
 
-    # Round-robin merge across topics
     final_items = []
     global_seen = set()
 
@@ -136,7 +137,7 @@ def main():
         made_progress = False
 
         for label, _ in QUERIES:
-            bucket = buckets.get(label, [])
+            bucket = buckets[label]
             while bucket:
                 item = bucket.pop(0)
                 key = item["title"].lower()
@@ -157,7 +158,11 @@ def main():
         "updatedAt": datetime.now(timezone.utc).isoformat(),
         "items": final_items,
         "errors": errors,
+        "sourceCounts": source_counts,
+        "sourceTotal": len(QUERIES),
+        "itemTotal": len(final_items),
     }
 
     OUT.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
     print(f"Wrote {OUT} with {len(payload['items'])} items")
+    print("Source counts:", source_counts)
