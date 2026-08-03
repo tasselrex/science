@@ -18,18 +18,9 @@ QUERIES = [
 #    ("Microscopy / imaging", 'all:microscopy OR all:"image analysis" OR all:"cryo-EM" OR all:"electron microscopy" OR all:imaging'),
 #    ("Analytical chemistry", 'all:"mass spectrometry" OR all:chromatography OR all:spectroscopy OR all:FTIR OR all:Raman'),
 #    ("Regulatory / pharma", 'all:FDA OR all:USP OR all:EMA OR all:"good manufacturing practice" OR all:pharma'),
-    (
-        "Superconductivity",
-        'all:superconductor OR all:superconductivity OR cat:cond-mat.supr-con'
-    ),
-    (
-        "Quantum",
-        'cat:quant-ph OR all:"quantum computing" OR all:"quantum information"'
-    ),
-    (
-        "Tribology",
-        'all:tribology OR all:friction OR all:wear OR all:lubrication'
-    ),
+    ("Superconductivity",'all:superconductor OR all:superconductivity OR cat:cond-mat.supr-con'),
+    ("Quantum",'cat:quant-ph OR all:"quantum computing" OR all:"quantum information"'),
+    ("Tribology",'all:tribology OR all:friction OR all:wear OR all:lubrication'),
     ("Materials science",'cat:cond-mat.mtrl-sci OR all:polymer OR all:nanomaterial OR all:materials'),
 ]
 
