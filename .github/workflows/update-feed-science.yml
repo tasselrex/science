@@ -21,7 +21,7 @@ jobs:
           python-version: "3.11"
 
       - name: Generate feed.json
-        run: python generate-feed-science.py
+        run: python -u generate-feed-science.py
 
       - name: Commit updated feed
         run: |
