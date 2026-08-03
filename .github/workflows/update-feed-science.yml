@@ -34,3 +34,8 @@ jobs:
           git add feed.json
           git commit -m "Update science feed"
           git push
+- name: Generate feed.json
+  run: |
+    echo "Starting generator"
+    python -u generate-feed-science.py
+    echo "Generator finished"
