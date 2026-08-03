@@ -103,34 +103,61 @@ def arxiv_url(query: str) -> str:
     return base + "?" + urllib.parse.urlencode(params)
 
 def main():
-    all_items = []
+    buckets = {label: [] for label, _ in QUERIES}
     errors = []
+
+    # Fetch each topic separately
     for label, query in QUERIES:
         try:
             xml_text = fetch(arxiv_url(query))
             items = parse_atom(xml_text, label)
-            all_items.extend(items)
+
+            # Deduplicate within the topic bucket by title
+            seen_titles = set()
+            unique_items = []
+            for item in items:
+                key = item["title"].lower()
+                if key in seen_titles:
+                    continue
+                seen_titles.add(key)
+                unique_items.append(item)
+
+            # Keep only a fair share per topic
+            buckets[label] = unique_items[: max(1, MAX_ITEMS // max(1, len(QUERIES)))]
+
         except Exception as e:
             errors.append(f"{label}: {e}")
 
-    dedup = []
-    seen = set()
-    for item in all_items:
-        key = item["title"].lower()
-        if key in seen:
-            continue
-        seen.add(key)
-        dedup.append(item)
+    # Round-robin merge across topics
+    final_items = []
+    global_seen = set()
 
-    dedup.sort(key=lambda x: x["date"], reverse=True)
+    while len(final_items) < MAX_ITEMS:
+        made_progress = False
+
+        for label, _ in QUERIES:
+            bucket = buckets.get(label, [])
+            while bucket:
+                item = bucket.pop(0)
+                key = item["title"].lower()
+                if key in global_seen:
+                    continue
+                global_seen.add(key)
+                final_items.append(item)
+                made_progress = True
+                break
+
+            if len(final_items) >= MAX_ITEMS:
+                break
+
+        if not made_progress:
+            break
 
     payload = {
         "updatedAt": datetime.now(timezone.utc).isoformat(),
-        "items": dedup[:MAX_ITEMS],
+        "items": final_items,
         "errors": errors,
     }
+
     OUT.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
     print(f"Wrote {OUT} with {len(payload['items'])} items")
-
-if __name__ == "__main__":
-    main()
