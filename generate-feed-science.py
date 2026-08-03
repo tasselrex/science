@@ -13,26 +13,20 @@ OUT = Path("feed.json")
 MAX_ITEMS = 200
 
 QUERIES = [
-#    ("AI / machine learning", 'all:"machine learning" OR all:"deep learning" OR all:"large language model" OR all:"foundation model"'),
-#    ("Biology / biotech", 'all:biology OR all:protein OR all:antibody OR all:"cell therapy" OR all:"gene editing"'),
-#    ("Microscopy / imaging", 'all:microscopy OR all:"image analysis" OR all:"cryo-EM" OR all:"electron microscopy" OR all:imaging'),
-#    ("Analytical chemistry", 'all:"mass spectrometry" OR all:chromatography OR all:spectroscopy OR all:FTIR OR all:Raman'),
-#    ("Regulatory / pharma", 'all:FDA OR all:USP OR all:EMA OR all:"good manufacturing practice" OR all:pharma'),
-    ("Superconductivity",'all:superconductor OR all:superconductivity OR cat:cond-mat.supr-con'),
-    ("Quantum",'cat:quant-ph OR all:"quantum computing" OR all:"quantum information"'),
-    ("Tribology",'all:tribology OR all:friction OR all:wear OR all:lubrication'),
-    ("Materials science",'cat:cond-mat.mtrl-sci OR all:polymer OR all:nanomaterial OR all:materials'),
+    ("Superconductivity", "all:superconductor OR all:superconductivity OR cat:cond-mat.supr-con"),
+    ("Quantum", 'cat:quant-ph OR all:"quantum computing" OR all:"quantum information"'),
+    ("Tribology", "all:tribology OR all:friction OR all:wear OR all:lubrication"),
+    ("Materials science", "cat:cond-mat.mtrl-sci OR all:polymer OR all:nanomaterial OR all:materials"),
 ]
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; ConsciousnessFeed/1.0; +https://github.com/tasselrex/science)"
+    "User-Agent": "Mozilla/5.0 (compatible; ScienceFeed/1.0; +https://github.com/tasselrex/science)"
 }
 
 def clean(s: str | None) -> str:
     if not s:
         return ""
-    s = re.sub(r"\s+", " ", s)
-    return s.strip()
+    return re.sub(r"\s+", " ", s).strip()
 
 def strip_html(s: str | None) -> str:
     if not s:
@@ -60,6 +54,7 @@ def parse_atom(xml_text: str, source_label: str):
     ns = {"a": "http://www.w3.org/2005/Atom"}
     root = ET.fromstring(xml_text)
     items = []
+
     for entry in root.findall("a:entry", ns):
         title = clean(entry.findtext("a:title", default="", namespaces=ns))
         summary = truncate(strip_html(entry.findtext("a:summary", default="", namespaces=ns)), 180)
@@ -72,8 +67,7 @@ def parse_atom(xml_text: str, source_label: str):
                 link = link_el.attrib["href"]
                 break
         if not link:
-            id_text = clean(entry.findtext("a:id", default="", namespaces=ns))
-            link = id_text
+            link = clean(entry.findtext("a:id", default="", namespaces=ns))
 
         authors = [
             clean(author.findtext("a:name", default="", namespaces=ns))
@@ -89,6 +83,7 @@ def parse_atom(xml_text: str, source_label: str):
             "link": link,
             "authors": authors,
         })
+
     return items
 
 def arxiv_url(query: str) -> str:
@@ -96,7 +91,7 @@ def arxiv_url(query: str) -> str:
     params = {
         "search_query": query,
         "start": "0",
-        "max_results": "200",
+        "max_results": "50",
         "sortBy": "submittedDate",
         "sortOrder": "descending",
     }
@@ -104,6 +99,7 @@ def arxiv_url(query: str) -> str:
 
 def main():
     print("Starting feed generation", flush=True)
+
     buckets = {label: [] for label, _ in QUERIES}
     errors = []
     source_counts = {}
@@ -111,18 +107,33 @@ def main():
     per_source_limit = max(1, MAX_ITEMS // max(1, len(QUERIES)))
 
     for label, query in QUERIES:
-         try:
+        try:
             print("Fetching:", label, flush=True)
             xml_text = fetch(arxiv_url(query))
             print("Fetched:", label, flush=True)
+
             items = parse_atom(xml_text, label)
             print(label, len(items), items[0]["title"] if items else "NO HITS", flush=True)
+
+            seen_titles = set()
+            unique_items = []
+            for item in items:
+                key = item["title"].lower()
+                if key in seen_titles:
+                    continue
+                seen_titles.add(key)
+                unique_items.append(item)
+
+            buckets[label] = unique_items[:per_source_limit]
+            source_counts[label] = len(buckets[label])
+
         except Exception as e:
             print("FAILED:", label, e, flush=True)
             errors.append(f"{label}: {e}")
+            source_counts[label] = 0
 
-        final_items = []
-        global_seen = set()
+    final_items = []
+    global_seen = set()
 
     while len(final_items) < MAX_ITEMS:
         made_progress = False
@@ -155,6 +166,8 @@ def main():
     }
 
     OUT.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
-    print(f"Wrote {OUT} with {len(payload['items'])} items")
-    print("Source counts:", source_counts)
-    print("Starting feed generation", flush=True)
+    print(f"Wrote {OUT} with {len(payload['items'])} items", flush=True)
+    print("Source counts:", source_counts, flush=True)
+
+if __name__ == "__main__":
+    main()
