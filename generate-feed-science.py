@@ -19,6 +19,8 @@ QUERIES = [
     ("Materials science", 'all:"materials science" OR all:polymer OR all:nanomaterial OR all:degradation OR all:surface'),
     ("Analytical chemistry", 'all:"mass spectrometry" OR all:chromatography OR all:spectroscopy OR all:FTIR OR all:Raman'),
     ("Regulatory / pharma", 'all:FDA OR all:USP OR all:EMA OR all:"good manufacturing practice" OR all:pharma'),
+    ("Superconductivity", 'all:superconductor OR all:superconductivity'),
+    ("Quantum", 'all:quantum'),
 ]
 
 HEADERS = {
