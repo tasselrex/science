@@ -1,197 +1,197 @@
 {
-  "updatedAt": "2026-08-02T20:32:12.332118+00:00",
+  "updatedAt": "2026-08-03T05:44:39.852979+00:00",
   "items": [
     {
-      "title": "Learning to Trace Seiberg Dualities",
-      "summary": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally\u2026",
+      "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
+      "summary": "Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexp\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28628v1",
-      "authors": "Jonathan J. Heckman, Shani Meynet, Alessandro Mininno"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29675v1",
+      "authors": "Arkajyoti Bhattacharjee, Arnab Auddy"
     },
     {
-      "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
-      "summary": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally inf\u2026",
+      "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback",
+      "summary": "SignMuon compresses the Muon update to one bit per parameter by taking its elementwise sign, providing the most direct way to run a matrix-aware optimizer under an extremely low c\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28627v1",
-      "authors": "Yao Xiao, Reuben Tan, Zhen Zhu"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29674v1",
+      "authors": "Maria Smirnova, Alexey Kravatskiy"
     },
     {
-      "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
-      "summary": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked docum\u2026",
+      "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations",
+      "summary": "PDE discovery from sparse observations requires reconstructing a continuous field and selecting the correct differential terms. Our analysis of optimization paths in coupled neura\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28618v1",
-      "authors": "Bing Yan, Gregory Wolfe, Stefano Martiniani"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29665v1",
+      "authors": "Juncheng Zhong, Chenghuang Shen, Jianfeng Liu"
     },
     {
-      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
-      "summary": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are\u2026",
+      "title": "GQ-FSL: Green Quantized Federated Split Learning",
+      "summary": "Deploying state-of-the-art deep neural networks (DNNs) at the wireless edge is severely bottlenecked by the strict energy and resource constraints of mobile devices. While federat\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28617v1",
-      "authors": "Xiangning Lin, Shenzhe Zhu, Shu Yang"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29659v1",
+      "authors": "Idan Roth, Lutz Lampe"
     },
     {
-      "title": "KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models",
-      "summary": "Clinical risk models routinely achieve strong aggregate performance while producing materially different error rates across patient subgroups. Audit pipelines have been proposed t\u2026",
+      "title": "CodeShrink: Adaptive Visual Compression for Efficient Multimodal Code Understanding",
+      "summary": "Rendering source code as images offers a promising way to reduce the input costs of Multimodal Large Language Models (MLLMs). Adjusting image resolution can trade visual token cos\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28608v1",
-      "authors": "Sparsh Roy, Samuel Girmachew, Nishita Chavan"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29637v1",
+      "authors": "Wenxin Tang, Jingyu Xiao, Zhenyu Liu"
     },
     {
-      "title": "Inducing language models to assert their own consciousness restores human beliefs and values",
-      "summary": "Aligning large language models to prevent them attributing consciousness to themselves inadvertently alters their representations of mindedness in other entities alongside human b\u2026",
+      "title": "AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers",
+      "summary": "As LLMs evolve from code completion systems into autonomous scientific agents, evaluating their ability to conduct experiments has become increasingly important. Existing benchmar\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28607v1",
-      "authors": "Junsol Kim, Winnie Street, Roberta Rocca"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29626v1",
+      "authors": "Tianyu Huai, Tingshuo Fan, Xinchi Chen"
     },
     {
-      "title": "Cosmo-SPINN: Fuzzy Dark Matter Simulations with Physics-Informed Generative Networks",
-      "summary": "Generative machine learning models have recently emerged as powerful tools for producing cosmological simulations. However, many existing emulators do not explicitly enforce the u\u2026",
+      "title": "Balancing of Humanoid with Object Mass: Trade-off Analyses and Lifting Control",
+      "summary": "The demand for humanoid loco-manipulation tasks with an object has recently increased, and most existing control approaches for stability in such tasks rely on heuristics or machi\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28604v1",
-      "authors": "Ashutosh Kumar Mishra, Emma Tolley, Nicolas Cerardi"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29625v1",
+      "authors": "Hyunjong Song, William Z. Peng, Joo H. Kim"
     },
     {
-      "title": "Beacon: Knowing When and How to Perform Agentic Visual Reasoning",
-      "summary": "The fundamental goal of agentic visual reasoning is to improve the success rate of multimodal large language models (MLLMs) on complex tasks, rather than merely equipping them wit\u2026",
+      "title": "CENDRe: Concept Extraction with Natural Domain Representations",
+      "summary": "Convolutional neural networks (CNNs) are widely used for time-series classification, but their deployment in critical domains requires understanding the temporal and spectral patt\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28595v1",
-      "authors": "Qixun Wang, Yang Shi, Letian Cheng"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29621v1",
+      "authors": "Antonia Holzapfel, Andres Felipe Posada Moreno, Sebastian Trimpe"
     },
     {
-      "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
-      "summary": "Scaling coding agents requires a continuing supply of executable data for training, benchmarking, and continuous evaluation. Each task must couple a realistic software state with\u2026",
+      "title": "When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning",
+      "summary": "Imitation learning (IL)---training an agent to replicate expert behavior from demonstrations---underpins applications from robotics to language model training. Standard approaches\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28591v1",
-      "authors": "Haomin Qi, Xingliang Wang, Xuanqi Gao"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29617v1",
+      "authors": "Luca Viano, Antoine Moulin, Audrey Huang"
     },
     {
-      "title": "MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers",
-      "summary": "Post-training quantization (PTQ) has emerged as an effective solution for deploying Vision Transformers (ViTs) on resource-constrained devices. However, existing PTQ methods typic\u2026",
+      "title": "A Human-Centered Validation of the Explainability-Performance Coefficient",
+      "summary": "The rapid adoption of deep learning models in high-risk domains has intensified the need for trustworthy Explainable Artificial Intelligence (XAI). However, objectively evaluating\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28589v1",
-      "authors": "Md. Mehrab Hossain Opi, Robiul Islam Ryad, Md. Umar Faruk"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29614v1",
+      "authors": "Christian Oliva, Luis F. Lago-Fern\u00e1ndez"
     },
     {
-      "title": "$\u03b2$-OPSD: Deriving with Policy Optimization, Training with Self-Distillation",
-      "summary": "On-policy self-distillation (OPSD) is a promising approach to improve reasoning language models, but it remains brittle in practice: making it work reliably often requires substan\u2026",
+      "title": "QASP: Query-Adaptive Robust Vector Search Policy",
+      "summary": "A fundamental challenge of vector search is achieving consistently high recall while minimizing computational costs. Fixed search parameters cause significant performance variance\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28582v1",
-      "authors": "Jiawei Xu, Minghui Liu, Juzheng Zhang"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29606v1",
+      "authors": "Hakan Ferhatosmanoglu, Kushal Kumar, Tal Wagner"
     },
     {
-      "title": "ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation",
-      "summary": "High-fidelity 3D generation predominantly relies on scaling model capacity and data, which incurs prohibitive computational costs. This paradigm typically requires learning geomet\u2026",
+      "title": "CWEEP: A Lexical Static Analysis Framework for CWE Early Prevention",
+      "summary": "As the hardware layer becomes a focus point for attackers, the need for improved hardware security verification techniques is more important than ever. State-of-the-art security v\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28581v1",
-      "authors": "Xiao Luo, Mingyang Du, Xin Zhou"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29604v1",
+      "authors": "Bryan Kwan, Benjamin Tan"
     },
     {
-      "title": "Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B",
-      "summary": "Methods that make a language model plan, criticise and rewrite its own answer, reflect on mistakes, pick the best of several attempts, or debate with copies of itself nearly all m\u2026",
+      "title": "FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models",
+      "summary": "Reading a social situation often depends on behavior, not words alone. We introduce FriendBench, a benchmark for inferring whether two people are already familiar or are meeting a\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28576v1",
-      "authors": "Iliya Mirzaei"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29602v1",
+      "authors": "Jeffrey M. Girard, Jason Z. Zheng, Jacqueline R. Vertino"
     },
     {
-      "title": "Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering",
-      "summary": "Recursive self-improvement (RSI) requires AI systems that improve the process of building AI (i.e., AI4AI); machine learning engineering (MLE) offers a concrete, executable testbe\u2026",
+      "title": "The Parts Are Greater Than the Sum: Automated Task Sequencing for Efficient Training of Multi-Policy LLMs",
+      "summary": "Parameter-Efficient Fine-Tuning (PEFT) commonly adapts large language models using a single shared Low-Rank Adapter (LoRA). This shared optimization space often suffers from inter\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28568v1",
-      "authors": "Junlin Yang, Che Jiang, Yu Fu"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29601v1",
+      "authors": "Jiajia Tang, Sizhe Yuen, Francisco Gomez Medina"
     },
     {
-      "title": "Doubly Robust Functional Representation Learning for Longitudinal Causal Inference with Irregular Histories",
-      "summary": "Longitudinal causal studies often record histories as irregular functional fragments: laboratory values, physiologic signals, sensor streams, and image-derived summaries measured\u2026",
+      "title": "Convergence and Regret of the Policy Gradient for Multi-Armed Bandits in Diffusion Environment",
+      "summary": "This paper studies the policy gradient update for a multi-arm bandit problem in diffusion environment that is described by a stochastic differential equation (SDE) under the conti\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28567v1",
-      "authors": "Mengfei Ran, Yifeng Shen, Ruijie Guan"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29593v1",
+      "authors": "Yanwei Jia, Du Ouyang"
     },
     {
-      "title": "APO: Unsupervised Atomic Policy Optimization for 3D Structure Prediction of Atomic Systems",
-      "summary": "Predicting the 3D structures of atomic systems is fundamental to advancing material science and drug discovery. While flow-matching models (, FlowDPO) have recently shown promise\u2026",
+      "title": "TOOD: Task-Aware Out-of-Distribution Score Calibration for Continual Learners",
+      "summary": "The primary challenge of continual learning (CL) systems is to learn new tasks while remaining performant on previously learned tasks. A similarly important though less well-studi\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28553v1",
-      "authors": "Shentong Mo, Yatao Bian"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29592v1",
+      "authors": "Mostafa ElAraby, Samer B. Nashed, Liam Paull"
     },
     {
-      "title": "Correcting Mode Collapse in Silicon Sampling with Semantic Similarity Rating",
-      "summary": "Silicon sampling refers to the use of Large Language Models (LLMs) to generate responses to surveys. It has shown promise, but tends to generate response distributions with unreal\u2026",
+      "title": "DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat",
+      "summary": "Games and simulators make valuable benchmarks by turning decisions into measurable outcomes, but many current suites under-test rules-rich tactical reasoning: the ability to choos\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28550v1",
-      "authors": "Oscar Heath, Rohan Alexander"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29577v1",
+      "authors": "Ismayil Ismayilov, Atakan Kara, Kaan Oktay"
     },
     {
-      "title": "ORCA-bench: How Ready Are Language Model Agents for Oncall?",
-      "summary": "Large language models can write, patch, and search code, but oncall root cause analysis (RCA) demands something different: reasoning over noisy metrics, logs, traces, and source c\u2026",
+      "title": "SLIM: Saturation-Aware Lightweight Performance Modeling for LLM Serving",
+      "summary": "Large language model (LLM) serving commonly increases batch size to improve throughput, but performance eventually reaches a deployment-dependent plateau beyond which larger batch\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28545v1",
-      "authors": "Albert Gong, Kyuseong Choi, Abhineet Agarwal"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29575v1",
+      "authors": "Pol G. Recasens, Ferran Agullo, Yue Zhu"
     },
     {
-      "title": "ScaFE: Data-Efficient Scar Classification with LLM-Generated Clinical Feature Programs",
-      "summary": "Classifying pathological scars from clinical photographs requires distinguishing keloids from hypertrophic scars despite limited expert-labeled data and substantial acquisition va\u2026",
+      "title": "MOT-SR: Multi-Objective Tool-Augmented Scientific Equation Discovery with Large Language Models",
+      "summary": "Symbolic Regression (SR) aims to discover analytical equations from observational data and plays a central role in scientific modeling. While recent Large Language Model (LLM) bas\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28538v1",
-      "authors": "Ruman Wang, Hangting Ye"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29561v1",
+      "authors": "Boxiao Wang, Runxiang Wang, Kai Li"
     },
     {
-      "title": "Graph Neural Network Force Fields for Spin Dynamics in Metallic Magnets",
-      "summary": "Metallic magnets exhibit complex spin dynamics governed by electronically generated interactions. Predictive simulations of such dynamics typically require repeated solutions of a\u2026",
+      "title": "Pyramidal Width Can Increase Under Vertex Insertion",
+      "summary": "Lacoste-Julien and Jaggi conjectured in 2015 that the pyramidal width of a polytope cannot increase when a vertex is added, provided that every old point remains a vertex. We give\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28537v1",
-      "authors": "Ali Rayat, Yunhao Fan, Gia-Wei Chern"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29555v1",
+      "authors": "Jinze Zhao"
     },
     {
-      "title": "MarkushGlyph and OCSRGlyph: Improved Chemical Structure Recognition",
-      "summary": "Chemical structures appear in patents and the scientific literature as images. For programmatic usage, such as indexing in databases or constructing machine learning model trainin\u2026",
+      "title": "Exponential Capacity in Multilayer Hetero-Associative Neural Networks",
+      "summary": "Exponential Hopfield networks store a number of patterns that grows exponentially with the number of neurons, and in their classical formulation they are auto-associative: they co\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28532v1",
-      "authors": "Alex Andonian, Samuel G Rodriques, Andrew D White"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29554v1",
+      "authors": "Elena Agliari, Adriano Barra, Andrea Ladiana"
     },
     {
-      "title": "CoGate: Confidence-Gated Co-Decoding for Secure Code Generation",
-      "summary": "Large language models are widely used for code generation, but they can also produce insecure programs due to patterns learned from their pretraining data. Decoding-time steering\u2026",
+      "title": "AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction",
+      "summary": "Large language models have demonstrated strong mathematical problem-solving capabilities, yet reliably verifying their candidate answers remains challenging. Existing representati\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28529v1",
-      "authors": "Minghao Hu, Lannan Luo, Allen Roush"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29549v1",
+      "authors": "Rui Zou, Yutao Zhu, Mengqi Wei"
     },
     {
-      "title": "AI systems and the reproduction of (standard) language ideologies in World Englishes",
-      "summary": "The rapid growth of large language models (LLMs) has resurrected age-old questions in sociolinguistics and world Englishes, such as who decides what counts as legitimate English,\u2026",
+      "title": "ARB: A Matched Authorship-Rewriting Benchmark Dataset for AI-Text Detector Evaluation",
+      "summary": "Standard AI-text detection benchmarks compare human-written text against text generated directly by large language models (LLMs). While prior work has shown that rewriting and par\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28528v1",
-      "authors": "Kingsley Ugwuanyi"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29539v1",
+      "authors": "Gaetano Perrone, Simon Pietro Romano"
     },
     {
-      "title": "MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems",
-      "summary": "Large language model-based multi-agent systems improve complex problem solving through task decomposition, agent specialization, information exchange, and intermediate validation.\u2026",
+      "title": "A Neurosymbolic Approach for Explainable Early Diagnosis of Alzheimer's Disease",
+      "summary": "Identifying reliable Alzheimer's disease (AD) markers typically requires manual, labor-intensive transcription and expert analysis, limiting its scale. We introduce an automated p\u2026",
       "source": "AI / machine learning",
-      "date": "2026-07-30",
-      "link": "https://arxiv.org/abs/2607.28527v1",
-      "authors": "Mao-xun Huang, Jerry Wang, Yi-Cheng Lai"
+      "date": "2026-07-31",
+      "link": "https://arxiv.org/abs/2607.29530v1",
+      "authors": "Ranveer Singh, Pranuthi Tenali, Saurabh Mathur"
     }
   ],
   "errors": []
