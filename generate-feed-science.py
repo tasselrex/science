@@ -103,6 +103,7 @@ def arxiv_url(query: str) -> str:
     return base + "?" + urllib.parse.urlencode(params)
 
 def main():
+    print("Starting feed generation", flush=True)
     buckets = {label: [] for label, _ in QUERIES}
     errors = []
     source_counts = {}
@@ -110,29 +111,18 @@ def main():
     per_source_limit = max(1, MAX_ITEMS // max(1, len(QUERIES)))
 
     for label, query in QUERIES:
-        try:
+         try:
+            print("Fetching:", label, flush=True)
             xml_text = fetch(arxiv_url(query))
+            print("Fetched:", label, flush=True)
             items = parse_atom(xml_text, label)
-            print(label, len(items), items[0]["title"] if items else "NO HITS")
-
-            seen_titles = set()
-            unique_items = []
-            for item in items:
-                key = item["title"].lower()
-                if key in seen_titles:
-                    continue
-                seen_titles.add(key)
-                unique_items.append(item)
-
-            buckets[label] = unique_items[:per_source_limit]
-            source_counts[label] = len(buckets[label])
-
+            print(label, len(items), items[0]["title"] if items else "NO HITS", flush=True)
         except Exception as e:
+            print("FAILED:", label, e, flush=True)
             errors.append(f"{label}: {e}")
-            source_counts[label] = 0
 
-    final_items = []
-    global_seen = set()
+        final_items = []
+        global_seen = set()
 
     while len(final_items) < MAX_ITEMS:
         made_progress = False
@@ -167,3 +157,4 @@ def main():
     OUT.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
     print(f"Wrote {OUT} with {len(payload['items'])} items")
     print("Source counts:", source_counts)
+    print("Starting feed generation", flush=True)
