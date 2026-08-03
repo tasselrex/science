@@ -18,7 +18,6 @@ QUERIES = [
 #    ("Microscopy / imaging", 'all:microscopy OR all:"image analysis" OR all:"cryo-EM" OR all:"electron microscopy" OR all:imaging'),
 #    ("Analytical chemistry", 'all:"mass spectrometry" OR all:chromatography OR all:spectroscopy OR all:FTIR OR all:Raman'),
 #    ("Regulatory / pharma", 'all:FDA OR all:USP OR all:EMA OR all:"good manufacturing practice" OR all:pharma'),
-QUERIES = [
     (
         "Superconductivity",
         'all:superconductor OR all:superconductivity OR cat:cond-mat.supr-con'
