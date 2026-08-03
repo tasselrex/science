@@ -96,7 +96,7 @@ def arxiv_url(query: str) -> str:
     params = {
         "search_query": query,
         "start": "0",
-        "max_results": "50",
+        "max_results": "200",
         "sortBy": "submittedDate",
         "sortOrder": "descending",
     }
