@@ -1,18 +1,418 @@
 {
-  "updatedAt": "2026-08-10T23:10:12.948477+00:00",
-  "items": [],
+  "updatedAt": "2026-08-11T04:08:27.234059+00:00",
+  "items": [
+    {
+      "title": "A Quantum Coherence Microscope in the Hubbard Regime",
+      "summary": "Quantum coherence underlies collective quantum phenomena and emerging quantum technologies. Quantum gas microscopes have transformed quantum simulation by providing projective sna\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09924v1",
+      "authors": "Lin Su, Michal Szurek, Alec Douglas"
+    },
+    {
+      "title": "The quadratic growth of Krylov spread complexity in the BTZ black hole",
+      "summary": "The boundary quantity that captures the growth of black-hole interiors quantified by holographic complexity remains unknown beyond 2d dilaton gravity. We provide a critical analys\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09922v1",
+      "authors": "Aranya Bhattacharya, Mario Flory, Michal P. Heller"
+    },
+    {
+      "title": "Decoupling 2D translation-invariant topological CSS codes",
+      "summary": "Two-dimensional translation-invariant topological CSS codes on qubits are known to be locally equivalent, after coarse-graining, to stacks of toric codes. However, existing constr\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09915v1",
+      "authors": "Yifei Wang, Zhongyi Ni, Mingxin He"
+    },
+    {
+      "title": "From Koszul-Complex Stabilizer Models to Superselection Profiles: Topological Rigidity and Nonsplit Extensions",
+      "summary": "Koszul-complex stabilizer models unify the toric-code hierarchy and bivariate-bicycle codes in one homological framework. To study translation-symmetry-enriched topological (SET)\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09913v1",
+      "authors": "Hao Song"
+    },
+    {
+      "title": "Learning Clifford-structured quantum unitaries and Hamiltonians",
+      "summary": "Learning algorithms for structured quantum unitaries and Hamiltonians have primarily considered classes of processes that are local or sparse in the Pauli basis. We turn our atten\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09912v1",
+      "authors": "Arkopal Dutt, Dale Jacobs, John Jeang"
+    },
+    {
+      "title": "Surface passivation for narrowing optical linewidth of silicon T centers in nanophotonic devices",
+      "summary": "Silicon T centers are promising spin-photon interfaces in solid-state platforms for telecom-compatible, scalable quantum information technologies. A major challenge for T centers\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09904v1",
+      "authors": "Fariba Islam, Chang-Min Lee, Kyu-Young Kim"
+    },
+    {
+      "title": "From Nonlinear Stochastic Differential Equations to Quantum Channels: The Kolmogorov--Lindblad Mapping",
+      "summary": "Nonlinear stochastic differential equations (SDEs) underlie molecular modeling and drug discovery, quantitative finance, stochastic learning, and uncertainty quantification. Their\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09903v1",
+      "authors": "Hsuan-Cheng Wu, Xiantao Li"
+    },
+    {
+      "title": "Entanglement-assisted quantum locally recoverable codes: bounds and constructions with availability",
+      "summary": "In this work, we define entanglement-assisted quantum locally recoverable codes with availability, in which any set of up to $\u03b4-1$ erased qudits can be recovered from any one of $\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09886v1",
+      "authors": "Gretchen L. Matthews, Julia Shapiro"
+    },
+    {
+      "title": "Tensor network methods for non-perturbative dynamics of open quantum systems",
+      "summary": "The description of open quantum system dynamics beyond the perturbative treatment (usually associated with Markovian master equations) is a computationally challenging task due to\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09850v1",
+      "authors": "Thibaut Lacroix, Adam Burgess, Nicola Lorenzoni"
+    },
+    {
+      "title": "An upper bound for the purity of absolutely positive partial transpose states",
+      "summary": "A quantum state is called absolutely separable (resp. absolutely positive partial transpose (APPT)) if it remains separable (resp. positive partial transpose (PPT)) under any glob\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09832v1",
+      "authors": "Anh T. Tran"
+    },
+    {
+      "title": "Quantum Information Flow under String-Diagram Rewriting",
+      "summary": "We revisit the notion of ``quantum information flow'' introduced in Bob Coecke's early work and seek to give it an explicit string-diagrammatic formalization. Given a semantics pr\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09823v1",
+      "authors": "Yi-Yu Lin, Chen-Ye Li"
+    },
+    {
+      "title": "From Barren Plateaus to SPSA Optimization in Variational Quantum Eigensolvers",
+      "summary": "The barren plateau (BP) phenomenon poses a fundamental challenge to the trainability of variational quantum eigensolvers (VQEs) by causing exponentially vanishing gradients as the\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09810v1",
+      "authors": "Zhen Qin"
+    },
+    {
+      "title": "Autonomous Lindblad Realizability of Nonunitary Linear Dynamics with a Carleman Lattice Boltzmann Application",
+      "summary": "Carleman lifting converts nonlinear polynomial dynamics into finite linear systems, but the resulting truncations are generally nonunitary and need not correspond to physical quan\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09808v1",
+      "authors": "Muhammad Idrees Khan"
+    },
+    {
+      "title": "Security of quantum key distribution with passive basis choice and detection-efficiency mismatch for a realistic satellite setup",
+      "summary": "Detection-efficiency mismatch is a common problem in realistic quantum key distribution (QKD) systems. The existing security proofs for the case of the passive basis choice provid\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09793v1",
+      "authors": "Egor Ivchenko, Aleksandr Khmelev, Vladimir Kurochkin"
+    },
+    {
+      "title": "Quantized Stabilizer-R\u00e9nyi Boundary Response across Fermionic SPT Transitions",
+      "summary": "Open boundaries host symmetry-protected Majorana modes, yet their imprint on the stabilizer R\u00e9nyi entropy is obscured by a nonuniversal volume law. At R\u00e9nyi index $\u03b1=1/2$, we isol\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09749v1",
+      "authors": "M. A. Rajabpour"
+    },
+    {
+      "title": "Aicir: A Full-Stack Quantum Circuit Simulator with AscendNPU Support",
+      "summary": "Quantum computing is a promising way to study problems that are difficult for classical methods, but current quantum hardware still faces limits in scale, noise, and fidelity. Run\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09733v1",
+      "authors": "Xian Lu, Xinying Li, Fei Wang"
+    },
+    {
+      "title": "Magic State Distillation via Codes over Binary Extension Fields",
+      "summary": "Fault-tolerant quantum computation architectures are frequently bottlenecked by the overhead of producing high-fidelity magic states. In this work, we use algebraic geometric tech\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09727v1",
+      "authors": "Anqi Gong, Christopher A. Pattison, Patrick Rall"
+    },
+    {
+      "title": "State Diagnostics of Complexity in Open Quantum Systems",
+      "summary": "We study the emergence of complexity in finite-size quantum systems as their dynamics transition from closed and coherent evolution to interacting and effectively open behavior. U\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09705v1",
+      "authors": "Komal Sah, Fabio Anza, Alexandra M. Jurgens"
+    },
+    {
+      "title": "Spread of Entanglement in Generalized Kicked Ising Chain",
+      "summary": "We investigate the dynamics of entanglement in a generalized version of the kicked Ising chain, extending the model from the standard qubit case (local dimension $q=2$) to higher\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09695v1",
+      "authors": "Tanay Pathak, Hiromi Ebisu, Toma\u017e Prosen"
+    },
+    {
+      "title": "Collective-dissipation-induced dark and metastable-like states for enhanced quantum battery performance",
+      "summary": "We investigate the role of symmetry-protected dark states and metastable-like frozen states in the autonomous charging dynamics of open quantum batteries described by a transverse\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09693v1",
+      "authors": "Achraf Khoudiri, Asghar Ullah, Abderrahim El Allati"
+    },
+    {
+      "title": "An Efficient Explicit Implementation of a Quantum Algorithm with Quantum Advantage for Nonlinear Scalar Conservation Laws",
+      "summary": "Quantum algorithms for nonlinear partial differential equations remain challenging because nonlinear dynamics are not directly amenable to unitary quantum simulation. Building on\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09675v1",
+      "authors": "Kezhen Wang, Junpeng Hu, Lei Zhang"
+    },
+    {
+      "title": "Phase-error estimation for quantum key distribution with leaky receivers",
+      "summary": "Practical quantum key distribution (QKD) receivers may leak information about their measurement outcomes and settings to the channel (e.g., through detector backflashes or back-re\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09674v1",
+      "authors": "\u00c1lvaro Navarrete, Margarida Pereira, Guillermo Curr\u00e1s-Lorenzo"
+    },
+    {
+      "title": "Microscopic QED origin of spin entanglement",
+      "summary": "We study effective spin interactions arising from quantum electrodynamics (QED) scattering between localized fermionic spins. By integrating out photon and mediator fields, the dy\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09670v1",
+      "authors": "Moslem Zarei"
+    },
+    {
+      "title": "Characterising the set of deterministic quantum correlations in prepare-and-measure scenarios",
+      "summary": "Correlations that do not admit a deterministic explanation are a central feature of quantum theory and a key resource for quantum information processing. Identifying and certifyin\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09667v1",
+      "authors": "Nicola D'Alessandro, Oliver Karlsson, Carles Roch i Carceller"
+    },
+    {
+      "title": "Memory-, Circuit-, and Ansatz-Efficient VQLS for CFD on Hybrid Quantum-HPC Systems",
+      "summary": "Fluid dynamics workloads are dominated by repeated solves of large, structured linear systems, motivating the search for quantum acceleration. The Variational Quantum Linear Solve\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09661v1",
+      "authors": "Chao Lu, Muralikrishnan Gopalakrishnan Meena, Eduardo Antonio Coello Perez"
+    },
+    {
+      "title": "A Domain-Specific Language for Formulating Hybrid Quantum-Classical Meta-Solver Strategies",
+      "summary": "A key challenge when designing hybrid quantum-classical workflows is the identification of quantum candidates, that is, determining for which specific problems quantum advantages\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09659v1",
+      "authors": "Nick Poser, Domenik Eichhorn, Ina Schaefer"
+    },
+    {
+      "title": "QSVM-RQNN: Low-Qubit Recurrent Quantum Similarity Learning for Condition Monitoring and Fault Classification",
+      "summary": "In the Noisy Intermediate-Scale Quantum (NISQ) era, limited qubit availability and hardware noise constrain the practical deployment of quantum machine learning (QML). Existing qu\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09652v1",
+      "authors": "Amit S. Patel, Himanshu R. Patel, Bikash K. Behera"
+    },
+    {
+      "title": "Conditions for implementing projective measurements through continuous monitoring",
+      "summary": "Projective measurements are foundational for quantum physics in general and quantum information tasks in particular. However, their direct implementation is often not warranted. H\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09639v1",
+      "authors": "Therese Karmstrand, Franco Nori, Clemens Gneiting"
+    },
+    {
+      "title": "A Design Space Study of Density Matrix Parameterizations for Diffusion-Based Quantum State Tomography",
+      "summary": "Diffusion-based quantum state tomography (QST) has shown promising results, but all existing methods implicitly adopt a single parameterization---typically Cholesky---without syst\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09625v1",
+      "authors": "Shuangju Chang"
+    },
+    {
+      "title": "Time Dilation and center of Mass Normalization in the Page-Wootters Formalism",
+      "summary": "In this work, we study the emergence of relativistic effects in a composite quantum clock within the Page-Wootters relational formulation of quantum mechanics. We consider a syste\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09601v1",
+      "authors": "Juan Sebastian Ardenghi"
+    },
+    {
+      "title": "A Highly Accurate Fast Decoding Framework for QLDPC codes Accelerated by Noise Perturbation and Ensemble Decoding",
+      "summary": "A well-balanced decoder has been central to the development of modern fault-tolerant quantum computing. However, the inherent topologies of quantum error correcting codes can limi\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09583v1",
+      "authors": "Mainak Bhattacharyya, Ankur Raina"
+    },
+    {
+      "title": "Quantum Uncomputation of Clean and Dirty Ancilla Qubits",
+      "summary": "Automatic uncomputation aims to provide programming-language-level support to facilitate the correct and safe use of ancilla qubits in quantum computing, but efforts have only bee\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09578v1",
+      "authors": "Chenke Liu, Li Zhou, Boning Meng"
+    },
+    {
+      "title": "Conditional non-Hermitian acceleration of multiphoton atomic transitions",
+      "summary": "Continuous monitoring can convert a dissipative channel into a resource for accelerating otherwise slow multiphoton transitions. We consider a three-level atom in a $\u039b$ configurat\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09562v1",
+      "authors": "Marcos V. S. de Paula, Alexandre P. Costa, A. V. Dodonov"
+    },
+    {
+      "title": "Quantum Coordination and Nonlocal Games: Theory and Applications",
+      "summary": "Coordination is a fundamental primitive in communication and information theory, in which distributed systems must collectively generate correlated behavior rather than merely exc\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09540v1",
+      "authors": "Husein Natur, Uzi Pereg"
+    },
+    {
+      "title": "Compound beams for direct experimental comparison of quantum operations",
+      "summary": "Compound beams composed of simple experimental blocks (detected in simultaneous detection windows) that form specific quantum-correlated structures are suggested for simulating th\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09518v1",
+      "authors": "Kishore Thapliyal, Jan Perina, Pavel Pavlicek"
+    },
+    {
+      "title": "Faster Algorithms for Multimarginal Optimal Transport",
+      "summary": "We study algorithms for approximating the multimarginal optimal transport (MOT) distance, a generalization of the classic optimal transport distance, between $m$ discrete probabil\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09513v1",
+      "authors": "Brandon Augustino, Yue Sun, Atithi Acharya"
+    },
+    {
+      "title": "Gate-based emulation of boson sampling using photonic qubits",
+      "summary": "Boson sampling arising from multiphoton interference in linear-optical networks is a prominent non-universal model for quantum computation. Here, by encoding the multi-qubit state\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09509v1",
+      "authors": "Aastha P. Zalone, S. P. Dinesh, C. M. Chandrashekar"
+    },
+    {
+      "title": "Genuinely Unextendible Product Bases from Maximum Distance Separable Codes",
+      "summary": "The existence of genuinely unextendible product bases (GUPBs), incomplete orthogonal sets of fully product states whose orthogonal complements contain no product vector across any\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09504v1",
+      "authors": "Mao-Sheng Li"
+    },
+    {
+      "title": "Autoregressive Projective Quantum Monte Carlo: From a Hermitian to a Non-Hermitian Perspective",
+      "summary": "Accurately determining the ground-state properties of quantum many-body systems remains a central challenge. In this work, we introduce an autoregressive projective quantum Monte\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09496v1",
+      "authors": "Lavoisier Wah, Remmy Zen, Flore K. Kunst"
+    },
+    {
+      "title": "Quantum sensing composite excitations in an anisotropic ferromagnet via a qubit",
+      "summary": "Ordered magnets harbor intrinsically squeezed ground states and magnonic excitations characterized by entanglement between spins and nonclassical magnon number composition. A path\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09463v1",
+      "authors": "Amey S. Rodge, Tarek Moussa, Akashdeep Kamra"
+    },
+    {
+      "title": "Probing Non-equilibrium baths: Frequency-Resolved Thermometry and Quantum Heat Current Turnover",
+      "summary": "Quantum heat transport for non-equilibrium steady state (NESS) exhibits a characteristic turnover effect, where the heat current reaches a maximum and subsequently declines as sys\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09461v1",
+      "authors": "Akhil Bhartiya, Tobias Kramer, David Gelbwaser-Klimovsky"
+    },
+    {
+      "title": "A non-Markovian approach to spin-phonon coherence and the breakdown of the Markovian approximation",
+      "summary": "Qubit coherence is an essential figure of merit for quantum information processing applications such as quantum computing, or quantum repeaters. Understanding the coherence proper\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09455v1",
+      "authors": "Mohamed Belhassen, Tim Schr\u00f6der, Gregor Pieplow"
+    },
+    {
+      "title": "An accelerator-based source of high-intensity quantum-entangled annihilation gamma photons",
+      "summary": "We present the concept and development of a novel accelerator-based source of high-intensity quantum-entangled 511 keV gamma-ray pairs produced through positron-electron annihilat\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09454v1",
+      "authors": "Riad Suleiman"
+    },
+    {
+      "title": "Birefringent Biomineral Microcarriers Stabilise Multimodal Nanodiamond Quantum Sensing in Liquids",
+      "summary": "Mobile nanodiamond quantum sensors in liquids are limited by Brownian rotation, variable photon collection, and perturbations introduced by optical trapping. Here, we assemble 40-\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09434v1",
+      "authors": "T. Amro, M. Attrash, A. Droby"
+    },
+    {
+      "title": "QTris: a pedagogical board game to teach Quantum Mechanics",
+      "summary": "In this paper we introduce the new version of QTris, a board game designed to teach and learn Quantum Mechanics within the framework of Quantum Information and Computation. The ke\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09430v1",
+      "authors": "Alessandro Amabile, Maria Bondani, Immacolata De Simone"
+    },
+    {
+      "title": "Noisy Braiding of Majorana Modes: A Comparison of Nanowire Trijunction and Quantum-Dot-Assisted Architectures",
+      "summary": "Majorana zero modes have emerged as one of the most promising platforms for topological quantum computation, since their non-Abelian braiding statistics allow quantum information\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09416v1",
+      "authors": "Dibyajyoti Sahu, Suhas Gangadharaiah"
+    },
+    {
+      "title": "Geometrical approach and topological electron density in the $p_x + ip_y$ superconductor",
+      "summary": "We present an analysis on the geometrical and physical nature of the $p_x + ip_y$ superconductor on the square lattice, with an emphasis on the topological phase transition at hal\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09415v1",
+      "authors": "Karyn Le Hur, Kabir Narayanan, \u00d3scar Ma\u00f1as Chambert"
+    },
+    {
+      "title": "Binary code rate bounds via classical--quantum channels",
+      "summary": "We derive the four principal asymptotic rate-distance tradeoffs for binary codes---Plotkin, Elias--Bassalygo, and the two McEliece--Rodemich--Rumsey--Welch (MRRW) bounds---from on\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09347v1",
+      "authors": "Omar Alrabiah, Venkatesan Guruswami"
+    },
+    {
+      "title": "A high-performance quantum pulse gate in thin-film lithium niobate",
+      "summary": "In this work, we demonstrate a quantum pulse gate (QPG) in thin-film lithium niobate. QPGs enable the selective manipulation and detection of temporal modes of quantum light and f\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09346v1",
+      "authors": "Silia Babel, Alejandra Alarc\u00f3n, Laura Serino"
+    },
+    {
+      "title": "High-fidelity controlled-phase gates for distinguishable quantum walkers via extended interactions",
+      "summary": "We investigate the implementation of controlled-phase (CP) gates with quantum walks in a dual-rail encoding through the use of interacting particles. While previous proposals have\u2026",
+      "source": "Quantum",
+      "date": "2026-08-10",
+      "link": "https://arxiv.org/abs/2608.09301v1",
+      "authors": "Gaia Forghieri, Matteo G. A. Paris"
+    }
+  ],
   "errors": [
-    "Superconductivity: HTTP Error 429: Too Many Requests",
-    "Quantum: HTTP Error 429: Unknown Error",
-    "Tribology: HTTP Error 429: Unknown Error",
+    "Superconductivity: The read operation timed out",
+    "Tribology: HTTP Error 429: Too Many Requests",
     "Materials science: The read operation timed out"
   ],
   "sourceCounts": {
     "Superconductivity": 0,
-    "Quantum": 0,
+    "Quantum": 50,
     "Tribology": 0,
     "Materials science": 0
   },
   "sourceTotal": 4,
-  "itemTotal": 0
+  "itemTotal": 50
 }
