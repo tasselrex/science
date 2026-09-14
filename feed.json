@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-13T22:27:46.224158+00:00",
+  "updatedAt": "2026-09-14T01:09:53.073741+00:00",
   "items": [],
   "errors": [
-    "Superconductivity: The read operation timed out",
+    "Superconductivity: HTTP Error 429: Too Many Requests",
     "Quantum: HTTP Error 429: Unknown Error",
-    "Tribology: The read operation timed out",
-    "Materials science: The read operation timed out"
+    "Tribology: HTTP Error 429: Unknown Error",
+    "Materials science: HTTP Error 429: Unknown Error"
   ],
   "sourceCounts": {
     "Superconductivity": 0,
