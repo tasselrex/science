@@ -1,21 +1,757 @@
 {
-  "updatedAt": "2026-10-14T01:55:34.309970+00:00",
+  "updatedAt": "2026-10-14T07:41:28.904376+00:00",
   "items": [
     {
-      "title": "Avoiding Defects within Heavy-Hexagon Architecture",
-      "summary": "When implementing scalable fault-tolerant quantum computing using superconducting quantum processors, one of the critical challenges to overcome is the presence of defective qubit\u2026",
+      "title": "Deterministic and programmable generation of mechanical multipartite entangled states",
+      "summary": "Multimode mechanical resonators offer a large set of densely packed, long-lived bosonic modes within a single compact device, making them attractive for quantum simulation, quantu\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14778v1",
-      "authors": "Hansol Kim, Younghun Kwon"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18778v1",
+      "authors": "Isabelle Franzen, Max-Emanuel Kern, Q. Rumman Rahman"
     },
     {
-      "title": "Generative Quantum Machine Learning Methods for Cancer Detection using Augmented Datasets",
-      "summary": "Cancer detection using AI methods and image databases faces several challenges, including limited and imbalanced image datasets, long algorithm training times, and high-complexity\u2026",
+      "title": "Gaussian entanglement and quantum communication: geodesic optimization and multimode bounds",
+      "summary": "Loss and noise limit the use of light to distribute entanglement, transmit quantum information, and establish secret keys. Gaussian states have a compact description in terms of m\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.15110v1",
-      "authors": "Sophia Knutson, Nandika Goyal, Gennaro De Luca"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18827v1",
+      "authors": "Hemant K. Mishra, Mark M. Wilde"
+    },
+    {
+      "title": "LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models",
+      "summary": "Robot policies are expected to generalize across deployment environments, including variations in the robot itself: cameras are bumped and remounted, calibrations drift, controlle\u2026",
+      "source": "Tribology",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18843v1",
+      "authors": "Andrea Yaoyun Cui, Hanyu Wang, Xinyi Wang"
+    },
+    {
+      "title": "WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World",
+      "summary": "Reconstructing complete, high-quality meshes of large-scale scenes from unposed multi-view images requires faithful geometric grounding while plausibly completing surfaces that ar\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18846v1",
+      "authors": "Mengchen Zhang, Yang Li, Chunshi Wang"
+    },
+    {
+      "title": "Lifting: Quantum State Discrimination Framework for Mid-Circuit Measurements",
+      "summary": "Quantum computing promises new capabilities beyond classical computation. Mid-circuit measurements (MCMs) enable error correction and outcome-dependent control, but their reliabil\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18482v1",
+      "authors": "Chi Zhang, Neel Vora, Yilun Xu"
+    },
+    {
+      "title": "On the coincidence of discrete and continuous definitions of Entanglement of Formation",
+      "summary": "It is proved that every Borel ensemble of pure states on a separable bipartite Hilbert space with finite average entanglement admits a countable ensemble with the same barycenter\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18816v1",
+      "authors": "Haobo Ma, Maksim E. Shirokov, Wenlin Zhang"
+    },
+    {
+      "title": "RoboSimStudio: An Interactive Toolkit for Rapid Real2Sim of Robot Manipulation Tasks",
+      "summary": "It is difficult to accurately model the physics of the interaction between a robot and the objects it manipulates, including contact mechanics, coupled contact dynamics, deformati\u2026",
+      "source": "Tribology",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18835v1",
+      "authors": "Kaiyuan Chen, Shuangyu Xie, Uksang Yoo"
+    },
+    {
+      "title": "Self-Evolving Agent Harness",
+      "summary": "Harness self-evolution revises an agent's software scaffolding, including prompts, memory, workflows, and executable components, while keeping model weights fixed. We formalize a\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18813v1",
+      "authors": "Chuyang Wei, Haoxiang Guan, Minghang Zhu"
+    },
+    {
+      "title": "Experimental Realization of a C-Shunt Flux-Qubit Coupler for Controlled-Z Gates between Transmons",
+      "summary": "Fast entangling gates and low-interaction idling require distinct operating conditions in superconducting quantum processors. We experimentally realize a transmon-C-shunt-transmon\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18477v1",
+      "authors": "Weiping Yuan, Silu Zhao, Li Li"
+    },
+    {
+      "title": "$\\mathsf{EFI}\\Leftrightarrow\\mathsf{1PRS}$",
+      "summary": "A series of recent works has established EFI pairs as the \"minimal\" assumption for quantum cryptography. Recently, Cavalar et al. [CCC+26] showed that EFI pairs are equivalent to\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18799v1",
+      "authors": "Rishabh Batra"
+    },
+    {
+      "title": "Curie-Weiss cell fluid model: Fitting to experimental critical-point data",
+      "summary": "We examine how the Curie--Weiss cell fluid model can be quantitatively related to real fluids by determining its microscopic parameters from experimental critical-point data for w\u2026",
+      "source": "Tribology",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18411v1",
+      "authors": "I. V. Pylyuk, O. A. Dobush, M. P. Kozlovskii"
+    },
+    {
+      "title": "Embossing of Tapered, Isometric Micro-Interdigitated Flow Fields for Enhanced Desalination by Faradaic Deionization",
+      "summary": "Engineered transport architectures can improve electrolyte distribution and active-material utilization in porous electrodes, yet their implementation remains limited by fabricati\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18791v1",
+      "authors": "Md Habibur Rahman, Sadia Afrin, Kyle C. Smith"
+    },
+    {
+      "title": "The role of dependency range in thermally coupled superconducting networks",
+      "summary": "Interdependent networks can be highly fragile because dependency links amplify local failures into cascades that trigger global collapse. Much of the theoretical understanding com\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18418v1",
+      "authors": "Nahala Yadid, Bnaya Gross, Shlomo Havlin"
+    },
+    {
+      "title": "Relative-Entropy Geometry and Convergence in Nonconvex Wiretap Optimization",
+      "summary": "We develop and analyze an entropic descent method for a nonconvex optimization problem on probability simplices arising in classical and quantum secure communication. The optimiza\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18785v1",
+      "authors": "Farzin Salek, Masahito Hayashi"
+    },
+    {
+      "title": "Intent-guided Adaptive Stiffening for Visuomotor Policies under Unknown Resistance",
+      "summary": "Manipulation tasks such as unscrewing a cap or sliding a part in contact with a surface require imposing force along a high-friction direction: the robot must overcome a resistanc\u2026",
+      "source": "Tribology",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18386v1",
+      "authors": "Francesco Cufino, Carmela Mariniello, Mario Selvaggio"
+    },
+    {
+      "title": "Learning When to Transfer: Reinforcement Learning for Carbon-Footprint Modeling in New Manufacturing Domains",
+      "summary": "Manufacturers often need to characterize a new material, process, or product before enough operating data are available to train reliable predictive models for this new, target do\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18730v1",
+      "authors": "Muhammad Umar Farooq, Daniel R. Cooper"
+    },
+    {
+      "title": "Phonon-Mediated Superconductivity near Phase Boundaries in Rhombohedral Multilayer Graphene",
+      "summary": "The recent observation of superconductivity in untwisted multilayer graphene has sparked intense interest in its microscopic origin. As the displacement field and carrier density\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18286v1",
+      "authors": "Konstantinos Sourounis, Peter M. Oppeneer"
+    },
+    {
+      "title": "Quantum-enhanced mechanical sensing with machine-learning estimation",
+      "summary": "Massive mechanical oscillators couple directly to forces, accelerations and gravity, making them attractive probes of new physics and of quantum mechanics at macroscopic scales. P\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18776v1",
+      "authors": "Finn M\u00fc\u00dfigbrodt, Andra\u017e Omahen, Q. Rumman Rahman"
+    },
+    {
+      "title": "ShoeFit: A New Dataset and Dual-image-stream DiT Framework for Virtual Footwear Try-On",
+      "summary": "Virtual footwear try-on (VFTON), a critical yet underexplored area in virtual try-on (VTON), aims to synthesize faithful try-on results given diverse footwear and model images whi\u2026",
+      "source": "Tribology",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18325v1",
+      "authors": "Yuhan Li, Zhiyu Jin, Yifan Tong"
+    },
+    {
+      "title": "AIRRI: Towards a Human-Readable, Machine-Resistant Reading Interface",
+      "summary": "The rapid advancement of image-to-text extraction systems and large language models (LLMs) poses new challenges for educational assessment by making assignment materials easy to t\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18724v1",
+      "authors": "Emory Salaun, Syed Ayon, Kaleel Mahmood"
+    },
+    {
+      "title": "Quantitative Impact of Occupation Smearing Methods on Conventional Superconductivity: from Electronic Structure through Lattice Dynamics to Electron-Phonon Coupling",
+      "summary": "In first-principles calculations of metallic systems, the discrete electronic mesh in the Brillouin zone necessitates a smearing function and its width (e.g., the widely used 0.02\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18185v1",
+      "authors": "Zhongyu Wan"
+    },
+    {
+      "title": "Finite-energy two-way assisted capacities: Exact formulas for multimode loss and fading",
+      "summary": "We study quantum communication, entanglement distribution, and secret-key generation through multimode bosonic loss and fading channels, assisted by local quantum operations and t\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18731v1",
+      "authors": "Stefano Pirandola, Gaetana Spedalieri"
+    },
+    {
+      "title": "Charge-selective topological locking and ultraslow coarsening in magnetoelastic media",
+      "summary": "We demonstrate that the symmetry of magnetoelastic coupling governs the topological organization of composite defects and can qualitatively alter phase-ordering kinetics. In a two\u2026",
+      "source": "Tribology",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18320v1",
+      "authors": "Tirthankar Banerjee, Amaresh Jaiswal"
+    },
+    {
+      "title": "Superexchange coupling between a dilute Gd3+ probe and orphan spins in a valence-bond glass",
+      "summary": "The valence-bond-glass state of the 4d^1 double perovskite Ba2YMoO6 combines Mo^5+ singlets with residual paramagnetic \"orphan\" spins whose coupling is hard to reach with bulk pro\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18722v1",
+      "authors": "Patrick Colgan, Artur Solodovnyk, Jeremy P. Carlo"
+    },
+    {
+      "title": "Effects of the choice of the exchange-correlation functional on high-temperature superconductivity predictions in covalent-cage M(BN)5 family",
+      "summary": "The recent experimental synthesis of covalent cage superconductors has ignited hopes for ambient-pressure high-temperature superconductivity, while the computational strategy for\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18171v1",
+      "authors": "Zhongyu Wan, Guo-Hua Zhong, Cheng-wei Ju"
+    },
+    {
+      "title": "Imaginary HTEE: Probing Criticality and Coherence",
+      "summary": "We study the imaginary part of the holographic timelike entanglement entropy (HTEE) in a charged asymptotically AdS$_5$ black-hole background whose dual field theory exhibits a cr\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18716v1",
+      "authors": "M. Ali-Akbari, M. M. Daryaei Goki"
+    },
+    {
+      "title": "Back to the Future: Reverse-Consequence Modeling for Long-Horizon Particle Dynamics",
+      "summary": "Accurate prediction of object trajectories is fundamental to mechanical understanding and robotic control. However, autoregressive models inherently suffer from cumulative errors,\u2026",
+      "source": "Tribology",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18168v1",
+      "authors": "Leyan Zhang, Nantian He, Jiajun Ma"
+    },
+    {
+      "title": "Composition-controlled optical fingerprints and anisotropy of self-trapped excitons in double perovskites",
+      "summary": "Double perovskites (DPs) offer a compositionally versatile platform for photocatalysis and optoelectronics, but their soft lattices favor strong exciton-phonon coupling and self-t\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18665v1",
+      "authors": "Simone Grillo, Offir Zachs Maishlos, Liya Koren"
+    },
+    {
+      "title": "Local error correction prolongs time-crystalline memory",
+      "summary": "Discrete time crystals are non-equilibrium phases of matter with spatiotemporal order and a response that breaks the time-translation symmetry of a periodic external drive. Intera\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18124v1",
+      "authors": "Benedikt Fauseweh"
+    },
+    {
+      "title": "PULSUS: Direct Frequency-Domain Multidimensional Spectroscopy Beyond the Impulsive Rotating-Wave Approximation",
+      "summary": "We introduce PULSUS, a direct frequency-domain framework for multidimensional spectroscopy of open quantum systems beyond the impulsive rotating-wave approximation. Coherence-freq\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18712v1",
+      "authors": "Alfonso Castillo-Gonzolez, Eric R. Bittnre"
+    },
+    {
+      "title": "Code2Worlds-2: Physically Plausible Agent Harness for Embodied World Simulation",
+      "summary": "Recent coding large language models (LLMs) can synthesize dynamic 4D worlds from natural language, but the resulting content remains a visual artifact. It lacks physical semantics\u2026",
+      "source": "Tribology",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.17651v1",
+      "authors": "Haoyu Zhang, Siming Li, Zeyu Zhang"
+    },
+    {
+      "title": "Jev-ToM: Evaluating Theory of Mind in Typed Decision Models",
+      "summary": "Dialogue and collaborative assistants repeatedly judge what a partner knows, believes, or intends. Typed decision models offer a potential alternative to generative large language\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18610v1",
+      "authors": "Kawai Chung, Chunkit Chan, Yuxuan Liu"
+    },
+    {
+      "title": "Development and experimental implementation of noise characterisation techniques on a superconducting quantum processor",
+      "summary": "Noise characterisation not only enables error mitigation but also provides valuable information about the intrinsic performance of a quantum device, identifying dominant error con\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18000v1",
+      "authors": "Nelson M. M. Fern\u00e1ndez, Francesco Grieco, Hetta Vappula"
+    },
+    {
+      "title": "Explicitly correlated ground states with a feedback-free variational hybrid algorithm",
+      "summary": "Explicitly correlated methods, which represent dominant short-range correlations by a diagonal Jastrow-type correlator, are designed to accurately describe systems of strongly cor\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18681v1",
+      "authors": "Benjamin Corbett, Akimasa Miyake"
+    },
+    {
+      "title": "From Pixels to Executable Physics: Behavior-Grounded World Models for Embodied Action Consequence Prediction",
+      "summary": "In outdoor environments, varying terrain and contact conditions can cause identical action commands to produce different motion outcomes for quadruped robots. Predicting these out\u2026",
+      "source": "Tribology",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.17630v1",
+      "authors": "Ruo Chen, Jiahua Pang, Yingjie Niu"
+    },
+    {
+      "title": "PhysicsSliders: Learning Physical Controls for Audio Foley Generation",
+      "summary": "Physical properties provide intuitive controls for sounds made by interacting objects. The challenge is to make a generative model respond predictably to these controls, both indi\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18597v1",
+      "authors": "Peiwei Chang, Yongqiang Chen, Yuelan Cheng"
+    },
+    {
+      "title": "WannierSTM: Efficient superconducting scanning-probe spectroscopy from maximally localized Wannier functions",
+      "summary": "We present a Python-based program that combines maximally localized Wannier functions-based first-principles electronic structure with the nonequilibrium Green's function formalis\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.17943v1",
+      "authors": "Oscar Moreno Segura, Dorye L. Esteras, Andrei Shumilin"
+    },
+    {
+      "title": "Dark state preparation in a zero-field-split molecular triplet",
+      "summary": "We propose a protocol to prepare and probe dark states in a single-molecule electron spin resonance based on atomic force microscopy (ESR-AFM), thus extending existing techniques\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18661v1",
+      "authors": "Maria Pfahler, Andrea Donarini"
+    },
+    {
+      "title": "Direct Electromechanical Actuation of the Shift Drum in Non-Synchronized Motorcycle Transmissions: From Actuator Sizing and Electronics Design to Closed-Loop Position Control",
+      "summary": "This thesis presents the direct electromechanical actuation of the shift drum in a non-synchronized motorcycle transmission. A DC motor drives the shift drum through a self-lockin\u2026",
+      "source": "Tribology",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.17385v1",
+      "authors": "Johannes Stockhammer"
+    },
+    {
+      "title": "Time-Resolved Phonon Dispersions of Thermally Excited Graphite at the Nanoscale",
+      "summary": "Lattice vibrations govern the propagation of heat in materials, and investigating their dynamics through time-resolved phonon dispersion measurements would provide insight into th\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18561v1",
+      "authors": "Mairi McCauley, Christoph T. Koch, Benedikt Haas"
+    },
+    {
+      "title": "Imaging atomic-scale surface structure and superconducting gap of the misfit layered compound (SnS)1.17NbS2",
+      "summary": "Superlattices of van der Waals-coupled two-dimensional materials offer a platform for engineering electronic band structure and fostering emergent quantum states. Misfit layered c\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.17879v1",
+      "authors": "Dongming Zhao, Shamarita Deb, Lichen Ji"
+    },
+    {
+      "title": "$T$-efficient unitary synthesis via block-sparse Hamiltonian simulation",
+      "summary": "We construct Clifford+$T$ circuits implementing arbitrary $n$-qubit unitaries with worst-case $T$-count $\\widetilde{O}(N^{8/7})$ at constant operator-norm error, where $N=2^n$, im\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18589v1",
+      "authors": "Diyi Liu, Shuchen Zhu, Wibe Albert de Jong"
+    },
+    {
+      "title": "DexNinja: Learning Robust Dexterous Cutting Policy with a Real-to-Sim-to-Real Data Engine",
+      "summary": "Cutting a piece of food looks effortless in human hands. For a robot, however, every cut is a high-contact interaction with a deformable, elasto-plastic object whose behavior chan\u2026",
+      "source": "Tribology",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.17208v1",
+      "authors": "Haozhe Lou, Runyi Yang, Wanqi Zhong"
+    },
+    {
+      "title": "Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor",
+      "summary": "Mixed-anion semiconductors offer opportunities for bandgap engineering beyond conventional multication alloys, but competing phases and disorder complicate their synthesis and the\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18550v1",
+      "authors": "Baikui Li, Zecheng Yang, Wenhao Yin"
+    },
+    {
+      "title": "Observation of stacked vortex structure with number controllable Majorana zero mode in Bi$_{2}$Te$_{3}$/FeTe heterojunction",
+      "summary": "Creation and control of Majorana zero modes (MZMs) in solid devices is the key challenge in realizing fault tolerant topological quantum computation. Here we report spectroscopic\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.17701v1",
+      "authors": "Xinru Han, Zhaokun Luo, Quanxin Hu"
+    },
+    {
+      "title": "Can the system dynamics remain structurally non-Markovian while its experimentally accessible memory signatures disappear?",
+      "summary": "We investigate how unresolved quasistatic disorder in system bath coupling affects non-Markovian dynamics in spin environments. The coupling is fixed within each experimental shot\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18582v1",
+      "authors": "Sayan Sengupta, Anish Sharma, George Biswas"
+    },
+    {
+      "title": "Rigid Bodies as Accidental Seismoscopes: Exact Time Stepper Inversion and an Estimate of Ground Acceleration in the 2026 La Guaira Earthquake",
+      "summary": "An unknown ground excitation is recovered from the measured response of a rigid body sliding in two dimensions on an inclined surface under Coulomb friction, a system with no clas\u2026",
+      "source": "Tribology",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16912v1",
+      "authors": "Rafael Ruiz, Ruben Boroschek, Eduardo Nu\u00f1ez"
+    },
+    {
+      "title": "A Transferable Machine-Learned Potential Enabling Large-Scale Copper-Carbon Simulations from Equilibrium to Extreme Conditions",
+      "summary": "Cu-C materials and interfaces are central to diamond thermal management, metallization, graphene growth and carbon-coating technologies, but atomistic simulations across these app\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18545v1",
+      "authors": "Feiyu Zhou, Wei Qiu, Yan Chen"
+    },
+    {
+      "title": "Photoacoustic imaging of human brain function through intact adult skulls",
+      "summary": "Blood-oxygen-level-dependent (BOLD) functional magnetic resonance imaging (fMRI) has revolutionized noninvasive imaging of human brain function, but it indirectly senses deoxyhemo\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.17504v1",
+      "authors": "Yilin Luo, Rui Cao, Manxiu Cui"
+    },
+    {
+      "title": "On the Increase of Boltzmann Entropy in Closed Macroscopic Quantum Systems",
+      "summary": "We consider a closed macroscopic quantum system in a pure state $\u03c8$ evolving unitarily with Hamiltonian $H$ in a finite-dimensional Hilbert space $\\mathscr{H}$. Following von Neum\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18553v1",
+      "authors": "Cedric Igelspacher, Roderich Tumulka"
+    },
+    {
+      "title": "Versatile two-layer model for thermohydraulic prediction of microchannel heat sinks",
+      "summary": "Three-dimensional conjugate heat-transfer simulations provide detailed predictions for microchannel heat sinks but can be computationally demanding when many geometries and operat\u2026",
+      "source": "Tribology",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16716v1",
+      "authors": "Chih-Hsiang Chen, Kentaro Yaji"
+    },
+    {
+      "title": "Imaging Gate-Tunable Single-Layer Molecular Kagome Lattices",
+      "summary": "Kagome lattices provide a simple geometry for engineering electronic states that exhibit novel quantum behavior. In conventional kagome materials, however, the relevant states are\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18539v1",
+      "authors": "Ziyi Wang, Rafal Zuzak, Weichen Tang"
+    },
+    {
+      "title": "Type I-II/II-I vortices from dimension-six self-interaction",
+      "summary": "We show that adding a dimension-six self-interaction to the Abelian-Higgs or Ginzburg Landau model results in a remarkable and rich structure of multi-vortex solutions. Besides th\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.17437v1",
+      "authors": "A. Alonso-Izquierdo, A. Gonz\u00e1lez-Parra, K. Slawinska"
+    },
+    {
+      "title": "Phases of a rotating Bose-Einstein condensate trapped in a hard-wall potential",
+      "summary": "We investigate the rotational properties of a zero-temperature Bose-Einstein condensed gas, which is confined in a hard-wall potential. For weak interactions the gas carries its a\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18527v1",
+      "authors": "H\u00e9l\u00e8ne Perrin, G. M. Kavoulakis"
+    },
+    {
+      "title": "An Intermediate-orbit Brown Dwarf Confirmed with Astrometry+Radial Velocity Joint Analysis, and the Eccentricity Distribution of Brown Dwarfs Across Different Locations",
+      "summary": "Intermediate-orbit ($\\sim 1$ AU) brown dwarfs with absolute mass measurements are essential for understanding the evolution of substellar objects. Although such systems remain rar\u2026",
+      "source": "Tribology",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16662v1",
+      "authors": "Lei Ren, Tianjun Gan, Yifan Xuan"
+    },
+    {
+      "title": "Flexoelectricity and Flexomagnetism",
+      "summary": "Strain gradients, unlike homogeneous strain, are odd under space inversion and unlock couplings that are strictly forbidden in the parent crystal. At the nanoscale, and in curved\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18525v1",
+      "authors": "Alexander Edstr\u00f6m, Massimiliano Stengel"
+    },
+    {
+      "title": "Turning a superconducting diode into a Feynman ratchet to realize a nanoscale heat engine",
+      "summary": "Feynman's ratchet illustrates how work can be extracted from thermal fluctuations in the presence of two heat baths at different temperatures. While some experimental realizations\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.17257v1",
+      "authors": "Konstantinos Kontogeorgiou, \u0130nan\u00e7 Adagideli, G\u00e9raldine Haack"
+    },
+    {
+      "title": "Steering the Fidelity in State Preparation on Noisy Bosonic Systems with Risk-Seeking Optimization",
+      "summary": "In order to execute quantum algorithms on bosonic quantum computers, it is necessary to encode their inputs into a desired target quantum state, with a process called state prepar\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18495v1",
+      "authors": "Riccardo Piantoni, Riccardo Pellini, Maurizio Ferrari Dacrema"
+    },
+    {
+      "title": "SHOES: Sim-to-real Hardware-adaptation via On-policy Expansion of Skills for Legged Robots",
+      "summary": "Humans expand their locomotion capability by wearing appropriate footwear, such as hiking boots for mountains or skates for ice. Footwear changes the ground-contact interface and\u2026",
+      "source": "Tribology",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16457v1",
+      "authors": "Kota Tsuruhara, Tsung-Yuan Chen, Kento Kawaharazuka"
+    },
+    {
+      "title": "The Smart Buildings Challenge: Learning Foundation Models for Real-World Optimization at Scale",
+      "summary": "Buildings cause nearly 40\\% of carbon emissions in the US. Of total building emissions, HVAC systems are responsible for approximately 40-60\\% and account for 15\\% of global energ\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18511v1",
+      "authors": "Judah Goldfeder, Ayush Rai, Philippe M. Wyder"
+    },
+    {
+      "title": "Pairing from repulsive interactions in twisted WSe2 from functional renormalization",
+      "summary": "Motivated by the observation of superconductivity in twisted bilayer WSe$_2$ over an extended range of displacement fields, reaching from the correlated insulator down to zero fie\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.17222v1",
+      "authors": "Hannes Braun, Dumitru C\u0103lug\u0103ru, Pietro M. Bonetti"
+    },
+    {
+      "title": "Unequal Coherent Ergotropy at Equal Interferometric Visibility and Energy in Quantum-Controlled Interferometers",
+      "summary": "The ergotropy, or unitarily extractable work, of a quantum system naturally splits into incoherent and coherent contributions, respectively set by population inversion and coheren\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18474v1",
+      "authors": "Tonipe Anuradha, Andr\u00e9 H. A. Malavazi, Borhan Ahmadi"
+    },
+    {
+      "title": "Fingering instability of thin films with an inclined contact line",
+      "summary": "The fingering instability of thin-film flow is a significant obstacle to producing uniform and stable films in industrial processes. In the framework of lubrication theory, we inv\u2026",
+      "source": "Tribology",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16380v1",
+      "authors": "Ze-Hui Gao, Er-Qiang Li, Peng Gao"
+    },
+    {
+      "title": "Aligning Faithfulness for Theory-Scale Autoformalization",
+      "summary": "Autoformalization (AF) requires more than compilation: formal statements must preserve the meaning of their informal sources, a property known as faithfulness. An emerging frontie\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18498v1",
+      "authors": "Yuming Feng, Tadd Mao, Dhruva Arekar"
+    },
+    {
+      "title": "Bosonic unstructured search: quantum enhancement without entanglement",
+      "summary": "We consider unstructured search using multimode bosonic quantum systems under energy constraints. The task is to locate an unknown marked mode among $N$ possibilities using arbitr\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.17163v1",
+      "authors": "Yu-Xin Wang, Erfan Abbasgholinejad, Supratik Sarkar"
+    },
+    {
+      "title": "Orbital Angular Momentum Transfer and Beam-Quality Limits in Fork-Grating Electron Diffraction",
+      "summary": "We analyze fork-grating generation of electron vortex beams beyond the ideal single-mode approximation. The incident beam is described as a paraxial Gaussian ensemble with finite\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18401v1",
+      "authors": "P. K. Tsiopa, S. S. Baturin"
+    },
+    {
+      "title": "Learning to GUIDE the Group: Self-Learning LLM Facilitation Across Multi-Party Tasks",
+      "summary": "As large language models are increasingly adopted as multi-party communication facilitators, there is a growing demand for agents capable of balancing diverse group dynamics acros\u2026",
+      "source": "Tribology",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16231v1",
+      "authors": "Ziyi Liu, Tzu-Sheng Kuo, Jiale Liu"
+    },
+    {
+      "title": "Quantitative Modelling of Solvation in 2D Materials via Alchemical Decoupling and Potential Energy Surfaces",
+      "summary": "Understanding why 2D materials remain suspended in solutions is essential to understanding the mechanisms of aggregation and exfoliation. These dynamics have been difficult to mod\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18490v1",
+      "authors": "Lindsey N. Ioos, Duncan A. Peterson, Scott C. Warren"
+    },
+    {
+      "title": "H$_2$-Like Units and Pressure-Tunable High-$T_\\mathrm{c}$ Superconductivity in NaH$_6$",
+      "summary": "Hydrogen-rich materials offer a route to high-temperature conventional superconductivity, but often require extreme pressures. Here we report a first-principles study of NaH$_6$,\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.17148v1",
+      "authors": "Tianran Chen, Taner Yildirim"
+    },
+    {
+      "title": "Beyond Gaussian Entanglement: Practical Criteria for Polynomially Excited Quantum States",
+      "summary": "Polynomial excitations consisting of creation and annihilation operators are studied. Subsystem entanglement is proven produced and preserved by such manipulations. NPT entangleme\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18365v1",
+      "authors": "G\u00e1bor Homa, Rich\u00e1rd Balka, Nikolett N\u00e9met"
+    },
+    {
+      "title": "Event-Driven Safe Control of a Black-Box Balancing Wheel with Friction-Gated Actuation",
+      "summary": "Commercial balancing wheels are closed systems: an internal controller keeps the board upright, and a rider steers by shifting weight and twisting the hips. We augment a one-wheel\u2026",
+      "source": "Tribology",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16223v1",
+      "authors": "Kanishka Harwani, Neha Navarkar, Aliasghar Arab"
+    },
+    {
+      "title": "Sign-indefinite transmission conditions and near-zero eigenvalues and resonances",
+      "summary": "We consider the linear operator for metamaterial modeling $$L_{c,d }=(\u03c7_{\\RE^{3}\\backslash\\overline \u03a9}+c)\\nabla\\!\\cdot (\u03c7_{\\RE^{3}\\backslash\\overline \u03a9}+d)\\nabla\\,,$$ where the ma\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18483v1",
+      "authors": "Andrea Mantile, Andrea Posilicano"
+    },
+    {
+      "title": "Architecting Instruction Execution for Scalable Fault-Tolerant Quantum Computing",
+      "summary": "Scaling fault-tolerant quantum computing (FTQC) requires orchestrating millions of operations continuously across a tightly coupled classical-quantum control stack. A critical cha\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.17058v1",
+      "authors": "Dmitry Filippov, Justin Hogaboam, Mathias Soeken"
+    },
+    {
+      "title": "V-type Atomic Variance Squeezing",
+      "summary": "Variance squeezing of a V-type atom interacting with a dissipative cavity is investigated. First, the influence of atomic initial state parameters on the variance squeezing is exp\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18362v1",
+      "authors": "Chenrui Bi, Hong-Mei Zou, Zhao-Yang Tong"
+    },
+    {
+      "title": "Dissipative Lagrangian Neural Networks for the Interpretable Modelling of Passive Mechanical Systems",
+      "summary": "In this paper, we propose the Dissipative Lagrangian Neural Network (dLNN), a continuous-time system identification technique that separately learns the conservative and dissipati\u2026",
+      "source": "Tribology",
+      "date": "2026-10-11",
+      "link": "https://arxiv.org/abs/2610.15996v1",
+      "authors": "Rob Seabourne, Alice Cicirello"
+    },
+    {
+      "title": "EDGE-INFERNO: The chemical signatures of assembly history in reionization fossils",
+      "summary": "In galaxies, stellar populations represent a superposition of both in situ and accreted components, tracing internal chemical evolution as well as the histories of merged satellit\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18473v1",
+      "authors": "Eric P. Andersson, Martin P. Rey, Alexander P. Ji"
+    },
+    {
+      "title": "Photon-stimulated decay of $\u03c7$-matched ancillas causes unheralded bit flips in bosonic codes",
+      "summary": "Bosonic codes often read out their syndrome with a transmon ancilla whose computational levels $g$ and $f$ have equal parity and matched dispersive shifts: a decay $f\\to e$ is the\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.17017v1",
+      "authors": "Aleksandr Gulkanov"
+    },
+    {
+      "title": "Collision inside an atom: quantum ion-atom dynamics",
+      "summary": "Rydberg atoms occupy a central role in quantum science; their loosely bound outer electron gives rise to properties that enable quantum information processing1 or the formation of\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18345v1",
+      "authors": "Arijit Das, Yufeng Wang, Marcin Welter"
+    },
+    {
+      "title": "Side-Vent Design for Microphone-Based Mechanomyography Sensors: Modeling and Experimental Evaluation of Contact Dependence",
+      "summary": "Wearable muscle sensing for rehabilitation, assistive robotics, and electrical-stimulation feedback needs mechanomyography sensors less sensitive to fit changes during wear. In mi\u2026",
+      "source": "Tribology",
+      "date": "2026-10-11",
+      "link": "https://arxiv.org/abs/2610.15600v1",
+      "authors": "Cong Liu, Xiao Jin, Zhenhua Yu"
+    },
+    {
+      "title": "Autonomous Science Bench: Evaluating AI Agents for Autonomous Scientific Discovery",
+      "summary": "AI agents for autonomous scientific discovery must decide which experiments to run under a limited budget. Most benchmarks for science agents provide fixed datasets, while others\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18449v1",
+      "authors": "Yibo Wen, Han Liu"
+    },
+    {
+      "title": "High-Efficiency Field-Free Superconducting Diodes in Mo$_2$N/FePt Bilayers",
+      "summary": "Near-ideal, field-free superconducting diode behavior is demonstrated in room-temperature-grown Mo$_2$N/FePt bilayers. The response is consistent with remanent FePt stripe domains\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16972v1",
+      "authors": "Juan S. Cruz, Emilio De Biasi, Juan C. Zapata"
+    },
+    {
+      "title": "Role of dissipation dilution in achieving high mechanical quality factors in van der Waals resonators",
+      "summary": "Dissipation dilution has driven a revolution in the quality factors ($Q$) of top-down nanomechanical resonators. Yet it has not been leveraged for van der Waals (vdW) materials. H\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18288v1",
+      "authors": "Lukas Schleicher, Leonard Geilen, Alexander Musta"
+    },
+    {
+      "title": "Phase-Gated Constrained Reinforcement Learning for End-to-End Capture and Detumbling of Non-Cooperative Targets",
+      "summary": "Active debris removal requires a servicer spacecraft to approach a non-cooperative tumbling object, capture it, and arrest its rotation. This sequence is conventionally divided am\u2026",
+      "source": "Tribology",
+      "date": "2026-10-11",
+      "link": "https://arxiv.org/abs/2610.15491v1",
+      "authors": "\u00c1lvaro Belmonte-Baeza, Celia Redondo-Verd\u00fa, Jos\u00e9 L. Ram\u00f3n"
+    },
+    {
+      "title": "Substrate-controlled epitaxial-like growth and photochromic properties of yttrium oxyhydride thin films",
+      "summary": "Yttrium oxyhydride (YHO) thin films are synthesised by reactive magnetron sputtering of \\b{eta}-YHx precursor films onto single-crystalline yttria-stabilised zirconia (YSZ) (111)\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18448v1",
+      "authors": "M. Zubkins, E. Strods, E. Letko"
+    },
+    {
+      "title": "Microscopic Modeling of Interlayer Tunneling in Twisted Bilayer Cuprates",
+      "summary": "The field of twistronics, recently extended to twisted bilayer cuprate systems, has generated considerable interest due to the prediction of $d+id'$ states close to a $45^\\circ$ t\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16930v1",
+      "authors": "Siddhant Panda, Andreas Kreisel, Laura Fanfarillo"
+    },
+    {
+      "title": "A complete quantum process model for physically realistic photo-detection in the joint photon-number and spectral degrees of freedom",
+      "summary": "Photo-detection is a fundamental component of experimental photonics, yet theoretical models often treat detectors solely in the photon-number basis, neglecting other relevant deg\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18267v1",
+      "authors": "Sadia Rafi, Aeysha Khalique"
+    },
+    {
+      "title": "AuthScribe: Supporting Agency and Authorship in LLM-Assisted Reflective Journaling",
+      "summary": "Large language models are increasingly used in reflective journaling, where articulating an experience is part of interpreting it. This raises questions about how writers retain a\u2026",
+      "source": "Tribology",
+      "date": "2026-10-11",
+      "link": "https://arxiv.org/abs/2610.15439v1",
+      "authors": "Lanping Hu, Yinsi Zhou, Zhenchang Xing"
+    },
+    {
+      "title": "Reversible Magneto-ionic Modification of Metallic Magnetic Thin Films",
+      "summary": "Magnetic multilayers with structural inversion asymmetry, perpendicular magnetic anisotropy (PMA), and large Dzyaloshinskii-Moriya interaction (DMI) are widely studied for magneti\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18396v1",
+      "authors": "Md Golam Hafiz, Hari Babu Vasili, Philippa Shepley"
+    },
+    {
+      "title": "Topological Chiral Superconductivity from Doping Correlated Charge Transfer Insulator with Orbital Magnetism",
+      "summary": "Topological chiral superconductivity has been extensively studied from the perspective of electronic structures in momentum space, while its emergence from real-space processes in\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16674v1",
+      "authors": "Wen Sun, Yuan Yang, Shou-Shu Gong"
+    },
+    {
+      "title": "Experimental Benchmarking of a 256-Qubit Room-Temperature NV-Diamond Quantum Processor with an Optically Programmable Biomolecular Quantum Bus",
+      "summary": "We report Zeus-256, a room-temperature nitrogen-vacancy (NV) diamond processor with 256 simultaneously active processor-level logical qubits arranged in a 16 x 16 array. Each logi\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18245v1",
+      "authors": "Adams Ivanov, Daniela Herrmann, Erick Giovani Sperandio Nascimento"
+    },
+    {
+      "title": "Geometry-Controlled Initial-Density Dependence in Branching-Merging Exclusion Processes",
+      "summary": "We study geometry-controlled, initial-density-dependent stationary states in exclusion processes with branching-merging structures. We consider two boundary geometries for connect\u2026",
+      "source": "Tribology",
+      "date": "2026-10-11",
+      "link": "https://arxiv.org/abs/2610.15333v1",
+      "authors": "Hiroki Yamamoto, Daichi Yanagisawa, Katsuhiro Nishinari"
+    },
+    {
+      "title": "Ionic gradients shape the spatial organization and dynamics of supramolecular polymers",
+      "summary": "Living supramolecular materials such as microtubules and actin filaments assemble and function in dynamic, heterogeneous environments, subject to chemical concentration gradients.\u2026",
+      "source": "Materials science",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18357v1",
+      "authors": "Claudio Perego, Annalisa Cardellini, Andrea Tagliabue"
+    },
+    {
+      "title": "Tailored VxOy Metal--Insulator-Transition Oxides for Temperature-Triggered Smart Insulation in Superconducting Coils",
+      "summary": "Smart insulation is a turn-to-turn layer that insulates in normal operation and conducts only near a hot spot. It could combine the fast ramping of insulated coils with the passiv\u2026",
+      "source": "Superconductivity",
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16581v1",
+      "authors": "Mattia Ortino, Davide Uglietti, Andrea Testino"
+    },
+    {
+      "title": "Towards an autonomous optomechanical Maxwell Demon engine",
+      "summary": "We present a fully autonomous model of a mechanical Maxwell demon engine that converts heat absorbed by a qubit into population inversion in an attached quantum battery. A damped\u2026",
+      "source": "Quantum",
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18237v1",
+      "authors": "Sander Stammbach, Giulio Gasbarri, Stefan Nimmrichter"
     },
     {
       "title": "EnRoute: Iterative Design and Evaluation of a Mobile App for Lower-Carbon Fashion and Transportation Choices",
@@ -26,28 +762,28 @@
       "authors": "Angela Busheska"
     },
     {
-      "title": "RegExtract: A Benchmark for PFAS Regulatory Information Extraction with LLMs",
-      "summary": "Extracting structured information from regulatory documents is a critical but challenging task. Relevant facts are scattered across long, legally dense texts, and traceability of\u2026",
+      "title": "Two sides of the same spin: tracking optical and radio pulsations of SAX J1808.4-3658 from outburst to quiescence",
+      "summary": "High-time-resolution optical and UV observations have revealed bright coherent pulsations from accreting millisecond pulsars, exceeding the luminosity expected from thermal emissi\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.15103v1",
-      "authors": "Defne Circi, Krystelle Lionti, Sarathkrishna Swaminathan"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18322v1",
+      "authors": "C. Ballocco, A. Miraval Zanon, A. Papitto"
     },
     {
-      "title": "Driven Vortex Motion in Periodic Channel Potential Embedded in Superconducting Films",
-      "summary": "In this paper, we investigate vortex dynamics in periodically width-modulated superconducting channels by numerically solving the time-dependent Ginzburg-Landau (TDGL) equations.\u2026",
+      "title": "Superconductivity from altermagnetic fluctuations: the crucial role of sublattice polarization",
+      "summary": "Unconventional superconductivity in correlated systems often appears in the vicinity of a magnetically ordered state. This situation is also relevant for altermagnets, characteriz\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14775v1",
-      "authors": "A. Al Luhaibi, A. Glatz, Michael Vogl"
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16507v1",
+      "authors": "Mats Barkman, Andreas Kreisel, Brian M. Andersen"
     },
     {
-      "title": "Generative learning of time series with holographic quantum circuit sampling",
-      "summary": "Quantum generative models face growing qubit requirements and concentrated loss landscapes when learning long time series. Here we introduce holographic quantum circuit sampling (\u2026",
+      "title": "Resource-based reliability of quantum-coherent devices",
+      "summary": "Quantum devices can lose the resource needed for a specified function without entering a fixed failure subspace. We propose a resource-based reliability framework for this situati\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.15083v1",
-      "authors": "Bingzhi Zhang, Matthew W. Lee, Tom Finke"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18236v1",
+      "authors": "Bowen Sun, D. L. Zhou"
     },
     {
       "title": "Displacement Is Endogenous: AI Workers in a Search-and-Matching Labor Market",
@@ -58,28 +794,28 @@
       "authors": "Ibrahim Denis Fofanah"
     },
     {
-      "title": "Role of defect trapping in the enhanced corrosion resistance of Ni-Mo alloys with yttrium and yttrium oxide additions",
-      "summary": "Corrosion of structural alloys remains a critical challenge for advanced molten salt reactors, where aggressive fluoride salts promote continuous dissolution at the salt-metal int\u2026",
+      "title": "Accurately Generalizing Deep-Learning Hamiltonian Methods to Plane-Wave Density Functional Theory",
+      "summary": "Deep neural networks that predict density functional theory (DFT) Hamiltonians from material structures offer a route to efficient electronic-structure calculations. However, exte\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.15089v1",
-      "authors": "Jia-Hong Ke, Xinchang Zhang, Jingfan Yang"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18317v1",
+      "authors": "Chuntian Wu, Jiaxiang Li, Qiang Xu"
     },
     {
-      "title": "Kink boundary-induced polarity revealed by nonreciprocal charge transport in FeTe0.7Se0.3 superconductor",
-      "summary": "Nonreciprocal charge transport, characterized by direction-dependent electrical response, provides a powerful probe of electronic structure and a platform for rectification. Howev\u2026",
+      "title": "Molecule-intercalated van der Waals Josephson junctions uncover complex multiband superconductivity",
+      "summary": "Intercalation of molecular species provides a route to tailor the electronic structure in van der Waals superconductors, yet intercalated compounds have rarely been integrated int\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14728v1",
-      "authors": "Shengyao Li, Ya Deng, Han Yan"
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16483v1",
+      "authors": "Daniel Margineda, David Caldevilla-Asenjo, Covadonga \u00c1lvarez-Garc\u00eda"
     },
     {
-      "title": "Entanglement detection in dynamical quantum systems",
-      "summary": "Quantum science and engineering increasingly target the exploitation and control of large-scale dynamical systems. As system size grows, novel phenomena and quantum advantages eme\u2026",
+      "title": "PPVM: A Circuit Simulation Framework for Digital Twins of Quantum Processors",
+      "summary": "Quantum computers are approaching the early fault-tolerant regime. Verifying the next generation of quantum hardware requires joint emulation of the quantum processor, hardware no\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.15021v1",
-      "authors": "Xingjian Zhang, Jiayi Wu, Jue Xu"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18225v1",
+      "authors": "Xiu-Zhe Luo, David Plankensteiner, Kai-Hsin Wu"
     },
     {
       "title": "Scaling Latent Motor Adaptation to Coordinated Bimanual Manipulation",
@@ -90,28 +826,28 @@
       "authors": "Seung-Bin Joo, Alessandro Albini, Luca Wiehe"
     },
     {
-      "title": "How Language-Independent Are Emotional Attributes? A Study on Training Data Scaling and Cross-Lingual Generalization",
-      "summary": "Current state-of-the-art Speech Emotion Recognition (SER) systems rely on lots of training data, which is available only for a few languages such as English. For low-resource lang\u2026",
+      "title": "Complex materials engineering via Provenance Action Graphs: potential, structure and demonstration",
+      "summary": "This work discusses and tests the potential of reaction graphs for material synthesis, in which events consist of reaction steps (actions) and their outputs (observations). The im\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.15059v1",
-      "authors": "D\u00e1niel Halmai, G\u00e1bor Gosztolya"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18314v1",
+      "authors": "Yevgeny Rakita, Paul Todd, James R. Neilson"
     },
     {
-      "title": "Chemical-Potential-Dependent Superconducting Spectroscopy on Bi2Te3/NbSe2 Heterostructures",
-      "summary": "High-resolution scanning tunneling spectroscopy performed at dilution refrigerator temperatures was employed to investigate the superconducting properties of topological insulator\u2026",
+      "title": "Photon echo from Maki-Thompson interference in a fluctuating s-wave superconductor",
+      "summary": "We study theoretically the nonlinear optical response of a fluctuating s-wave superconductor driven by two successive terahertz pulses. We show that the response exhibits a photon\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14627v1",
-      "authors": "Pengyu Hu, Chun Yu Wan, Qiaoyan Yu"
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16462v1",
+      "authors": "Hui Zhou, Yuan Wan"
     },
     {
-      "title": "Partial-coherence weak measurement of polarization qubits with a temporal pointer: theory and experiment",
-      "summary": "Weak measurement has proven useful for metrology, for probing quantum paradoxes, and for the direct measurement of quantum states. Weak measurements of polarization qubits with te\u2026",
+      "title": "Methods for Automated Equivalence Checking of Quantum Error-Correction Codes",
+      "summary": "Quantum error-correction code and circuit construction is an active field of research, motivating automated methods for identifying equivalent designs. We develop and evaluate aut\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14954v1",
-      "authors": "Shane P. Gervais, Lambert Giner"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18218v1",
+      "authors": "Maxie Bichmann, Ludwig Schmid, Robert Wille"
     },
     {
       "title": "Mapping Tire-Road Friction Coefficients Along Driven Trajectories",
@@ -122,28 +858,28 @@
       "authors": "Risto Ojala"
     },
     {
-      "title": "Graphene-Confined Growth of Few-Layer PtSe2 via One-Step Selenization",
-      "summary": "Platinum diselenide (PtSe$_2$), a member of the transition metal dichalcogenide (TMD) family, is a promising material for next-generation electronic and optoelectronic application\u2026",
+      "title": "Transition-Metal-Induced Uniaxial Anisotropy in YFe$_3$",
+      "summary": "Achieving uniaxial magnetocrystalline anisotropy while preserving high magnetization and thermal stability remains a central challenge in the development of Fe-rich permanent magn\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.15022v1",
-      "authors": "Timea Ema Kraj\u010dovi\u010dov\u00e1, Peter Kotrusz, Viera Sk\u00e1kalov\u00e1"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18303v1",
+      "authors": "M. Nur Hasan, Bruno L. Fertig, Santa Pile"
     },
     {
-      "title": "Quantum Geometry and Pair Breaking in Intra- and Intervalley Superconductivity of Rhombohedral Graphene",
-      "summary": "The observation of superconductivity emerging from a spin- and valley-polarized normal state in rhombohedral graphene raises a basic puzzle: intravalley Cooper pairs involve state\u2026",
+      "title": "Pressure Evolution of the Superconducting Order Parameter of Kagome Superconductor CsV3Sb5",
+      "summary": "Kagome superconductors AV3Sb5 (A = K, Rb, Cs) offer an outstanding platform for exploring the interplay among charge-density-wave (CDW) order, superconductivity (SC), and nontrivi\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14480v1",
-      "authors": "Louis Primeau, Yang Zhang, Shi-Zeng Lin"
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16253v1",
+      "authors": "Haiyan Zuo, Wangju Yang, Zhifan Wu"
     },
     {
-      "title": "A complete classification of operator controllability for closed three-level quantum systems driven by a single control",
-      "summary": "In this work, we study operator controllability of finite-dimensional closed quantum systems driven by a single coherent control. Two general Lie-algebraic results on controllabil\u2026",
+      "title": "Optical parametric amplification of spatiotemporal optical vortices",
+      "summary": "Spatiotemporal optical vortices (STOVs) are structured light featuring a phase singularity in the spatiotemporal domain, exhibiting unique topology that couples spatial and tempor\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14938v1",
-      "authors": "Sergey Kuznetsov, Alexander Pechen"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18203v1",
+      "authors": "Houan Teng, Chenhao Wan, Qiwen Zhan"
     },
     {
       "title": "Stellar discs and intermediate-mass black holes in galactic nuclei II. Fragmenting the disc and forming the S-stars in a live nuclear star cluster",
@@ -154,28 +890,28 @@
       "authors": "Taras Panamarev, Bence Kocsis"
     },
     {
-      "title": "DiffGA: Steering Frozen Diffusion Models for Materials Design via Evolutionary Search",
-      "summary": "Steering candidate generation toward user-defined objectives is central to inverse materials design, yet remains difficult when objectives are black-box, changing, or non-differen\u2026",
+      "title": "A Topological Spin on Racetrack Memory",
+      "summary": "Magnetic racetrack memory requires localized carriers that combine rapid motion, resistance to perturbations and a detectable signal. Here we show how a 360\u00b0 domain wall in a holl\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14999v1",
-      "authors": "Shivang Agarwal, Rodrigo Wang, Kevin Ryczko"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18297v1",
+      "authors": "Benjamin Zingsem"
     },
     {
-      "title": "Pre-pairing and polarization of doped charge carriers in unconventional superconductors",
-      "summary": "Based on first principles calculations, we show in hole-doped La2-xSrxCuO4, the Sr dopants prefer to form dimers, rather than be isolated as generally believed. Same trend applies\u2026",
+      "title": "Collective Floquet engineering between two distant superconducting artificial atoms",
+      "summary": "A one-dimensional waveguide is a crucial medium for transferring propagating quantum information between remote qubits, yet the photon-mediated interaction is typically fixed by t\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14401v1",
-      "authors": "Lixin Zhang, Mengyan Nie, Yan Cheng"
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16210v1",
+      "authors": "Y. -H. Huang, Jiale Yuan, Z. Q. Niu"
     },
     {
-      "title": "Spiral Edge States in Topological 2D Sb2Te3 Crystals",
-      "summary": "This work explores the edge state conduction properties of twinned and spiraled, 2D Sb2Te3 topological insulator crystals. We show the structure supports spatially continuous edge\u2026",
+      "title": "Theory of Trotter Error with Variable-Weight Schedules",
+      "summary": "Trotterization is a widely used algorithm for simulating quantum evolutions and consists of approximating a target unitary through a local linear decomposition of its generator th\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14905v1",
-      "authors": "Timothy Carlson, Daniel Lazega, Scott McGuire"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18202v1",
+      "authors": "Henrique Ennes"
     },
     {
       "title": "Adjoint-Based Stochastic Analysis for Fatigue of Aeroelastic and Frictional Systems",
@@ -186,28 +922,28 @@
       "authors": "Justin H. Porter"
     },
     {
-      "title": "EpNet-Si: Atomic Form Factors Learned from Band Structures",
-      "summary": "The empirical pseudopotential method (EPM) computes band structures with one diagonalization per $k$ point and no self-consistency, but its fixed atomic form factors do not transf\u2026",
+      "title": "Coherent Phonon Generation from Prethermal Carrier Populations in a Semiconductor",
+      "summary": "Ultrafast laser excitation of carriers in semiconductors often results in the creation of fully symmetric coherent optical phonons, typically understood in terms of a thermalized\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14992v1",
-      "authors": "Qiang Zhu"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18279v1",
+      "authors": "Mingyu Shi, Matteo Savoini, Patrick Friebel"
     },
     {
-      "title": "Experimental observation of Higgs oscillations and their power-law decay across pairing regimes in a cavity QED quantum simulator",
-      "summary": "Understanding how pairing correlations in superconductors evolve out of equilibrium is a central challenge in quantum many-body physics. In systems with $s$-wave pairing, the char\u2026",
+      "title": "Measuring higher-order bulk topology in a programmable quantum simulator",
+      "summary": "Topological insulators lie outside the standard Landau paradigm: Instead of being characterized by local order parameters and spontaneous symmetry breaking, their defining propert\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14171v1",
-      "authors": "Chitose Maruko, Haoqing Zhang, Eliot A. Bohr"
+      "date": "2026-10-12",
+      "link": "https://arxiv.org/abs/2610.16046v1",
+      "authors": "Pratik Sathe, Niclas Heinsdorf, Majid Kheirkhah"
     },
     {
-      "title": "Entanglement generation from degeneracy breaking of superradiant Liouvillian steady states by local operations",
-      "summary": "Superradiance is a collective optical effect where emitters cooperatively radiate with a maximal intensity scaling proportional to the square of the number of emitters. Despite th\u2026",
+      "title": "Non-Hermitian Statistical Geometry",
+      "summary": "Particle exchange in two dimensions gives rise to quantum statistics beyond the boson-fermion dichotomy, with central roles in fractional quantum Hall physics, topological quantum\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14788v1",
-      "authors": "Adam Burgess, Erik M. Gauger"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18175v1",
+      "authors": "Xi Hu, Yan-Qiong Ma, Su-Peng Kou"
     },
     {
       "title": "Shear-driven arrest of dip-coating film entrainment",
@@ -218,28 +954,28 @@
       "authors": "Theo Witkamp, St\u00e9phane Zaleski, Federico Toschi"
     },
     {
-      "title": "Time-temperature-composition equivalence of the viscoelastic behavior through the glass transition of digitally mixed 3D-printed polymers",
-      "summary": "The linear viscoelastic behavior of a polymer shows an equivalence of loading frequency and temperature, the time-temperature equivalence (TTE). Horizontal shifting extends moduli\u2026",
+      "title": "MINFF: A Family of Classical Force Fields for Minerals with Tunable Angle Terms",
+      "summary": "Atomistic simulations of minerals are limited by the accuracy and transferability of the force field. We introduce MINFF, a force field family for layered and non-layered oxides a\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14986v1",
-      "authors": "Beijun Shen, Sanat K. Kumar, Mary C. Boyce"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18220v1",
+      "authors": "Michael Holmboe, Nathan Lavauzelle, Rogers E. Swai"
     },
     {
-      "title": "Enhanced analogue quantum computation with a logically-encoded XX gadget",
-      "summary": "The introduction of two-body XX interactions has been shown to improve the performance of quantum annealing in solving certain combinatorial optimisation problems and would enable\u2026",
+      "title": "Spatial interference changes the symmetry class of a Josephson element",
+      "summary": "Spatial interference can break the inversion symmetry of an effective Josephson potential even in a laterally homogeneous junction with inversion-symmetric local energy. We derive\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13845v1",
-      "authors": "Robert J. Banks, Natasha Feinstein, Roopayan Ghosh"
+      "date": "2026-10-11",
+      "link": "https://arxiv.org/abs/2610.15746v1",
+      "authors": "Takayuki Kubo"
     },
     {
-      "title": "Classical Communication Helps Single-Shot Quantum Compression",
-      "summary": "Free classical communication can yield an unbounded single-shot saving in quantum compression, even though it leaves the asymptotic rate of an i.i.d. source unchanged. At every fi\u2026",
+      "title": "Spectrally enhanced gravitational redshift signals in photonic interferometry",
+      "summary": "Quantum mechanics and general relativity are remarkably successful, yet their joint predictions remain beyond direct experimental reach. Photonic interferometers operating in a gr\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14785v1",
-      "authors": "Omri Farber, Gilad Gour"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18131v1",
+      "authors": "Jerzy Paczos, Piotr T. Grochowski, Natalia Bruno"
     },
     {
       "title": "Relativistic dynamical friction in Kerr-Schild coordinates",
@@ -250,28 +986,28 @@
       "authors": "Zipeng Wang, Francesca Chadha-Day, Katy Clough"
     },
     {
-      "title": "Cross-Material Magnetic Core Loss Prediction via Operating-Condition Matching and Partial Optimal Transport",
-      "summary": "Cross-material magnetic core loss prediction requires adapting to new material responses with limited measurements. Global feature alignment overlooks differences in source and ta\u2026",
+      "title": "Unexpected stabilization of a single-$q$ charge density wave in pristine 1T-TiSe$_2$",
+      "summary": "Over the past decade, studies revisiting the classical charge-density-wave system 1T-TiSe$_2$, long understood to host the $2 \\times 2$ triple-$q$ order with equivalent subcompone\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14964v1",
-      "authors": "Cong Yao, Yu Zheng, Zehao Hou"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18211v1",
+      "authors": "Kimoon Higashihira Han, Dongju Hwang, Dongsin Kim"
     },
     {
-      "title": "A Hardware-Native Trapped-Ion Hybrid Qudit-Oscillator Instruction Set",
-      "summary": "Scaling trapped-ion processors by adding ions remains challenging. A complementary route exploits the multilevel internal structure of each ion to increase the computational Hilbe\u2026",
+      "title": "Stateless Stochastic Computing for Generative AI on Superconducting Logic: A Model-Hardware Co-Design",
+      "summary": "Thermodynamic computing lets stochastic physical dynamics carry out a computation and reads out the result as a time average. Recently, thermodynamic computing has been demonstrat\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13843v1",
-      "authors": "Masoud Hakimi Heris, Yuan Liu, Frank Mueller"
+      "date": "2026-10-11",
+      "link": "https://arxiv.org/abs/2610.15392v1",
+      "authors": "Mehdi Kamal, Massoud Pedram"
     },
     {
-      "title": "Clifford Invariants and Three-Copy Quantum Tests",
-      "summary": "We give an explicit treatment of the third tensor power of the Clifford representation on $n$ qutrits, for $n\\geq2$. This representation has five pairwise inequivalent irreducible\u2026",
+      "title": "Distance Prediction for Quantum Codes",
+      "summary": "The distance of a quantum code is a fundamental metric that dictates its error-correction capability. While quantum low-density parity-check (qLDPC) families such as Bivariate Bic\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14758v1",
-      "authors": "Xingya Fan, Yongzhi Luan"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18130v1",
+      "authors": "Nadav Schneider, Eliya Nachmani"
     },
     {
       "title": "What Egocentric Video Embeddings Encode and How to Combine Them with Inertial Sensors for Human Activity Recognition",
@@ -282,28 +1018,28 @@
       "authors": "Kansuke Habano"
     },
     {
-      "title": "Investigation on Thermal Stability of Epi-GeSn Directly on Si (001)",
-      "summary": "In this paper we investigate the structural properties and thermal stability of metastable Ge1-xSnx epilayers (~4.5 at.% Sn) grown directly on Si(001) substrates by high-resolutio\u2026",
+      "title": "Hyperelastic Modeling of Cardiac Tissue Deformation for Data Registration",
+      "summary": "This work proposes a biomechanical registration framework designed to combine functional optical-mapping data with structural high-resolution MRI of cardiac tissue. The two acquis\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14947v1",
-      "authors": "Tharundev V, Dushyant Singh, Vigneshswari SR"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18207v1",
+      "authors": "Joyce Ghantous, Yves Coudiere, Michael Legu\u00e8be"
     },
     {
-      "title": "Physics of stabilization and dynamic control of CW magnetrons for superconducting accelerators",
-      "summary": "Powerful CW magnetrons were suggested for feeding RF cavities of superconducting accelerators because they provide higher efficiency and lower RF power cost than the traditionally\u2026",
+      "title": "Framework for an AI-Ready ARPES Community Database",
+      "summary": "Condensed matter stands to gain profoundly from widespread adoption of artificial intelligence (AI). However, its current means of data organization impedes this endeavor. As a pr\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13769v1",
-      "authors": "G. Kazakevich, R. P. Johnson, I. Gonin"
+      "date": "2026-10-11",
+      "link": "https://arxiv.org/abs/2610.15236v1",
+      "authors": "Zhi-Xun Shen, Jin Gene Wong, Karen Lei"
     },
     {
-      "title": "Reducing Trust Cost in Quantum Application Development Using AI",
-      "summary": "Generative AI can be a powerful tool for supporting the design and implementation of quantum applications, whereas the burden of checking whether generated circuits realize the in\u2026",
+      "title": "OpenMQPI: An MLIR-based Pipeline to Offload Quantum Circuits via OpenMP",
+      "summary": "Quantum computing introduces specialized software stacks and programming interfaces that are often tightly coupled to specific ecosystems and hardware backends, limiting interoper\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14665v1",
-      "authors": "Katsuhiro Endo"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18056v1",
+      "authors": "Erc\u00fcment Kaya, Ekin Devim \u015eahinkaya, Minh Chung"
     },
     {
       "title": "Localized Generative Design of Ship Hulls with Diffusion Models and High-Fidelity Assessment",
@@ -314,28 +1050,28 @@
       "authors": "Hadi Keramati, Mohammed A. Hannan, Patrick Kirchen"
     },
     {
-      "title": "The 2026 World Cup, Anime Edition: Production, Engagement, and Circulation of Generative Memetic Sports Content",
-      "summary": "Generative AI gives audiences new ways to portray real sporting figures through familiar fictional worlds. Expanded opportunities to create, however, need not broaden cultural rep\u2026",
+      "title": "Orientation-Resolved Nanoindentation of Single Crystal Ti-15Mo: Inverted Elastic Anisotropy and Yield-Onset Behavior Beyond Simple CRSS Predictions",
+      "summary": "Ti-15Mo (wt%) is a well-established $\u03b2$-stabilized alloy whose mechanical response is strongly governed by phase stability and deformation mechanisms that operate at the single-gr\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14933v1",
-      "authors": "Azneef Chowdhury, Ho-Chun Herbert Chang"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18181v1",
+      "authors": "Kidus Abebe, David Gaetano, Aurelia Moriyama-Gurish"
     },
     {
-      "title": "Anomaly induced transport in holographic superconductors",
-      "summary": "We investigate the anomaly-induced transport properties of a holographic superconductor exhibiting spontaneous symmetry breaking. The holographic model incorporates vector and axi\u2026",
+      "title": "Local Suppression of Superconductivity in Niobium Films by Focused Silicon Ion Implantation",
+      "summary": "Magnetic flux trapped in a superconducting circuit shifts the critical currents of nearby Josephson junctions and disturbs the operation of the circuit. The usual remedy is a moat\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13727v1",
-      "authors": "Ashis Tamang, Nishal Rai, Javier Esteban"
+      "date": "2026-10-10",
+      "link": "https://arxiv.org/abs/2610.15200v1",
+      "authors": "Rochelle Y. Qu, Shunsuke Nishimura, Max Proepper"
     },
     {
-      "title": "Scalability and performance metrics for boson sampling devices",
-      "summary": "Linear-optical platforms provide a promising route to demonstrate quantum computational advantage, particularly through the boson sampling problem. While a boson sampling system s\u2026",
+      "title": "Scalable long-distance quantum fan-out gates with reduced resource overhead",
+      "summary": "Scalable long-distance quantum gates are essential for distributed quantum computation and scalable quantum networks. We propose an efficient scheme for implementing an $n$-qubit\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14602v1",
-      "authors": "Dong-Gil Im, Chung-Hyun Lee, Joonsuk Huh"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18049v1",
+      "authors": "Wen-Qiang Liu, Hai-Rui Wei"
     },
     {
       "title": "Global Well-Posedness and Energy Decay for an Abstract Viscoelastic Wave Equation with Nonlocal or Friction Damping",
@@ -346,28 +1082,28 @@
       "authors": "Jun Zhou, Teng Wang"
     },
     {
-      "title": "Pressure-Driven Evolution of the Physical Properties of Layered Y2GaB and Y2InB MAB Phases: A Comparative First-Principles Study",
-      "summary": "MAB phases are nanolaminated ternary borides in which strong in-plane M-B bonds and weaker interlayer interactions drive their distinctive stability and functionality. Hydrostatic\u2026",
+      "title": "High-throughput screening of Heusler alloys for thermoelectrics combining machine-learned densities of states and first-principles transport",
+      "summary": "Thermoelectrics turn waste heat into electricity, but finding new ones requires transport calculations too costly for whole databases. Searches therefore choose what to calculate\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14908v1",
-      "authors": "M. Rabi Us Sani Shapon, Md. Asif Afzal, Jubair Hossan Abir"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18179v1",
+      "authors": "Shivam Randive, Ayana Ghosh, Rahul Dixit"
     },
     {
-      "title": "Altermagnetic Control of Charge-4e Superconductivity",
-      "summary": "We present, to our knowledge, the first theoretical realization of an independent charge-4e phase in a two-dimensional classical array of conventional superconductors coupled thro\u2026",
+      "title": "Avoiding Defects within Heavy-Hexagon Architecture",
+      "summary": "When implementing scalable fault-tolerant quantum computing using superconducting quantum processors, one of the critical challenges to overcome is the presence of defective qubit\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13584v1",
-      "authors": "Yan-Guang Yue, Jie Lou, Yan Chen"
+      "date": "2026-10-10",
+      "link": "https://arxiv.org/abs/2610.14778v1",
+      "authors": "Hansol Kim, Younghun Kwon"
     },
     {
-      "title": "Exploring Dynamical Quantum Phase Transitions via the Dynamical Phase Accumulated at an Equilibrium Critical Point",
-      "summary": "We investigate dynamical quantum phase transitions (DQPTs) generated by a two-step linear quench with a finite waiting time at the equilibrium critical point. The waiting stage le\u2026",
+      "title": "Optimal Lower Bound on the Sample Complexity of Coherent Classical Shadows for Mixed States",
+      "summary": "We study coherent classical shadows protocols for an unknown $d$-dimensional quantum state of rank at most $r$, allowing an arbitrary joint measurement on all available copies. Fo\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14591v1",
-      "authors": "Han-Chuan Kou, Peng Li, Zhi-Han Zhang"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18031v1",
+      "authors": "Pavel Svetlichnyy"
     },
     {
       "title": "FallGown: A Soft Pneumatic Wearable Device for Fall Prevention",
@@ -378,28 +1114,28 @@
       "authors": "Megan C. Coram, Haoran Lei, Steven H. Collins"
     },
     {
-      "title": "Pressure-transferable universal machine-learning potentials: the WBM-MatPES benchmark and Tuga-FF",
-      "summary": "Universal machine-learning interatomic potentials hold the promise to replace costly ab initio calculations in materials science workflows. However, the accuracy and transferabili\u2026",
+      "title": "Low-frequency spectra and scattering of pulsars towards the Gum Nebula with the MWA",
+      "summary": "Context. The Gum Nebula is a nearby ionised complex with sight-line-dependent pulsar propagation. Aims. We test whether a smooth ionised structure can explain low-frequency spectr\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14891v1",
-      "authors": "Pierre-Paul De Breuck, Thalis H. B. da Silva, Antoine Loew"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18146v1",
+      "authors": "Ting Yu, Zhifu Gao, Zhongli Zhang"
     },
     {
-      "title": "Modelling Josephson Junctions with Boundary Conditions: Towards High-Fidelity Models for Superconducting Qubits",
-      "summary": "Josephson junctions are the central nonlinear element of superconducting qubits, yet their standard description is reached through a chain of approximations. We propose a purely q\u2026",
+      "title": "Driven Vortex Motion in Periodic Channel Potential Embedded in Superconducting Films",
+      "summary": "In this paper, we investigate vortex dynamics in periodically width-modulated superconducting channels by numerically solving the time-dependent Ginzburg-Landau (TDGL) equations.\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13417v1",
-      "authors": "Luis Bueno Blanco, Juan Manuel P\u00e9rez-Pardo"
+      "date": "2026-10-10",
+      "link": "https://arxiv.org/abs/2610.14775v1",
+      "authors": "A. Al Luhaibi, A. Glatz, Michael Vogl"
     },
     {
-      "title": "Entanglement-Capability-Aware Finite-Bond Circuit Cutting for Distributed Quantum Computing",
-      "summary": "Distributed quantum computing distributes workloads that exceed a single processor's capacity across resource-constrained components. Circuit cutting enables this decomposition, b\u2026",
+      "title": "Lossless Reductions and Hybrid Sampling for Phylogeny Using the Maximum Compatibility Criterion",
+      "summary": "Maximum compatibility provides a criterion for phylogenetic reconstruction in which the objective is to retain a maximum set of mutually compatible characters. For binary characte\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14580v1",
-      "authors": "Weidong Liu, Qingqing Jiang, Yufu Liu"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18029v1",
+      "authors": "Orson Ye, James Bonfield, Joshua Cudby"
     },
     {
       "title": "Size, Shape, and Geometric Albedo of Dwarf Planet Quaoar's Largest Satellite Weywot",
@@ -410,28 +1146,28 @@
       "authors": "Cameron Collyer, Estela Fernandez-Valenzuela, Benjamin Proudfoot"
     },
     {
-      "title": "Ultra-low-loss Ta2O5 waveguide for integrated nonlinear photonics",
-      "summary": "Integrated nonlinear photonics demands waveguides that simultaneously offer ultra-low-loss, relatively strong nonlinearity, and tight mode confinement. Tantalum pentoxide (Ta2O5)\u2026",
+      "title": "Local-resolvent formulation and assessment of linear-scaling Kohn-Sham calculations",
+      "summary": "Kohn-Sham density-functional theory is expensive because it needs orbitals that extend over the whole system. For insulators this can be avoided by using only the diagonal of the\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14878v1",
-      "authors": "Xiaotong Zhang, Shuxuan Guo, Ruixuan Yi"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18137v1",
+      "authors": "Albert Linda"
     },
     {
-      "title": "Graphene double quantum dot as a solid-state two-level system in the THz range",
-      "summary": "Matter-based two-level quantum systems are fundamental building blocks of quantum technologies, underpinning applications in quantum computing, simulation, communication, and sens\u2026",
+      "title": "Kink boundary-induced polarity revealed by nonreciprocal charge transport in FeTe0.7Se0.3 superconductor",
+      "summary": "Nonreciprocal charge transport, characterized by direction-dependent electrical response, provides a powerful probe of electronic structure and a platform for rectification. Howev\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13196v1",
-      "authors": "Alexis Wietzke, Solen Coeymans, Benjamin Hue"
+      "date": "2026-10-10",
+      "link": "https://arxiv.org/abs/2610.14728v1",
+      "authors": "Shengyao Li, Ya Deng, Han Yan"
     },
     {
-      "title": "Sample-Size Scalability and Representation Sensitivity of Quantum Machine Learning Models for Higgs Boson Event Classification",
-      "summary": "Quantum machine learning offers new approaches to multivariate event classification in high-energy physics, but its performance relative to optimized classical methods remains unc\u2026",
+      "title": "Ergotropy of multipartite entangled states in the quantum atmosphere",
+      "summary": "We investigate the ergotropy of tripartite Greenberger-Horne-Zeilinger (GHZ) and W states in the quantum atmosphere of a Schwarzschild black hole, focusing on how the extractable\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14533v1",
-      "authors": "Shiksha Bhardwaj, Ankhi Roy"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18028v1",
+      "authors": "Ruopu Sun, Xiaofen Huang"
     },
     {
       "title": "Warm-Inflation: a software for first-principles integration of warm inflation power spectra",
@@ -442,28 +1178,28 @@
       "authors": "Alica Rogelj"
     },
     {
-      "title": "MetaCascade: End-to-End Attacks on Agent Skills via Metadata-Only Poisoning",
-      "summary": "As a key extension mechanism for agent systems, Agent Skills package specialized capabilities for reuse by LLM agents. An agent first retrieves candidate skills based on skill doc\u2026",
+      "title": "Organisation and aggregation of calcium carbonate ions in water via molecular simulation",
+      "summary": "Crystallisation of calcium carbonate (CaCO$_3$) in aqueous solutions is essential for carbon dioxide sequestration and the sustainable production of calcium carbonate materials, w\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14836v1",
-      "authors": "Junhao Wen, Ping Deng, Qizhi Chen"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18128v1",
+      "authors": "Elizaveta Sidler, Rita S Dias, Raffaela Cabriolu"
     },
     {
-      "title": "Equal-Spin local and nonlocal Andreev reflection in altermagnet/superconductor/altermagnet junction",
-      "summary": "We investigated the equal-spin Andreev reflection phenomenon in an altermagnet/super\\-conductor/altermagnet (AM/SC/AM) junction, focusing on the roles of the crystal orientation a\u2026",
+      "title": "Chemical-Potential-Dependent Superconducting Spectroscopy on Bi2Te3/NbSe2 Heterostructures",
+      "summary": "High-resolution scanning tunneling spectroscopy performed at dilution refrigerator temperatures was employed to investigate the superconducting properties of topological insulator\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13193v1",
-      "authors": "Kai-Yi Lyu, Xing Wang, Yu-Xian Li"
+      "date": "2026-10-10",
+      "link": "https://arxiv.org/abs/2610.14627v1",
+      "authors": "Pengyu Hu, Chun Yu Wan, Qiaoyan Yu"
     },
     {
-      "title": "Fast continuous ion transport through X-junctions with low motional excitation for QCCD architectures",
-      "summary": "Trapped ion quantum computing based on the quantum charge coupled device (QCCD) architecture uses functional zoning and ion transport to enable high fidelity computation and all t\u2026",
+      "title": "Development of a Minimal Auxiliary Basis for the Particle--Particle Random Phase Approximation (ppRPA): Accelerating Excited-State Calculations in Diradical Nanoparticles and Periodic Systems",
+      "summary": "Singlet--triplet gaps set the energy scale of the two-spin manifold in molecular quantum information materials, and such systems frequently carry diradical character: metal nanocl\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14472v1",
-      "authors": "Jie Xiao, Zhao Wang, Chenghong Zhu"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18020v1",
+      "authors": "Yuchen Wang, Zhenyu Li"
     },
     {
       "title": "Instrumentation and Stabilization of Electric Arcs for Plasma Smelting Reduction",
@@ -474,28 +1210,28 @@
       "authors": "Thomas Voglhuber-Brunnmaier, Lukas Ecker, Benjamin Lehner"
     },
     {
-      "title": "Selective faceting induced by Hexagonal Boron Nitride on curved Platinum substrate",
-      "summary": "This work combines experimental investigations and first-principles calculations to study hexagonal boron nitride (hBN) growth on a curved Pt(331) substrate. Low-energy electron d\u2026",
+      "title": "H-DDCM: Hadamard Codebooks for Fast Generative Image and Video Compression",
+      "summary": "Training-free diffusion-based compression methods repurpose the generative priors of a diffusion or a flow model to compress data without retraining them as task-specific codecs.\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14825v1",
-      "authors": "Alaa Mohammed Idris Bakhit, Muhammad Saad Mahmood, Khadiza Ali"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18125v1",
+      "authors": "Or Ronai, Vladimir Kulikov, Tomer Michaeli"
     },
     {
-      "title": "Qualitative-to-quantitative regularity for degenerate equations",
-      "summary": "We establish a principle that converts qualitative regularity into uniform interior estimates for degenerate equations. For the $p$-Laplace equation, $p>2$, we prove that local $C\u2026",
+      "title": "Quantum Geometry and Pair Breaking in Intra- and Intervalley Superconductivity of Rhombohedral Graphene",
+      "summary": "The observation of superconductivity emerging from a spin- and valley-polarized normal state in rhombohedral graphene raises a basic puzzle: intravalley Cooper pairs involve state\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13137v1",
-      "authors": "Aelson Sobral, Eduardo V. Teixeira, Jos\u00e9 Miguel Urbano"
+      "date": "2026-10-10",
+      "link": "https://arxiv.org/abs/2610.14480v1",
+      "authors": "Louis Primeau, Yang Zhang, Shi-Zeng Lin"
     },
     {
-      "title": "Harmonic Reduction of Spin-Coupled Grover Walks on Hypercubes via Quantum Bernoulli Noises",
-      "summary": "We consider spin-coupled Grover walks on hypercubes within the framework of quantum Bernoulli noises (QBN). We identify parity-dependent harmonic subspaces generated by the centra\u2026",
+      "title": "Dynamical BEC formation and vanishing entropy for trapped bosons in non-relativistic QED via nonlinear resonance cascades",
+      "summary": "The dynamical formation of a complete Bose-Einstein condensate and the asymptotic purification of trapped bosons coupled to a quantized radiation field are rigorously established.\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14467v1",
-      "authors": "Ce Wang"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.17923v1",
+      "authors": "Thomas Chen, Ali Mezher"
     },
     {
       "title": "Net drag reduction in turbulent pipe flow by airfoil-section grids concentrated near the wall",
@@ -506,28 +1242,28 @@
       "authors": "Takuya Masuda"
     },
     {
-      "title": "Inverse Designing Reconfigurable Piezoelectric Tensors via Architectural and Modal Programming",
-      "summary": "Piezoelectricity arises from the coupling between electric polarization and mechanical deformation, described by a third-rank tensor whose coefficients are constrained by crystal\u2026",
+      "title": "Chirality Inversion and Giant Optical Activity in Scalable Self-Assembled Metamaterials",
+      "summary": "Chiral materials manipulate light in ways that hold promise for sensing, imaging, and photonics, but producing such materials with strong and reproducible optical activity at larg\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14761v1",
-      "authors": "Anish Satpati, Marco Maurizi, Hyunmoon Cho"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18116v1",
+      "authors": "Antonio Carone, Aso Rahimzadegan, Birg\u00fcl Kalkan"
     },
     {
-      "title": "Electron- and hole-doped superconductivity in two-dimensional electride ZrX$_2$ (X = Cl, Br, I)",
-      "summary": "Two-dimensional (2D) superconducting systems have recently emerged as a frontier in condensed matter physics, driven by their unique physical properties and potential applications\u2026",
+      "title": "Pre-pairing and polarization of doped charge carriers in unconventional superconductors",
+      "summary": "Based on first principles calculations, we show in hole-doped La2-xSrxCuO4, the Sr dopants prefer to form dimers, rather than be isolated as generally believed. Same trend applies\u2026",
       "source": "Superconductivity",
       "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13124v1",
-      "authors": "Tian-Xin Liu, Xin-Yang Li, Zuo-Wei Yin"
+      "link": "https://arxiv.org/abs/2610.14401v1",
+      "authors": "Lixin Zhang, Mengyan Nie, Yan Cheng"
     },
     {
-      "title": "Quantum-Fisher-information-aware optimization yields a quantum reservoir advantage over tuned classical reservoirs",
-      "summary": "We show that a quantum reservoir computer optimized with its quantum Fisher information (QFI) has a quantum advantage over a classical reservoir of equal readout cost, provided by\u2026",
+      "title": "Dynamics of low energy wave packets in the one-dimensional quantum Heisenberg ferromagnet",
+      "summary": "Spin wave theory plays a central role in the analysis of low-energy properties of the quantum ferromagnetic Heisenberg model. In this work, we present a first step towards a rigor\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14454v1",
-      "authors": "Phi Hung Nguyen, Daniel Soh"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.17883v1",
+      "authors": "Mateusz Kwa\u015bnicki, Marcin Napi\u00f3rkowski, S\u00f6ren Petrat"
     },
     {
       "title": "How Firm Should a Grasp Be?",
@@ -538,28 +1274,28 @@
       "authors": "Matthew Beveridge, Shree K. Nayar"
     },
     {
-      "title": "Unique Determination of the Lam\u00e9 Parameters in Three Dimensions",
-      "summary": "We prove that the full Dirichlet-to-Neumann map for static isotropic elasticity uniquely determines both smooth Lam\u00e9 parameters in a bounded smooth domain of \\(\\mathbb R^3\\) under\u2026",
+      "title": "Tellurium trioxide as an n-type wide-gap semiconductor with ultrahigh work functions from first principles",
+      "summary": "The exploration of next-generation wide-gap semiconductors with extreme work functions is highly desirable for the continued advancement of electronic and optoelectronic devices.\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14741v1",
-      "authors": "Huaian Diao, Umidjon Durdiev"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18076v1",
+      "authors": "Tianwei Wang, Teruya Nagafuji, Kota Hanzawa"
     },
     {
-      "title": "High-Throughput Discovery of Chiral Carbon-Boron Semimetals with Weyl Topology and Phonon-Mediated Superconductivity",
-      "summary": "Chiral crystals provide a natural platform for unconventional topological fermions, while light-element carbon--boron frameworks are promising for phonon-mediated superconductivit\u2026",
+      "title": "Experimental observation of Higgs oscillations and their power-law decay across pairing regimes in a cavity QED quantum simulator",
+      "summary": "Understanding how pairing correlations in superconductors evolve out of equilibrium is a central challenge in quantum many-body physics. In systems with $s$-wave pairing, the char\u2026",
       "source": "Superconductivity",
       "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.12965v1",
-      "authors": "Lizhou Yang, Wenneng Zhao, Ye Yang"
+      "link": "https://arxiv.org/abs/2610.14171v1",
+      "authors": "Chitose Maruko, Haoqing Zhang, Eliot A. Bohr"
     },
     {
-      "title": "Quadrature-detected zero-to-ultralow-field nuclear magnetic resonance",
-      "summary": "We present the concept of quadrature-detected zero-to-ultralow-field nuclear magnetic resonance (QD ZULF NMR). Two orthogonal sensors, atomic optically pumped magnetometers, are u\u2026",
+      "title": "Emergent Non-Biorthogonal Born Rule at Dynamical Quantum Phase Transitions",
+      "summary": "Non-Hermitian dynamics possesses distinct left and right eigenstates, but their normalization freedom obscures a direct probabilistic interpretation. Starting from a globally Herm\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14451v1",
-      "authors": "Anne M. Fabricant, Florin Teleanu, Adam Ortmeier"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.17855v1",
+      "authors": "Wei-Wei Yang, Henning Schomerus, Jiangping Hu"
     },
     {
       "title": "Voluntary nonpharmaceutical intervention as a feedback-evolving game",
@@ -570,28 +1306,28 @@
       "authors": "Ryuichi Kumata, Hiromu Ito, Masato Yamamichi"
     },
     {
-      "title": "UV-cured PVA-collagen co-network with staining-free photodynamic activity against chronic wound bacteria",
-      "summary": "Chronic wounds affect 1-2% of the global population and represent an unsustainable healthcare, financial and economic burden. Delayed healing is largely associated with bacterial\u2026",
+      "title": "Evolution of dense liquid marbles under light tapping",
+      "summary": "Liquid marbles interface is composed by a dense network of grains trapped by capillarity at their surface. The mix of capillarity and granular character make their interfaces rema\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14732v1",
-      "authors": "Nikitia Mexia, Charles Brooker, Giuseppe Tronci"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18074v1",
+      "authors": "Amaelle Sprocq, Th\u00e9o Dhoudain, Alexis Duchesne"
     },
     {
-      "title": "Nonlocal Josephson coupling and current redistribution in a large-area graphene multiterminal Josephson junction",
-      "summary": "Multiterminal Josephson junctions (MTJJs) extend conventional two-terminal Josephson physics to devices defined by multiple superconducting phases, where rich phenomena have been\u2026",
+      "title": "Enhanced analogue quantum computation with a logically-encoded XX gadget",
+      "summary": "The introduction of two-body XX interactions has been shown to improve the performance of quantum annealing in solving certain combinatorial optimisation problems and would enable\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.12753v1",
-      "authors": "Luojia Zhang, Kushagra Aggarwal, Jay D. Sau"
+      "date": "2026-10-09",
+      "link": "https://arxiv.org/abs/2610.13845v1",
+      "authors": "Robert J. Banks, Natasha Feinstein, Roopayan Ghosh"
     },
     {
-      "title": "Hyperpolarization-enabled cooperative molecular magnetic amplification",
-      "summary": "Detecting weak magnetic fields at hertz frequencies is central to biomagnetism, geophysical sensing, and searches for new physics, yet it remains challenging because of technical\u2026",
+      "title": "A Tutorial on Quantum Amplitude Embedding with Data Re-Uploading",
+      "summary": "Amplitude embedding lets a variational quantum model read many classical features with few qubits, but the model output is then only a quadratic form in the normalized input. Data\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14425v1",
-      "authors": "Jingyan Xu, Raphael Kircher, Min Jiang"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.17836v1",
+      "authors": "Hyojun Ahn, Joongheon Kim"
     },
     {
       "title": "Ceramic Materials: From Atomic Bonding and Processing to Microstructure, Functional Properties, and Biomedical Applications",
@@ -602,28 +1338,28 @@
       "authors": "Jairo Rondon, Juan Valera, Alex Velez Cruz"
     },
     {
-      "title": "Finite-temperature adiabatic-connection reduced density-matrix functional theory: a unified framework for i-DMFT and TAO-DFT",
-      "summary": "Accurately describing chemical bond breaking requires capturing strong/static electron correlation, a major challenge for single-reference self-consistent-field methods such as Ha\u2026",
+      "title": "Hydrogen partial pressure as a key parameter in the reactive sputtering of photochromic YHO thin films",
+      "summary": "Oxygen-containing yttrium hydride (YHO) thin films were synthesised by reactive magnetron sputtering over a wide range of hydrogen-to-argon gas flow ratios (H2/Ar) during yttrium\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14706v1",
-      "authors": "Jingang Han, Huanjing Gong, Kai Luo"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18068v1",
+      "authors": "E. Strods, M. Zubkins, E. Letko"
     },
     {
-      "title": "Search for free non-Abelian anyons in paired composite-fermion states",
-      "summary": "The even-denominator fractional quantum Hall (FQH) states, understood as topological superconductors of composite fermions, are predicted to support elementary quasiparticles (QPs\u2026",
+      "title": "A Hardware-Native Trapped-Ion Hybrid Qudit-Oscillator Instruction Set",
+      "summary": "Scaling trapped-ion processors by adding ions remains challenging. A complementary route exploits the multilevel internal structure of each ion to increase the computational Hilbe\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.12645v1",
-      "authors": "Mytraya Gattu, J. K. Jain"
+      "date": "2026-10-09",
+      "link": "https://arxiv.org/abs/2610.13843v1",
+      "authors": "Masoud Hakimi Heris, Yuan Liu, Frank Mueller"
     },
     {
-      "title": "Exponential Quantum Advantage in Stationary Signal Sensing",
-      "summary": "Sensing time-varying signals is essential for precision measurement and for characterizing fluctuations in physical systems. In this work, we show that quantum entanglement provid\u2026",
+      "title": "Broadening the reflection band of atomic mirrors by engineering the emitter-waveguide coupling",
+      "summary": "We theoretically investigate single-photon coherent transport through a finite waveguide quantum electrodynamics (QED) array with spatially modulated emitter-waveguide couplings.\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14424v1",
-      "authors": "Sojeong Park, Changhun Oh"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.17834v1",
+      "authors": "C. -Y. Lee, G. -D. Lin, H. H. Jen"
     },
     {
       "title": "From Digital Human Interactions to Physics-Based Humanoid Skills: Physics-Grounded Post-Training of Interaction Generators",
@@ -634,28 +1370,28 @@
       "authors": "Kerui Chen, Jianrong Zhang, Kai Lv"
     },
     {
-      "title": "Understanding Hidden Spatial Preferences in Bayesian Optimization",
-      "summary": "Bayesian optimization uses posterior uncertainty to decide where to explore, but this uncertainty is not spatially neutral. On bounded domains, Gaussian-process posterior variance\u2026",
+      "title": "Device Model Linking Singlet and Triplet Spin-State Properties to Organic Photovoltaic Device Characteristics",
+      "summary": "This work proposes an exciton-kinetics coupled drift-diffusion (EKDD) model that bridges device-level charge transport with singlet and triplet excited-state kinetics. State popul\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14696v1",
-      "authors": "Maria B\u00e5nkestad, Jens Sj\u00f6lund"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.18022v1",
+      "authors": "Jun Du, Liming Liu, Jun Yan"
     },
     {
-      "title": "Enhanced Coulomb pseudopotentials in high-pressure hydrides from first principles",
-      "summary": "In the Eliashberg theory of superconductivity, Coulomb interactions oppose the phonon-mediated attraction and suppress the superconducting critical temperature $T_{\\mathrm{c}}$. H\u2026",
+      "title": "Physics of stabilization and dynamic control of CW magnetrons for superconducting accelerators",
+      "summary": "Powerful CW magnetrons were suggested for feeding RF cavities of superconducting accelerators because they provide higher efficiency and lower RF power cost than the traditionally\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.12563v1",
-      "authors": "Kieran Bozier, Chris J. Pickard"
+      "date": "2026-10-09",
+      "link": "https://arxiv.org/abs/2610.13769v1",
+      "authors": "G. Kazakevich, R. P. Johnson, I. Gonin"
     },
     {
-      "title": "The GHZ Game in Black and White",
-      "summary": "We show that it is possible for three people to win the GHZ game with just the standard real valued misty state formalism, but each party will need to have two balls instead of on\u2026",
+      "title": "How many switches does two-Hamiltonian universality require?",
+      "summary": "Any pair of sufficiently generic Hamiltonians on $\\mathbb{C}^d$ generates the full unitary group, i.e., any $W\\in U(d)$ can be synthesized to arbitrary precision by alternating be\u2026",
       "source": "Quantum",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14411v1",
-      "authors": "Terry Rudolph, Tony Newton, Dan-Adrian German"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.17826v1",
+      "authors": "Matas Garbaravi\u010dius, Michael M. Wolf"
     },
     {
       "title": "How Good Is DFT for Solid-Liquid Interfaces? A Comparison With the Random-Phase Approximation for Water on Graphene",
@@ -666,28 +1402,20 @@
       "authors": "Xavier R. Advincula, Yair Litman, Jiuyang Shi"
     },
     {
-      "title": "Competition Domains Matter: Selective Head Globalization for Training-Free Sparse Attention in Video Diffusion Transformers",
-      "summary": "Training-free sparse attention is a practical route to efficient video diffusion transformer inference, yet existing methods typically fix the competition domain at each query row\u2026",
+      "title": "Knowledge-Guided Construction of Machine Learning Potentials for Reactive Behavior in Energetic Materials",
+      "summary": "Energetic materials involve multiple interactions, making reliable machine-learning potentials (MLPs) difficult to construct without extensive datasets. Here, we enhance the abili\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14672v1",
-      "authors": "Tiantian Liu, Meng Wan, Zhiqiang Liang"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.17987v1",
+      "authors": "Guanchen Dong, Huanrong Liu, Lin Wang"
     },
     {
-      "title": "TLS loss in superconducting resonators on epitaxial hBN thin films",
-      "summary": "The integration of low-loss dielectrics into superconducting circuits is of importance to the functionality of quantum computers and sensors. In this work, we fabricate and measur\u2026",
+      "title": "Anomaly induced transport in holographic superconductors",
+      "summary": "We investigate the anomaly-induced transport properties of a holographic superconductor exhibiting spontaneous symmetry breaking. The holographic model incorporates vector and axi\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.12556v1",
-      "authors": "J. Christiansen-Salameh, D. J. Temples, R. Linehan"
-    },
-    {
-      "title": "Competitive scaling of small-subsystem-optimization heuristics for LABS",
-      "summary": "The low autocorrelation binary sequences (LABS) problem, often formulated as a spin-lattice energy-minimization problem, is a combinatorial optimization problem with a very rugged\u2026",
-      "source": "Quantum",
       "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14361v1",
-      "authors": "Ginger E. Lau, Adil A. Gangat"
+      "link": "https://arxiv.org/abs/2610.13727v1",
+      "authors": "Ashis Tamang, Nishal Rai, Javier Esteban"
     },
     {
       "title": "Contact-Aware Imitation Learning Through Contact Factorization",
@@ -698,28 +1426,20 @@
       "authors": "Jiho Hong, Daeun Song, Sanghyun Kim"
     },
     {
-      "title": "Crossed Electric Spin Generation in Multilayers",
-      "summary": "We propose a crossed electric spin generation effect in multilayer structures. This effect combines the advantages of in-plane and gate electric fields for manipulating spin, and\u2026",
+      "title": "Direct view of exciton and carrier dynamics in twisted bilayer graphene",
+      "summary": "Twisted bilayer graphene (tBLG) on H-intercalated SiC (twist angle of $9 \\pm 1^{\\circ}$) is studied by position\\mbox{-}, time\\mbox{-}, and angle-resolved photoemission spectroscop\u2026",
       "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14668v1",
-      "authors": "Xukun Feng, Wei Du, Jin Cao"
+      "date": "2026-10-13",
+      "link": "https://arxiv.org/abs/2610.17984v1",
+      "authors": "Gianmarco Gatti, Anders S. Mortensen, Zhihao Jiang"
     },
     {
-      "title": "Pressure-induced double-dome superconductivity in doped kagome metal Cs(V0.86Ta0.14)3Sb5 without charge density wave",
-      "summary": "The vanadium-based kagome superconductor CsV$_3$Sb$_5$ exhibits an intricate interplay between charge density wave (CDW) and superconductivity (SC). Substituting Ta for V will sup\u2026",
+      "title": "Altermagnetic Control of Charge-4e Superconductivity",
+      "summary": "We present, to our knowledge, the first theoretical realization of an independent charge-4e phase in a two-dimensional classical array of conventional superconductors coupled thro\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.12257v1",
-      "authors": "Haochen Sun, Jing Wang, Deng Hu"
-    },
-    {
-      "title": "Separating entanglement at emission from femtoscopic correlations",
-      "summary": "We investigate how femtoscopic correlations modify the relation between the spin entanglement of emitted particle pairs and that of pairs selected at a given relative momentum. Fo\u2026",
-      "source": "Quantum",
       "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14358v1",
-      "authors": "Isaac Vida\u00f1a"
+      "link": "https://arxiv.org/abs/2610.13584v1",
+      "authors": "Yan-Guang Yue, Jie Lou, Yan Chen"
     },
     {
       "title": "Anaximander: Interactively Running Geospatial Deep Learning Models on Any Compute Backend",
@@ -730,28 +1450,12 @@
       "authors": "Satej S. Soman, Akram Zaytar, Girmaw A. Tadesse"
     },
     {
-      "title": "Can Synthetic UAV Benchmarks Be Trusted? Real-Synthetic Validation for UAV Model Selection",
-      "summary": "Synthetic UAV imagery can expand pre-deployment test evidence when task-specific Real data are scarce, but visual plausibility or semantic label alignment alone does not establish\u2026",
-      "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14647v1",
-      "authors": "Yuyi Zhi, Min Du, Bill Shi"
-    },
-    {
-      "title": "A quasiparticle-protected superconducting qubit",
-      "summary": "Superconducting quantum circuits underpin large-scale quantum processors and are increasingly interfaced with optical systems, yet they are vulnerable to quasiparticle poisoning f\u2026",
+      "title": "Modelling Josephson Junctions with Boundary Conditions: Towards High-Fidelity Models for Superconducting Qubits",
+      "summary": "Josephson junctions are the central nonlinear element of superconducting qubits, yet their standard description is reached through a chain of approximations. We propose a purely q\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.12227v1",
-      "authors": "Trond Hjerpekj\u00f8n Haug, Johan Kolvik, Joey Frey"
-    },
-    {
-      "title": "Quantum Signal Processing Phase Factorization via Logarithmic Derivatives",
-      "summary": "Quantum signal processing (QSP) requires the efficient computation of phase factors associated with a polynomial transformation. One existing stable factorization method avoids di\u2026",
-      "source": "Quantum",
       "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14259v1",
-      "authors": "Christopher Peng"
+      "link": "https://arxiv.org/abs/2610.13417v1",
+      "authors": "Luis Bueno Blanco, Juan Manuel P\u00e9rez-Pardo"
     },
     {
       "title": "REFIT: Recognize, Fix, and Test Wearable Sensor Placement Shifts without Labels",
@@ -762,28 +1466,12 @@
       "authors": "Bangxun Tang"
     },
     {
-      "title": "TagBO: LLM-Driven Task-Aware Graph Bayesian Optimization for Scientific Discovery",
-      "summary": "Mixed-variable optimization in scientific discovery often requires exploring large combinatorial spaces under costly experimental evaluations, making sample?efficient Bayesian opt\u2026",
-      "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14626v1",
-      "authors": "Xinzhe Yuan, Zimu Zeng, Zhuo Chen"
-    },
-    {
-      "title": "Field-resolved hierarchy of superconducting energy gaps in PdTe",
-      "summary": "Resolving how multiple superconducting energy scales evolve under magnetic field is important for distinguishing multiband, anisotropic, and surface-sensitive superconducting resp\u2026",
+      "title": "Graphene double quantum dot as a solid-state two-level system in the THz range",
+      "summary": "Matter-based two-level quantum systems are fundamental building blocks of quantum technologies, underpinning applications in quantum computing, simulation, communication, and sens\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.12075v1",
-      "authors": "Sangyun Lee, A. M. Donald, D. Duong"
-    },
-    {
-      "title": "Below-threshold execution of fault-tolerant ripple-carry addition on a trapped-ion quantum computer",
-      "summary": "We deploy a universal fault-tolerant quantum computing (FTQC) architecture based on error-detecting $[\\![8,3,2]\\!]$ and $[\\![4,2,2]\\!]$ codes on Quantinuum's Helios-1 trapped-ion\u2026",
-      "source": "Quantum",
       "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14202v1",
-      "authors": "Jacob S. Nelson, Andrew J. Landahl, Andrew D. Baczewski"
+      "link": "https://arxiv.org/abs/2610.13196v1",
+      "authors": "Alexis Wietzke, Solen Coeymans, Benjamin Hue"
     },
     {
       "title": "LBA-CBF: Rapidly Adaptive Safety Filters via Parallel Dynamics Inference",
@@ -794,28 +1482,12 @@
       "authors": "Maitham F. AL-Sunni, Timeea-Andreea Radu, Hassan Almubarak"
     },
     {
-      "title": "Enhancing Quasi-Two-Dimensional Electronic Structure in Bi2O2Se via Chlorine Substitution",
-      "summary": "Bismuth oxyselenide (Bi2O2Se) has emerged as a leading semiconductor candidate for next-generation electronics and quantum phenomena research. However, its strong ionic interlayer\u2026",
-      "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14619v1",
-      "authors": "Yong-Zhen Jiang, Qi-Xun Wen, Xiang Xu"
-    },
-    {
-      "title": "Electric and Heat Transport in One-Dimensional SNS Junctions with Energy-Dependent Transmission",
-      "summary": "We investigate the phase-independent dc components of the electric and heat currents through a one-dimensional superconductor-normal-metal-superconductor (SNS) junction subject to\u2026",
+      "title": "Equal-Spin local and nonlocal Andreev reflection in altermagnet/superconductor/altermagnet junction",
+      "summary": "We investigated the equal-spin Andreev reflection phenomenon in an altermagnet/super\\-conductor/altermagnet (AM/SC/AM) junction, focusing on the roles of the crystal orientation a\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.11713v1",
-      "authors": "Kai Tsutsumi, Shun Uchino"
-    },
-    {
-      "title": "Lifting an $[n,k,d]$ Binary Linear Code to an $[[n,k,d]]$ Quantum Stabilizer Code",
-      "summary": "The codeword stabilized (CWS) framework provides a systematic method for constructing quantum error correcting codes from a simple undirected graph and a classical code. When the\u2026",
-      "source": "Quantum",
       "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14192v1",
-      "authors": "Thamadathil Aswanth, Navin Kashyap"
+      "link": "https://arxiv.org/abs/2610.13193v1",
+      "authors": "Kai-Yi Lyu, Xing Wang, Yu-Xian Li"
     },
     {
       "title": "An associated model of Coulomb friction based on the real area of contact",
@@ -826,28 +1498,12 @@
       "authors": "Manon Thbaut, Laura De Lorenzis"
     },
     {
-      "title": "Maximal Axion Optical Chirality Enabled by Degenerate Quasibound States in the Continuum",
-      "summary": "Axion quasiparticles introduce magnetoelectric coupling in topological materials, yet their optical signatures are intrinsically weak, severely limiting experimental detection and\u2026",
-      "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14611v1",
-      "authors": "Chang-Yin Ji, Chong Wang, Jiafang Li"
-    },
-    {
-      "title": "Mode-selective electron-phonon coupling drives charge density waves in the kagome metals YRu$_3$Si$_2$ and LaRu$_3$Si$_2$",
-      "summary": "YRu$_3$Si$_2$ and LaRu$_3$Si$_2$ host the highest charge density wave (CDW) transition temperatures ever reported in kagome metals, $T_{\\mathrm{CDW}}\\approx 800$ and 400~K, with p\u2026",
+      "title": "Qualitative-to-quantitative regularity for degenerate equations",
+      "summary": "We establish a principle that converts qualitative regularity into uniform interior estimates for degenerate equations. For the $p$-Laplace equation, $p>2$, we prove that local $C\u2026",
       "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.11689v1",
-      "authors": "Wenqian Tu, Run Lv, Dingfu Shao"
-    },
-    {
-      "title": "Compass in the Mirror: Quantum Backpropagation with the Hopf Ansatz",
-      "summary": "A variational quantum state may have many control angles, and its complete gradient contains one derivative for each. The task is to turn access to selected derivatives into a sha\u2026",
-      "source": "Quantum",
       "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14177v1",
-      "authors": "Ruge Lin, Ranyiliu Chen"
+      "link": "https://arxiv.org/abs/2610.13137v1",
+      "authors": "Aelson Sobral, Eduardo V. Teixeira, Jos\u00e9 Miguel Urbano"
     },
     {
       "title": "Personalized Recommendations Without Inducing Congestion: Mitigating Disparities in the NYC High School Match",
@@ -856,694 +1512,6 @@
       "date": "2026-10-06",
       "link": "https://arxiv.org/abs/2610.08275v1",
       "authors": "Erica Chiang, Kenny Peng, Rebecca Lichtenstein"
-    },
-    {
-      "title": "A Fisher-Geometric Approach to Supercell Pair Distribution Function Refinement",
-      "summary": "Refining atomistic supercells against powder pair distribution functions (PDFs) requires optimizing many coupled atomic coordinates using a much smaller set of radial measurements\u2026",
-      "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14597v1",
-      "authors": "Dawei Wang"
-    },
-    {
-      "title": "Error-Corrected Memory and Logic on a Heavy-Hex Superconducting-Qubit Processor",
-      "summary": "Large quantum computations require high-fidelity error-corrected memory and fault-tolerant logical operations. To achieve these with superconducting circuits, quantum processors w\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.11658v1",
-      "authors": "Campbell K. McLauchlan, Georgia M. Nixon, Julien M. Drouet"
-    },
-    {
-      "title": "Categorifying Quantum Spin Systems",
-      "summary": "We develop a homotopical framework for understanding the space of quantum spin systems based on topological $n$-nets, which assign associative unital algebras to local regions in\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14165v1",
-      "authors": "Matthew Yu"
-    },
-    {
-      "title": "Building A Civic Tool for Community-Police Engagement to Adapt Neighborhood Policing",
-      "summary": "Data-driven policing often prioritizes incident records over residents' lived experiences. In the Baltic city of Riga, with a history of distrust and limited community-police enga\u2026",
-      "source": "Tribology",
-      "date": "2026-10-06",
-      "link": "https://arxiv.org/abs/2610.08212v1",
-      "authors": "Ravinithesh Reddy Annapureddy, Sta\u0146islavs \u0160eiko, Natalie Higham-James"
-    },
-    {
-      "title": "Tail Instability and Scale Control in Conditional Normalizing Flows for Treasury Yield-Curve Scenarios",
-      "summary": "A conditional normalizing flow can produce extreme scenarios even when its point forecasts appear reasonable. We compare two fitted models for daily Treasury yield changes at elev\u2026",
-      "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14584v1",
-      "authors": "Arin Mohanty"
-    },
-    {
-      "title": "Quickly extracting fidelity decay rates in random circuit benchmarking experiments",
-      "summary": "Randomized benchmarking (RB) with structured circuits is experimentally scalable, but gives biased short-depth fidelity estimates because incomplete ensemble mixing introduces tra\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.11540v1",
-      "authors": "Ake K\u00f6hne, Stavros Efthymiou, Joanna Majsak"
-    },
-    {
-      "title": "An entangling Hubbard quasiparticle collider on a digital quantum processor",
-      "summary": "Scattering of quasiparticles provides direct access to the interactions that govern strongly correlated systems. In this work, we realize the quasiparticle scattering experiment o\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13946v1",
-      "authors": "Chan Bin Bark, Hanbyul Kim, Yoonil Koo"
-    },
-    {
-      "title": "Attenuated in-context identification in time-series foundation models: diagnosis under counterfactual inputs and repair by synthetic forced-system fine-tuning",
-      "summary": "Covariate-aware time-series foundation models (TSFMs) promise training-free what-if answers for instrumented plants: the change in output that a different future input would cause\u2026",
-      "source": "Tribology",
-      "date": "2026-10-06",
-      "link": "https://arxiv.org/abs/2610.08118v1",
-      "authors": "Hong-In Won"
-    },
-    {
-      "title": "Exotic metallic phase in a heterotic Kondo lattice: violation of Luttinger's theorem and absence of Kondo gap",
-      "summary": "Fermi surface transformation accompanied by quantum phase transition is widely observed in correlated electron systems including heavy fermion materials and van der Waals quantum\u2026",
-      "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14556v1",
-      "authors": "Hanting Zhong, Shuxiang Yang, Chao Cao"
-    },
-    {
-      "title": "From band reconstruction to Bogoliubov dispersion: How dz2-band enhances iron-based superconductivity",
-      "summary": "Conventional understanding of iron-based superconductivity is usually established based on electronic bands at the Fermi level, leaving deeper bands overlooked as potential factor\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.11484v1",
-      "authors": "Jingming Yan, Shendong Su, Guihao Jia"
-    },
-    {
-      "title": "A Warped Born Rule Turns an Observer into a Maxwell's Demon",
-      "summary": "Quantum mechanics seems to be an incredibly delicate theory. Slight alterations to nearly any part of its structure can lead to huge qualitative differences and wildly unphysical\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13936v1",
-      "authors": "Olumakinde Ogunnaike"
-    },
-    {
-      "title": "Context-Conditioned Hamilton-Jacobi Reachability for Adaptive Safety Filtering",
-      "summary": "Hamilton-Jacobi reachability constructs safety certificates for specified dynamics and safety constraints, tying each certificate to the deployment context for which it is synthes\u2026",
-      "source": "Tribology",
-      "date": "2026-10-06",
-      "link": "https://arxiv.org/abs/2610.08115v1",
-      "authors": "Ali Fuat Sahin, Yunus Yazoglu, John Talbot"
-    },
-    {
-      "title": "DeepTelecom: A Differentiable Multimodal Framework for Channel Twinning in Dynamic Heterogeneous Wireless Environments",
-      "summary": "Large-scale multimodal data are a key enabler for integrating large generative artificial intelligence models into wireless networks. However, existing wireless datasets offer lim\u2026",
-      "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14545v1",
-      "authors": "Bohao Wang, Tianen Yuan, William Yen"
-    },
-    {
-      "title": "Quantitative Rules for Parallel Calibration and Drift-Resilient Maintenance of Large-Scale Superconducting Quantum Processors",
-      "summary": "As superconducting quantum processors scale toward hundreds of qubits, manual calibration becomes increasingly costly and difficult to sustain. Here we address two system-level fa\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.11477v1",
-      "authors": "Zhihao Wu, Kechengqi Zhu, Shichuan Xue"
-    },
-    {
-      "title": "A scalable sample-based quantum diagonalization solver for general Pauli-sum Hamiltonians",
-      "summary": "A scalable ground-state solver to be used in sample-based quantum diagonalization (SQD) is presented. The solver is built on JAX API, and is intended to be run on GPU platforms an\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13907v1",
-      "authors": "Yutaro Iiyama"
-    },
-    {
-      "title": "Frontstage Mediation Work: Invisible Work Bridging Gaps Between AI Decisions and User Expectations",
-      "summary": "Automated service systems increasingly generate algorithmic operational decisions that shape how services are delivered. However, these decisions reach end-users only through fron\u2026",
-      "source": "Tribology",
-      "date": "2026-10-06",
-      "link": "https://arxiv.org/abs/2610.08067v1",
-      "authors": "Yongjae Sohn, Daehyun Kwak, Jiyeon Amy Seo"
-    },
-    {
-      "title": "Learning Electron Density with Virtual Atoms for Transferable Atomistic Representations",
-      "summary": "Electron density is a fundamental quantity of electronic structure, yet most machine learning density models treat it solely as a reconstruction target and are developed separatel\u2026",
-      "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14521v1",
-      "authors": "Yuzhi Liu, Xinzijian Liu, Chengqian Zhang"
-    },
-    {
-      "title": "Strain-engineered long-distance supercurrent in an altermagnetic CrSb based-Josephson junction",
-      "summary": "Altermagnetic materials, characterized by vanishing net magnetization and momentum-dependent spin splitting, provide a unique platform for realizing unconventional superconducting\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.11341v1",
-      "authors": "Yifan Gao, Jin Yan, Junjie Wei"
-    },
-    {
-      "title": "Quantum Query Complexity of Maximum Degree and its Generalizations",
-      "summary": "We study the quantum query complexity of several basic graph problems. 1) We prove a tight $\u0398(n^{3/2})$ bound for finding a maximum-out-degree vertex in an $n$-vertex tournament,\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13906v1",
-      "authors": "Amin Shiraz Gilani, Nikhil S. Mande, Subhasree Patro"
-    },
-    {
-      "title": "ExoBridge: Learning a Bare Hand to Hand-Worn Exoskeleton Mapping through Human Limb Coupling",
-      "summary": "Human video offers a scalable source of experience for dexterous robot learning, but obtaining motion and tactile supervision while preserving bare hand interaction remains challe\u2026",
-      "source": "Tribology",
-      "date": "2026-10-06",
-      "link": "https://arxiv.org/abs/2610.07692v1",
-      "authors": "Ruitong Tian, Xianyao Li, Noah B. Wilson"
-    },
-    {
-      "title": "Copula Active Subspaces II: Error Decomposition, A Posteriori Estimation, and Sharpness of the Bounds",
-      "summary": "The Copula Active Subspaces (CAS) method of Part I estimates a non-Gaussian observation-noise density $\u03c0_{\\boldsymbol{n}}$ from residual samples. Its KL divergence $\\mathcal{D}_{\\\u2026",
-      "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14498v1",
-      "authors": "Joshua Chen, Peter Jan van Leeuwen"
-    },
-    {
-      "title": "High Efficiency in Large Supercurrent Rectification with Superconducting Coil",
-      "summary": "Superconducting diodes (SDs) are devices that rectify supercurrent through the difference in the superconducting critical current (Ic) between forward and reverse current directio\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.11259v1",
-      "authors": "Takumi Ichikawa, Daisuke Takegami, Gen Nishijima"
-    },
-    {
-      "title": "Maximally antiflat fixed-particle-number fermionic states",
-      "summary": "Fermionic Gaussian states are completely characterized by their two-point correlations, making the covariance matrix a natural reference for quantifying non-Gaussian structure. Mo\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13903v1",
-      "authors": "Rahul Gupta, Arya Haghighian, James D. Whitfield"
-    },
-    {
-      "title": "Belief-Informed Hybrid Control with Almost-Sure Target-Set Convergence",
-      "summary": "Controlling a hybrid system to a target set under parameter uncertainty can require informative actions that temporarily drive the system state away from the specified set. We pro\u2026",
-      "source": "Tribology",
-      "date": "2026-10-06",
-      "link": "https://arxiv.org/abs/2610.07674v1",
-      "authors": "Clinton Enwerem, Saleh Kemal, John S. Baras"
-    },
-    {
-      "title": "When Is a Reconciliation Break Real? A Temporal Correctness Contract for Streaming Financial Reconciliation",
-      "summary": "Reconciliation systems decide, continuously, whether money the ledger expected has arrived at the bank. On an asynchronous stream that decision is taken against partial evidence:\u2026",
-      "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14470v1",
-      "authors": "Abhishek Sharma"
-    },
-    {
-      "title": "Sub-MHz SWAP spectroscopy of two-level systems in superconducting qubits",
-      "summary": "An outstanding challenge in superconducting quantum circuits is mitigating loss from two-level system (TLS) defects. SWAP spectroscopy with flux-tunable qubits can detect individu\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.11125v1",
-      "authors": "Joaquin Minguzzi, John Clai Owens, Oskar Painter"
-    },
-    {
-      "title": "An Annealing-based Quantum Neural Network with Discrete Wavelet Transforms for Enhanced Air Pollution Nowcasting",
-      "summary": "Air pollution poses a significant threat to public health, exacerbated by the rapid industrialization and urbanization of modern society. While traditional deep learning offers pr\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13882v1",
-      "authors": "Otto Menegasso Pires, Andr\u00e9 Saimon, Daniela Herrmann"
-    },
-    {
-      "title": "Adapting a Latent Audio Diffusion Model to Historical Guqin Recordings: A Listening-Driven Case Study",
-      "summary": "We report a small-data case study in adapting a pretrained latent audio diffusion model to the guqin, the seven-string Chinese zither, aiming at an \"AI radio\" that plays guqin-sty\u2026",
-      "source": "Tribology",
-      "date": "2026-10-05",
-      "link": "https://arxiv.org/abs/2610.07486v1",
-      "authors": "Huanchen Cai"
-    },
-    {
-      "title": "Evaluating Bias in Chinese Large Language Models across Tasks and Registers: Task Operationalization Effects and Irony Classification Risks",
-      "summary": "In Chinese content governance, large language models are increasingly used to identify toxic and discriminatory expressions, yet both task operationalization and ironic expression\u2026",
-      "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14464v1",
-      "authors": "Mo Zhou"
-    },
-    {
-      "title": "Quantum Simulation of a Hyperbolically Driven Quantum System with Superconducting Circuits",
-      "summary": "Hyperbolic geometry hosts a plethora of exotic quantum phenomena ranging from holographic duality to novel topological phases. However, investigating these effects experimentally\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.11081v1",
-      "authors": "Han-xin Che, Yangyang Yu, Tao Zhang"
-    },
-    {
-      "title": "Bicycle Race: small two-block codes on the Pareto frontier",
-      "summary": "Two-block group-algebra codes are among the simplest quantum LDPC codes, and many of them are translation invariant on a twisted torus, which suits neutral-atom arrays and other p\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13880v1",
-      "authors": "Gideon Lee"
-    },
-    {
-      "title": "Dynamics Modeling of a Multi-UAV Slung Load System Using a Discrete-Link Cable Approach",
-      "summary": "A common assumption to simplify the problem of controlling a multi-UAV slung load system (MUSLS) is that the flexible cables can be modeled as massless rigid rods. In this work, w\u2026",
-      "source": "Tribology",
-      "date": "2026-10-05",
-      "link": "https://arxiv.org/abs/2610.07456v1",
-      "authors": "Harvey Merton, Ian W. Hunter"
-    },
-    {
-      "title": "Fluctuation-based evaluation of thermal conductivity using deviational phonon Monte Carlo simulations",
-      "summary": "We develop a fluctuation based Monte Carlo method for evaluating thermal conductivity within the phonon Boltzmann transport equation (BTE) framework. Starting from the energy base\u2026",
-      "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14433v1",
-      "authors": "Takuma Hori, Yuzuho Oki"
-    },
-    {
-      "title": "Analog quantum simulation of $\u03c6^4$ field theory with a superconducting transmission line",
-      "summary": "Understanding the dynamics of interacting quantum fields remains a fundamental challenge. We propose a superconducting transmission line for analog quantum simulation of $(1+1)$-d\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-08",
-      "link": "https://arxiv.org/abs/2610.11071v1",
-      "authors": "Ilan T. Rosen, Neill C. Warrington, Max Hays"
-    },
-    {
-      "title": "GPU-Based Parallel BP Decoding for Quantum LDPC Memory",
-      "summary": "Quantum low-density parity-check (qLDPC) decoding requires reliable corrections and low latency over long syndrome histories. We extend BP-SF, an oscillation-guided belief-propaga\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13879v1",
-      "authors": "Ming Wang, Yanbo Zhao, Ang Li"
-    },
-    {
-      "title": "Mechanics of a Model Frictional Knitted Fabric",
-      "summary": "We present a study of the shapes and mechanical properties of a knitted loop made of elastic and frictional yarns. First, for non-frictional yarns, we investigate how the elastic\u2026",
-      "source": "Tribology",
-      "date": "2026-10-05",
-      "link": "https://arxiv.org/abs/2610.07372v1",
-      "authors": "Laura Michel, Antoine Faulconnier, Audrey Steinberger"
-    },
-    {
-      "title": "Large Out-of-plane Polarization in Two-dimensional Bi2O3 Monolayers Predicted by an AI-driven Inverse-design Workflow",
-      "summary": "Two-dimensional (2D) polar oxides with built-in electric fields offer promising opportunities for nanoscale electronics, optoelectronics, and surface charge engineering. However,\u2026",
-      "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14429v1",
-      "authors": "Hongmei Tan, Jing Zhang, Shan Gao"
-    },
-    {
-      "title": "Amplitude mode in Eliashberg superconductors",
-      "summary": "In the BCS theory of superconductivity the amplitude (Higgs) mode is degenerate with the pair-breaking threshold: its frequency coincides with $2\u0394$, so it is an edge singularity r\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-07",
-      "link": "https://arxiv.org/abs/2610.10826v1",
-      "authors": "Maxim Dzero, Emil A. Yuzbashyan"
-    },
-    {
-      "title": "No advantage from classical assistance for energy-constrained bosonic dephasing channels",
-      "summary": "We prove that four capacities of single-mode bosonic dephasing channels coincide under an average photon-number constraint: the unassisted quantum capacity, the unassisted private\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13854v1",
-      "authors": "Amir Arqand, Graeme Smith"
-    },
-    {
-      "title": "Disentangling the assembly of the central and diffuse stellar components in galaxy clusters through dynamical friction and tidal stripping",
-      "summary": "In galaxy clusters, it is common to conceptually distinguish the central, brightest cluster galaxy (BCG) from the more diffuse intracluster light (ICL). So far, however, this dist\u2026",
-      "source": "Tribology",
-      "date": "2026-10-05",
-      "link": "https://arxiv.org/abs/2610.06660v1",
-      "authors": "Frazer R. Pearce, Steven P. Bamford, Garreth Martin"
-    },
-    {
-      "title": "Transport kinetics in excitonic Mott insulator",
-      "summary": "Indirect excitons (IXs) in a periodic moir\u00e9 potential in a van der Waals heterostructure form an experimental platform for exploring Bose-Hubbard physics, including the superfluid\u2026",
-      "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14426v1",
-      "authors": "W. J. Brunner, Zhiwen Zhou, Luc M. Nguyen"
-    },
-    {
-      "title": "Supercurrent as a bulk probe for topological phase",
-      "summary": "Distinguishing trivial from topological superconducting phase remains a central and contested experimental challenge, since most existing probes infer the bulk phase transition in\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-07",
-      "link": "https://arxiv.org/abs/2610.10814v1",
-      "authors": "Tatiana de Picoli, Ian Wojtowicz, Jukka I. Vayrynen"
-    },
-    {
-      "title": "QTestBench: A Test Framework for Evaluating LLM-Generated Quantum Code",
-      "summary": "Large language models (LLMs) have shown strong results in classical code generation and are increasingly used to write the unit tests that safeguard that code. Whether they can do\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13811v1",
-      "authors": "Meriem Terki, Nouhaila Innan, Minghao Shao"
-    },
-    {
-      "title": "Note on the Exponential Stability of the Viscoelastic Wave Equation",
-      "summary": "In this article, we study the viscoelastic wave equation with a localized history memory term, and without frictional damping. Under the geometric control condition on the memory\u2026",
-      "source": "Tribology",
-      "date": "2026-10-05",
-      "link": "https://arxiv.org/abs/2610.06281v1",
-      "authors": "Ludovick Gagnon"
-    },
-    {
-      "title": "HoldSpec: A Machine-Checked Model and Conformance Suite for the Payment Authorization Hold Lifecycle",
-      "summary": "When a merchant authorizes a card and captures the funds later, the money sits in a state that neither party fully controls: held on the cardholder's account, not yet taken, and d\u2026",
-      "source": "Materials science",
-      "date": "2026-10-10",
-      "link": "https://arxiv.org/abs/2610.14419v1",
-      "authors": "Abhishek Sharma"
-    },
-    {
-      "title": "Scaling Quantum Optimization to the Thousand-Qubit Scale with Distributed Quantum Sampling",
-      "summary": "The Minimum Birkhoff Decomposition (MBD) seeks a sparse weighted sum of matchings and is a challenging optimization problem with applications in network scheduling and energy trad\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-07",
-      "link": "https://arxiv.org/abs/2610.10772v1",
-      "authors": "Amana Liaqat, Ahmed Darwish, Stephen DiAdamo"
-    },
-    {
-      "title": "Diversity-Aware Ensemble of Quantum-Classical Models via Combinatorial Fusion",
-      "summary": "Variational quantum circuits (VQCs) are highly sensitive to circuit architecture, yet most quantum machine learning pipelines select a single best design and discard the remaining\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13808v1",
-      "authors": "Jingyan Xu, Yuanhong Wu, Samuel Yen-Chi Chen"
-    },
-    {
-      "title": "Towards an Earpiece for Wearable and Dry Ultrasonic Vagus Nerve Stimulation",
-      "summary": "Ultrasound (US)-based auricular vagus nerve stimulation (aVNS) is emerging as a versatile, noninvasive modality for neuromodulation - spanning clinical therapies (e.g., pain manag\u2026",
-      "source": "Tribology",
-      "date": "2026-10-05",
-      "link": "https://arxiv.org/abs/2610.06263v1",
-      "authors": "Sebastian Frey, Farouk Ghezraoui, Marc N\u00f6lke"
-    },
-    {
-      "title": "Atoms that Matter: Largest Materials Datasets Are 99% Redundant, and Local Chemistry Can Guide the Required 1%",
-      "summary": "General-purpose machine-learning force fields (MLFFs) for materials are now trained on the order of $100$ million structures, assuming transferability requires such scale. We test\u2026",
-      "source": "Materials science",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14392v1",
-      "authors": "Evgeny Moerman, Igor Poltavsky, Anton Charkin-Gorbulin"
-    },
-    {
-      "title": "Microwave Loss in Low-Temperature ICPCVD Silicon Nitride: Dependence on Precursor Ratio and RF Substrate Bias",
-      "summary": "Low-loss dielectric films are an important component of superconducting circuits with applications ranging from quantum information to superconducting detectors for astrophysics.\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-07",
-      "link": "https://arxiv.org/abs/2610.10767v1",
-      "authors": "H. Athreya, J. Cornelison, M. Mikhailov"
-    },
-    {
-      "title": "Replica Transition at Measurement-Altered Ising Criticality",
-      "summary": "Performing measurements on gapless quantum ground states can give rise to new universal phenomena, whose origins remain poorly understood even for the paradigmatic Ising critical\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13802v1",
-      "authors": "Kabir Khanna, Sara Murciano, Romain Vasseur"
-    },
-    {
-      "title": "Parameter Estimation in Machining Dynamics with Regenerative Delay and Nonsmooth Friction using Physics-Informed Neural Networks",
-      "summary": "A multi-domain eXtended Physics-Informed Neural Network (XPINN) framework is developed for nonsmooth Delay Differential Equations (DDEs). This is the first implementation to demon\u2026",
-      "source": "Tribology",
-      "date": "2026-10-05",
-      "link": "https://arxiv.org/abs/2610.06230v1",
-      "authors": "Meiyazhagan Jaganathan, Vikram Pakrashi, Aasifa Rounak"
-    },
-    {
-      "title": "Direct Observation of Chirality-Dependent Berry Curvature Dipole via Cross-Axial Nonlinear Hall Effect in Trigonal Te",
-      "summary": "Quantum geometric quantities, such as Berry curvature (BC) and quantum metric, are known to govern the physical and topological properties of materials, making access to these qua\u2026",
-      "source": "Materials science",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14367v1",
-      "authors": "Jaehyun Lee, Junhee Shin, Daryll J. C. Dalayoan"
-    },
-    {
-      "title": "Quantum jumps of sound",
-      "summary": "Quantum mechanics predicts that a vibrating object's energy comes in discrete packets, yet no measurement of its position reveals this discreteness. Resolving individual energy le\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-07",
-      "link": "https://arxiv.org/abs/2610.10714v1",
-      "authors": "Takuma Makihara, Erik Szakiel, Matthew P. Maksymowych"
-    },
-    {
-      "title": "Locality-Preparation Time Tradeoffs in Dissipative Quantum Systems",
-      "summary": "Dissipative state preparation engineers quantum many-body states as steady states of an open-system dynamics. The spatial range of the required dissipation sets both the feasibili\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13784v1",
-      "authors": "Philipp Westhoff, Sara Murciano, Mattia Moroder"
-    },
-    {
-      "title": "Gravitational-wave background from supermassive black holes without merger trees: Tidally regulated mergers and direct inference from the NANOGrav 15 yr data",
-      "summary": "We present a semi-analytic framework that computes the gravitational-wave background (GWB) from supermassive black hole (SMBH) binaries by direct integration of an $N$-body-recali\u2026",
-      "source": "Tribology",
-      "date": "2026-10-05",
-      "link": "https://arxiv.org/abs/2610.06220v1",
-      "authors": "Shin'ichiro Ando"
-    },
-    {
-      "title": "A Solution-Processed Ti/Pt/NiOx/Ag RRAM Device with Multiple Forming-Free Non-Volatile Intermediate States",
-      "summary": "Artificial neural networks (ANN) implemented on crossbar arrays of non-volatile synaptic devices are known to consume much less energy compared to that implemented on conventional\u2026",
-      "source": "Materials science",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14322v1",
-      "authors": "Abhrajit Roy, Chopali Chanchal Sahu, Rudraksh Sangore"
-    },
-    {
-      "title": "Cooper Instability of a Magnetic Wigner Crystal",
-      "summary": "Recent scanning tunneling microscopy has directly imaged electronic crystals in rhombohedral hexalayer graphene, and magnetotransport measurements suggest that superconductivity a\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-07",
-      "link": "https://arxiv.org/abs/2610.10710v1",
-      "authors": "Wangqian Miao, Chunli Huang"
-    },
-    {
-      "title": "Dynamical Lie Algebras for Fixed-Gate Quantum Ans\u00e4tze",
-      "summary": "Parameterized Quantum Circuits have emerged as a central framework for variational quantum algorithms in the NISQ regime, with major applications in quantum simulation, combinator\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13709v1",
-      "authors": "Orlane Zang, Daniel Juteau, Tony Quertier"
-    },
-    {
-      "title": "Translational and rotational irreversibility in cyclically sheared colloidal suspensions",
-      "summary": "We investigate the translational and rotational dynamics of cyclically sheared suspensions over a broad range of particle concentrations. The transition to an irreversible state i\u2026",
-      "source": "Tribology",
-      "date": "2026-10-05",
-      "link": "https://arxiv.org/abs/2610.06172v1",
-      "authors": "Austin H. Walker, Jeffrey S. Urbach, Daniel L. Blair"
-    },
-    {
-      "title": "Establishing the role of thickness in LaOBr; an alternative gate dielectric for vdW heterostructures",
-      "summary": "In electronic devices, the quality of the dielectric material is determined by figures of merit such as the band gap, leakage onset field, breakdown field and the number of built-\u2026",
-      "source": "Materials science",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14272v1",
-      "authors": "Isaac Antoine Lagaud, Justin Boddison-Chouinard, Antoine Labb\u00e9"
-    },
-    {
-      "title": "Theory of Topologically Ordered Superfluids in 2+1 Dimensions",
-      "summary": "Topologically ordered superfluids (TOSFs) support deconfined, gapped anyonic excitations while remaining gapless because of Goldstone modes. We develop a general framework for cha\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-07",
-      "link": "https://arxiv.org/abs/2610.10668v1",
-      "authors": "Chao-Ming Jian"
-    },
-    {
-      "title": "QTN-RQNN: Quantum Tensor Network-Based Recurrent Quantum Neural Network",
-      "summary": "Resource constraints and imperfect quantum operations remain major challenges for quantum machine learning (QML) on noisy intermediate-scale quantum (NISQ) devices, particularly f\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13694v1",
-      "authors": "Amit S. Patel, Himanshu R. Patel, Bikash K. Behera"
-    },
-    {
-      "title": "Integrating Survival-Based Aging Models with Data-Driven RUL Prognostics",
-      "summary": "Predictive maintenance requires reliable remaining useful life (RUL) estimation. Existing methods mainly follow two paradigms: wear-based aging models that capture cumulative degr\u2026",
-      "source": "Tribology",
-      "date": "2026-10-05",
-      "link": "https://arxiv.org/abs/2610.06128v1",
-      "authors": "Abhishek Srinivasan, Juan Carlos Andresen, Sepideh Pashami"
-    },
-    {
-      "title": "Large-Scale Data Center Integration in Power Systems: Uncertainty and Multi-Scale Variation",
-      "summary": "Hyperscale artificial intelligence (AI) data centers are emerging as a structurally new class of electricity demand. Unlike conventional loads, they materialize as spatially conce\u2026",
-      "source": "Materials science",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14264v1",
-      "authors": "Le Xie, Dongjoo Kim, Qian Zhang"
-    },
-    {
-      "title": "SC$^\\sharp$: superconductivity intertwined with topological order",
-      "summary": "Superconductivity and intrinsic topological order can intertwine in ways that go beyond simple coexistence. Here we develop a classification framework for (2+1)D gapped supercondu\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-07",
-      "link": "https://arxiv.org/abs/2610.10679v1",
-      "authors": "Zhi-Qiang Gao, Yan-Qi Wang, Hui Yang"
-    },
-    {
-      "title": "Judd-Ofelt analysis and coherent spectroscopy of europium-based molecular complexes for quantum information applications",
-      "summary": "Rare-earth-ion based molecular crystals are emerging as a promising platform for quantum information applications, combining long optical coherence times with the chemical tunabil\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13664v1",
-      "authors": "Nicholas Lester Jobbitt, Sascha Weis, Timo Schweizer"
-    },
-    {
-      "title": "Do VLAs Understand and Adapt to the Objects They Handle, or Simply Replay Learned Behaviors?",
-      "summary": "This paper asks whether VLA generalization is grounded in a global understanding of objects' physical properties that enables policies to adapt their motion to unseen setups, or i\u2026",
-      "source": "Tribology",
-      "date": "2026-10-05",
-      "link": "https://arxiv.org/abs/2610.06078v1",
-      "authors": "Xinnuo Xu"
-    },
-    {
-      "title": "Mn--Cr dopant association in dilute co-doped $\\mathrm{ZnAl_2O_4}$ revealed by combined EPR and optical spectroscopy",
-      "summary": "Efficient and durable phosphors made from abundant elements underpin energy-saving solid-state lighting, near-infrared light sources for sensing, and X-ray and biomedical imaging.\u2026",
-      "source": "Materials science",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14262v1",
-      "authors": "Apoko S. Omondi, M\u00e1ty\u00e1s M. Rudolf, Nikoletta Jegeny\u00e9s"
-    },
-    {
-      "title": "Black hole radial geometry from a quantum spin chain",
-      "summary": "We show that the radial differential equation for a scalar field in an anti-de Sitter black brane background can be encoded in an exactly solvable semi-infinite spin chain indepen\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-07",
-      "link": "https://arxiv.org/abs/2610.10504v1",
-      "authors": "Boris A. Khanikati"
-    },
-    {
-      "title": "Finite-Size Limits of Adaptive Pauli Prediction",
-      "summary": "Can quantum data reliably answer questions chosen from earlier results? We prove that $M$ adaptive Pauli predictions on $n$ qubits require $\u03a9(\\sqrt{\\min\\{n,M\\}})$ copies at fixed\u2026",
-      "source": "Quantum",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.13652v1",
-      "authors": "Luofei Wang, Boyu Liu, Zihe Wang"
-    },
-    {
-      "title": "A semi-infinite hydraulic fracture propagating in a poroelastic medium",
-      "summary": "We solve the near-tip coupled hydromechanical problem of a hydraulic fracture propagating in a permeable poroelastic medium, represented locally as a semi-infinite crack moving at\u2026",
-      "source": "Tribology",
-      "date": "2026-10-05",
-      "link": "https://arxiv.org/abs/2610.14049v1",
-      "authors": "Evgenii Kanin, Andreas M\u00f6ri, Dmitry Garagash"
-    },
-    {
-      "title": "Partitioning the magnetization raises the stability limit of ferromagnetic colloids",
-      "summary": "Magnetic actuation scales with a particle's magnetic moment, yet practical colloidal suspensions remain superparamagnetic or weakly magnetized, a permanent dipole drives a near co\u2026",
-      "source": "Materials science",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14247v1",
-      "authors": "Paramita Modak, Priyadharshini M, Ankur Jaiswar"
-    },
-    {
-      "title": "Standard estimators cannot represent fault-tolerant workloads at measured error rates: evaluated, evidence-based uncertainty for quantum resource estimation",
-      "summary": "Estimates of the quantum resources needed to run fault-tolerant algorithms are almost always reported as single numbers, even though they rest on uncertain hardware parameters and\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-07",
-      "link": "https://arxiv.org/abs/2610.10490v1",
-      "authors": "Furqan Nasir, Sher Jeel Ahmad"
-    },
-    {
-      "title": "Non-invasive Seizure Detection Using Wearable Wrist-worn Accelerometry and Deep Learning",
-      "summary": "Seizure monitoring and detection are crucial for reducing the morbidity and mortality associated with seizures. Current epilepsy care, often involving expensive video-electroencep\u2026",
-      "source": "Tribology",
-      "date": "2026-10-05",
-      "link": "https://arxiv.org/abs/2610.05919v1",
-      "authors": "Nilushika Udayangani Hewa Dehigahawattage, Kishor Nandakishor, Marimuthu Palaniswami"
-    },
-    {
-      "title": "Benchmarking machine-learning interatomic potentials using classical force fields",
-      "summary": "We propose a rational comparison between several well-known machine-learning interatomic potentials (linear atomic cluster expansion, the Behler-Parrinello high-dimensional neural\u2026",
-      "source": "Materials science",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14239v1",
-      "authors": "Johannes Sandberg, Genevi\u00e8ve Dusson, Julien Lam"
-    },
-    {
-      "title": "Correlating DC SQUID Performance with the Location of Trapped Magnetic Flux Using Scanning SQUID Microscopy",
-      "summary": "Holes in the ground planes of superconducting circuits, commonly referred to as moats, are known to be an effective means of mitigating the deleterious effects of residual magneti\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-07",
-      "link": "https://arxiv.org/abs/2610.10442v1",
-      "authors": "Bochao Xu, Ian W. Haygood, Kyle Jackman"
-    },
-    {
-      "title": "Vision-enabled detection of safety helmet compliance in construction zones",
-      "summary": "In the rapidly evolving field of construction management, worker safety remains a top priority. This paper introduces an innovative vision-based system for real-time detection of\u2026",
-      "source": "Tribology",
-      "date": "2026-10-05",
-      "link": "https://arxiv.org/abs/2610.05756v1",
-      "authors": "Tri Nhut Do*, Ba Loc Pham"
-    },
-    {
-      "title": "Emergence of quantum transport in SnTe films upon structural refinement",
-      "summary": "Topological crystalline insulators are distinguished from the conventional Z2 topological insulators by crystalline symmetry protection of the surface states. Quantitative charact\u2026",
-      "source": "Materials science",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14233v1",
-      "authors": "Shrinkhala Sharma, Rabindra Basnet, Thomas Parker"
-    },
-    {
-      "title": "Dynamically protected erasure qubit via low-frequency charge driving",
-      "summary": "Dynamical protection via strong driving can enable resilient quantum processing on imperfect physical hardware. However, the practical utility of such schemes is frequently limite\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-07",
-      "link": "https://arxiv.org/abs/2610.10432v1",
-      "authors": "Ahmed Hajr, Ke Wang, Bingcheng Qing"
-    },
-    {
-      "title": "SCOUT: Supply-Aware Cold-Start Proactive Query Suggestion for Travel Search",
-      "summary": "Generative query suggestion, powered by Large Language Models (LLMs), has become increasingly popular in search and conversational systems to reduce user friction and guide intent\u2026",
-      "source": "Tribology",
-      "date": "2026-10-04",
-      "link": "https://arxiv.org/abs/2610.05619v1",
-      "authors": "Hao Li, Shashank Reddy, Kedar Bellare"
-    },
-    {
-      "title": "Speech event detector: Timestamped detection of non-verbal vocalizations and background sounds for rich speech transcription",
-      "summary": "Automatic speech recognition produces words but drops the non-verbal content of a recording: the breaths, coughs, sighs and laughter of the speaker, and the horns, music or barkin\u2026",
-      "source": "Materials science",
-      "date": "2026-10-09",
-      "link": "https://arxiv.org/abs/2610.14232v1",
-      "authors": "Ayush Kumar Bar, Promila Ghosh"
-    },
-    {
-      "title": "A Superfluid at All Temperatures",
-      "summary": "We construct unitary, local, 3+1-dimensional conformal field theories with finitely many fields whose thermal state breaks a continuous global symmetry at every temperature. They\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-07",
-      "link": "https://arxiv.org/abs/2610.10169v1",
-      "authors": "Sven Harder, Adar Sharon"
-    },
-    {
-      "title": "Poisson-GENERIC Neural Operators: Exact Metriplectic Structure in Function Space via Casimir Entropies",
-      "summary": "Existing thermodynamically consistent neural operators impose the GENERIC degeneracy conditions by projecting the reversible operator onto the complement of the entropy gradient.\u2026",
-      "source": "Tribology",
-      "date": "2026-10-04",
-      "link": "https://arxiv.org/abs/2610.05570v1",
-      "authors": "Jason Sulskis, Sathya Ravi"
-    },
-    {
-      "title": "Topological and kinetic origins of fractional thermal conductance at the topological insulator--superconductor interface",
-      "summary": "A recent experiment by Roy et al. (Nat. Commun. 17, 2853 (2026)) demonstrated a robust half-integer thermal conductance plateau, \u03ba_0 T/2, at a bipolar (\u03bd,\u03bd')=(2,-1) junction in bi\u2026",
-      "source": "Superconductivity",
-      "date": "2026-10-07",
-      "link": "https://arxiv.org/abs/2610.10011v1",
-      "authors": "Laurence A. Jacobs, Guillermo R. Zemba"
-    },
-    {
-      "title": "The Global Existence and Energy Decay of a Partially Logarithmically Damped Wave System",
-      "summary": "We investigate the global existence and energy decay properties of a weakly coupled evolution system consisting of two wave equations in a bounded domain. The system exhibits a un\u2026",
-      "source": "Tribology",
-      "date": "2026-10-04",
-      "link": "https://arxiv.org/abs/2610.05268v1",
-      "authors": "Salim A. Messaoudi, Suleyman Ulusoy"
     }
   ],
   "errors": [],
@@ -1554,5 +1522,5 @@
     "Materials science": 50
   },
   "sourceTotal": 4,
-  "itemTotal": 193
+  "itemTotal": 189
 }
